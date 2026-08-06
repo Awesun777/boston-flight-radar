@@ -176,7 +176,9 @@ main.wrap { padding-top: 28px; padding-bottom: 60px; }
 .card-hero {
   position: relative;
   margin: -16px -18px 14px;
-  aspect-ratio: 16 / 9;
+  /* Wider than 16:9 on desktop — at the card's 880px width a full 16:9 hero is
+   * ~half the viewport, and five of them turn the feed into a slideshow. */
+  aspect-ratio: 5 / 2;
   overflow: hidden;
   border-radius: calc(var(--radius) - 3px) var(--radius) 0 0;
   background: var(--bg-elev);
@@ -293,6 +295,7 @@ main.wrap { padding-top: 28px; padding-bottom: 60px; }
 .footer-sep { color: var(--border); }
 
 @media (max-width: 720px) {
+  .card-hero { aspect-ratio: 16 / 10; }
   .topbar { flex-wrap: wrap; gap: 10px; }
   .topbar-right { width: 100%; justify-content: flex-start; }
   .search { flex: 1 1 140px; }
