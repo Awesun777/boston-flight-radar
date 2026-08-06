@@ -167,6 +167,47 @@ main.wrap { padding-top: 28px; padding-bottom: 60px; }
 }
 .card-body { flex: 1; min-width: 0; }
 .card-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+.card-meta[hidden] { display: none; }
+
+/* ─── Hero photo ─────────────────────────────────────────────────────────────
+ * The destination photo bleeds to the card edges (negative margins against the
+ * card's own padding) and carries the rank/price badges on a bottom gradient,
+ * so the money number stays the first thing read even on top of a busy image. */
+.card-hero {
+  position: relative;
+  margin: -16px -18px 14px;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: calc(var(--radius) - 3px) var(--radius) 0 0;
+  background: var(--bg-elev);
+}
+.card-hero img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.card-hero::after {
+  content: "";
+  position: absolute; inset: 55% 0 0 0;
+  background: linear-gradient(transparent, rgb(20 20 20 / 0.62));
+  pointer-events: none;
+}
+.hero-badges {
+  position: absolute; left: 14px; right: 14px; bottom: 12px;
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  z-index: 1;
+}
+/* On the photo the tinted chip fills would vanish — solid fills instead. */
+.hero-badges .rank-badge { background: rgb(255 248 237 / 0.92); border-color: transparent; }
+.hero-badges .price-badge { background: #FFFFFF; box-shadow: 0 1px 6px rgb(0 0 0 / 0.25); }
+.hero-badges .nonstop-badge { background: rgb(255 248 237 / 0.92); }
+.hero-badges .result-date-badge { background: rgb(255 248 237 / 0.92); }
+.hero-credit {
+  position: absolute; right: 8px; top: 8px;
+  font-size: 10px; color: rgb(255 255 255 / 0.85);
+  background: rgb(0 0 0 / 0.35);
+  padding: 1px 6px; border-radius: 5px;
+  z-index: 1;
+}
+
+.video-wrap { margin-top: 6px; border-radius: 10px; overflow: hidden; border: 1px solid var(--border-soft); aspect-ratio: 16 / 9; background: #000; }
+.video-wrap iframe { width: 100%; height: 100%; border: 0; display: block; }
 
 .rank-badge {
   font-size: 12px; font-weight: 800;

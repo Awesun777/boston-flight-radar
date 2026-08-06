@@ -37,6 +37,20 @@ Ranking is **price-first with a park/solo boost**: start from the cheapest verif
 
 A $79 fare to a dull layover city should still generally beat a $250 fare to a park gateway — the boost breaks ties and near-ties; it does not override price. Exactly 5 deals; if genuinely fewer verified fares exist, publish fewer rather than padding with guesses.
 
+## Step 3b — Media (photo + video) for each destination
+
+Each card renders a hero photo and, inside the guide, a travel video. Fetch both per destination — but **omit rather than fabricate**: the UI handles missing fields gracefully, and a made-up URL renders as a broken card.
+
+**Photo** — use the Wikipedia REST API (free, no key, images on upload.wikimedia.org are hotlink-safe):
+```sh
+curl -s "https://en.wikipedia.org/api/rest_v1/page/summary/Denver" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('originalimage',{}).get('source') or d.get('thumbnail',{}).get('source',''))"
+```
+- Page title: the city (`Denver`, `San_Diego`), or the nearby national park's page when its photo is more evocative (`Rocky_Mountain_National_Park`).
+- Prefer `originalimage.source`; verify the URL returns 200 (`curl -s -o /dev/null -w "%{http_code}"`) before writing it.
+- Set `image` to that URL and `imageCredit` to `"Wikimedia Commons"`.
+
+**Video** — `WebSearch` for `"<destination> travel guide" youtube` or `"<destination> solo travel vlog" youtube`. Pick one substantial, recent-ish guide video, confirm the watch URL is real, and store it as `video` (a normal `https://www.youtube.com/watch?v=…` URL; the UI converts it to an embed).
+
 ## Step 4 — Write the day file
 
 Write `deals/DATE.json`:
@@ -56,6 +70,9 @@ Write `deals/DATE.json`:
       "airlines": ["Southwest", "United"],
       "nonstop": true,
       "whyRanked": "One line: the fare + the boost, e.g. \"$97 RT and Rocky Mountain NP is 90 min away\"",
+      "image": "https://upload.wikimedia.org/…jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=…",
       "nearbyParks": [ { "name": "Rocky Mountain NP", "drive": "1.5 h" } ],
       "soloScore": 4,
       "soloWhy": "One sentence on why it works solo (walkability, hostels, transit, day-trip ease).",
@@ -77,6 +94,7 @@ Field rules:
 - `nearbyParks` — empty array if none; include realistic drive times.
 - `soloScore` — integer 1–5.
 - `verifyUrl` — always a Google Flights query URL of the form `https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20<IATA>` so the reader can pull live prices in one click.
+- `image` / `imageCredit` / `video` — from Step 3b; omit any you couldn't verify.
 - Guides must be practical and specific (named trailheads, neighborhoods, restaurants), sized for a 2–3 day trip, written for a solo traveler. No marketing fluff.
 - Prices are **indicative ranges from public fare intelligence**, and the site footer says so — never present them as live quotes.
 

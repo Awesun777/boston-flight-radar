@@ -154,6 +154,17 @@ function soloDots(score) {
   return "●".repeat(n) + "○".repeat(5 - n);
 }
 
+function youtubeEmbed(url) {
+  try {
+    const u = new URL(url);
+    let id = "";
+    if (u.hostname.includes("youtu.be")) id = u.pathname.slice(1);
+    else if (u.pathname.startsWith("/shorts/")) id = u.pathname.split("/")[2];
+    else id = u.searchParams.get("v") || "";
+    return id ? `https://www.youtube.com/embed/${id}` : null;
+  } catch { return null; }
+}
+
 function cardHTML(it, opts = {}) {
   const dateBadge = opts.showDate ? `<span class="result-date-badge">${esc(fmtFullDate(it.date))}</span>` : "";
   const parks = (it.nearbyParks || [])
@@ -166,27 +177,49 @@ function cardHTML(it, opts = {}) {
     .map((d) => `<li>${esc(d)}</li>`).join("");
   const food = (g.food || []).map((f) => `<li>${esc(f)}</li>`).join("");
 
-  const guide = (highlights || itinerary || g.gettingAround || g.stayArea || food)
+  // The travel video lives inside the collapsed guide so a day of five
+  // destinations still scans as a price list; the iframe is lazy so closed
+  // guides cost nothing.
+  const embed = it.video ? youtubeEmbed(it.video) : null;
+  const video = embed
+    ? `<div class="guide-block"><b>Watch</b><div class="video-wrap"><iframe src="${embed}" title="${esc(it.destination)} travel video" loading="lazy" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div></div>`
+    : "";
+
+  const guide = (highlights || itinerary || g.gettingAround || g.stayArea || food || video)
     ? `<details class="guide">
-        <summary>Mini travel guide</summary>
+        <summary>Mini travel guide${video ? " · ▶ video" : ""}</summary>
         <div class="guide-body">
           ${highlights ? `<div class="guide-block"><b>Highlights</b><ul>${highlights}</ul></div>` : ""}
           ${itinerary ? `<div class="guide-block"><b>Itinerary</b><ul>${itinerary}</ul></div>` : ""}
           ${g.gettingAround ? `<div class="guide-block"><b>Getting around</b><p>${esc(g.gettingAround)}</p></div>` : ""}
           ${g.stayArea ? `<div class="guide-block"><b>Where to stay</b><p>${esc(g.stayArea)}</p></div>` : ""}
           ${food ? `<div class="guide-block"><b>Eat &amp; drink</b><ul>${food}</ul></div>` : ""}
+          ${video}
         </div>
       </details>`
     : "";
 
-  return `<article class="card">
-    <div class="card-body">
-      <div class="card-meta">
+  // With a hero, the rank/price badges ride on the photo and the in-body meta
+  // row starts hidden; if the image 404s the onerror handler removes the hero
+  // and reveals the body row, which is exactly the no-image layout.
+  const badges = `
         <span class="rank-badge">#${it.rank}</span>
         <span class="price-badge">${esc(price(it))} <small>round trip</small></span>
         ${it.nonstop ? `<span class="nonstop-badge">Nonstop</span>` : ""}
-        ${dateBadge}
-      </div>
+        ${dateBadge}`;
+  const hero = it.image
+    ? `<div class="card-hero">
+        <img src="${esc(it.image)}" alt="${esc(it.destination)}" loading="lazy"
+          onerror="const c=this.closest('article');c.querySelector('.card-meta').hidden=false;this.closest('.card-hero').remove()">
+        <div class="hero-badges">${badges}</div>
+        ${it.imageCredit ? `<span class="hero-credit">${esc(it.imageCredit)}</span>` : ""}
+      </div>`
+    : "";
+
+  return `<article class="card${hero ? " has-hero" : ""}">
+    ${hero}
+    <div class="card-body">
+      <div class="card-meta" ${hero ? "hidden" : ""}>${badges}</div>
       <h3>${esc(it.destination)}${it.airport ? ` <span class="airport">${esc(it.airport)}</span>` : ""}</h3>
       <div class="fare-facts">
         ${it.travelWindow ? `<span>📅 ${esc(it.travelWindow)}</span>` : ""}

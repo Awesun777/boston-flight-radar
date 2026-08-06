@@ -9,10 +9,17 @@
       "priceLow": 198,
       "priceHigh": 250,
       "travelWindow": "Sep 9 – Nov 18, Tue/Wed/Sat travel only (blackout Oct 9–14 & Nov 8–11); book the sale fare by tonight 11:59pm ET",
-      "airlines": ["JetBlue"],
+      "airlines": [
+        "JetBlue"
+      ],
       "nonstop": true,
       "whyRanked": "JetBlue's fall flash sale has Boston–Denver one-ways at $99 (~$198–250 RT stacking two sale fares), and Rocky Mountain NP is 90 minutes up the road.",
-      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h (Estes Park entrance)" } ],
+      "nearbyParks": [
+        {
+          "name": "Rocky Mountain National Park",
+          "drive": "1.5 h (Estes Park entrance)"
+        }
+      ],
       "soloScore": 4,
       "soloWhy": "LoDo and RiNo are walkable and full of solo diners at the bar, the A Line train runs straight from the airport downtown, and Bear Lake's easy trails make for a low-stakes solo hiking day.",
       "guide": {
@@ -30,9 +37,16 @@
         ],
         "gettingAround": "Downtown is walkable and the A Line light rail covers the airport-to-LoDo run with no car needed. Rent a car only for the Rocky Mountain NP day — return it same day to skip overnight parking fees.",
         "stayArea": "LoDo or RiNo — both walkable to restaurants and transit, with a livelier bar scene for solo evenings than the suburbs.",
-        "food": ["Snooze an A.M. Eatery (breakfast)", "Avanti Food & Beverage (food hall, good for solo grazing)", "Denver Biscuit Company"]
+        "food": [
+          "Snooze an A.M. Eatery (breakfast)",
+          "Avanti Food & Beverage (food hall, good for solo grazing)",
+          "Denver Biscuit Company"
+        ]
       },
-      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Denver%2C_Colorado_skyline_%28cropped%29.jpg/1280px-Denver%2C_Colorado_skyline_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=z_ha828EAXY"
     },
     {
       "rank": 2,
@@ -41,7 +55,9 @@
       "priceLow": 208,
       "priceHigh": 260,
       "travelWindow": "Sep 9 – Nov 18, Tue/Wed/Sat travel only (blackout Oct 9–14 & Nov 8–11); book the sale fare by tonight 11:59pm ET",
-      "airlines": ["JetBlue"],
+      "airlines": [
+        "JetBlue"
+      ],
       "nonstop": true,
       "whyRanked": "The single cheapest fare in the sale: $104 one-way (~$208–260 RT). No park boost, but it's a legitimate warm-weather escape at the lowest price of the five.",
       "nearbyParks": [],
@@ -62,9 +78,16 @@
         ],
         "gettingAround": "Rental car is essential — Orlando has no real transit network and everything is spread across highway exits.",
         "stayArea": "Winter Park or the Lake Eola/Downtown Orlando area — walkable and removed from the International Drive tourist strip.",
-        "food": ["The Rusty Spoon (downtown)", "Se7en Bites (BBQ/soul food, Milk District)", "Domu (ramen, Mills 50)"]
+        "food": [
+          "The Rusty Spoon (downtown)",
+          "Se7en Bites (BBQ/soul food, Milk District)",
+          "Domu (ramen, Mills 50)"
+        ]
       },
-      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO"
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando%2C_Florida_%28cropped%29.jpg/1280px-Orlando%2C_Florida_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=LSPAM-8VP6o"
     },
     {
       "rank": 3,
@@ -73,10 +96,17 @@
       "priceLow": 238,
       "priceHigh": 290,
       "travelWindow": "Sep 9 – Nov 18, Tue/Wed/Sat travel only (blackout Oct 9–14 & Nov 8–11); book the sale fare by tonight 11:59pm ET",
-      "airlines": ["JetBlue"],
+      "airlines": [
+        "JetBlue"
+      ],
       "nonstop": true,
       "whyRanked": "$119 one-way (~$238–290 RT) for a walkable downtown with live music every night, and Mammoth Cave NP is a 2-hour drive if you want a park day.",
-      "nearbyParks": [ { "name": "Mammoth Cave National Park", "drive": "2 h" } ],
+      "nearbyParks": [
+        {
+          "name": "Mammoth Cave National Park",
+          "drive": "2 h"
+        }
+      ],
       "soloScore": 5,
       "soloWhy": "Downtown and The Gulch are dense and walkable, the honky-tonks are built for striking up conversation at the bar solo, and there's an easy day-trip menu (Mammoth Cave, Leiper's Fork) if you want a break from the city.",
       "guide": {
@@ -94,9 +124,16 @@
         ],
         "gettingAround": "Downtown, The Gulch, and East Nashville are walkable or a short rideshare apart. Rent a car only if doing the Mammoth Cave day trip.",
         "stayArea": "The Gulch (walkable, quieter at night) or East Nashville (more local, better coffee/food scene).",
-        "food": ["Hattie B's Hot Chicken", "Arnold's Country Kitchen (meat-and-three, lunch only)", "Pinewood Social"]
+        "food": [
+          "Hattie B's Hot Chicken",
+          "Arnold's Country Kitchen (meat-and-three, lunch only)",
+          "Pinewood Social"
+        ]
       },
-      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BNA"
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BNA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashville%2C_TN_skyline.jpg/1280px-Nashville%2C_TN_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=CQjcuHjBWq8"
     },
     {
       "rank": 4,
@@ -105,12 +142,20 @@
       "priceLow": 258,
       "priceHigh": 310,
       "travelWindow": "Sep 9 – Nov 18, Tue/Wed/Sat travel only (blackout Oct 9–14 & Nov 8–11); book the sale fare by tonight 11:59pm ET",
-      "airlines": ["JetBlue"],
+      "airlines": [
+        "JetBlue"
+      ],
       "nonstop": true,
       "whyRanked": "$129 one-way (~$258–310 RT) for consistently mild weather, plus Anza-Borrego and Joshua Tree NP both within a couple hours.",
       "nearbyParks": [
-        { "name": "Anza-Borrego Desert State Park", "drive": "1.5 h" },
-        { "name": "Joshua Tree National Park", "drive": "2.5 h" }
+        {
+          "name": "Anza-Borrego Desert State Park",
+          "drive": "1.5 h"
+        },
+        {
+          "name": "Joshua Tree National Park",
+          "drive": "2.5 h"
+        }
       ],
       "soloScore": 5,
       "soloWhy": "Pacific Beach and Little Italy are walkable and hostel-friendly, the trolley covers downtown/Balboa Park/Old Town well, and the desert day trips are easy solo drives with clear trailheads.",
@@ -129,9 +174,16 @@
         ],
         "gettingAround": "The trolley and bus network covers downtown, Balboa Park, Old Town, and La Jolla reasonably well. Rent a car only for the desert day trip.",
         "stayArea": "Little Italy (walkable, good food, close to the airport) or Pacific Beach (beachier, more hostels and solo travelers).",
-        "food": ["Liberty Public Market (food hall)", "Oscar's Mexican Seafood (fish tacos)", "Underbelly (ramen, Little Italy)"]
+        "food": [
+          "Liberty Public Market (food hall)",
+          "Oscar's Mexican Seafood (fish tacos)",
+          "Underbelly (ramen, Little Italy)"
+        ]
       },
-      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/1280px-La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=YUSrwQSSguQ"
     },
     {
       "rank": 5,
@@ -140,10 +192,21 @@
       "priceLow": 308,
       "priceHigh": 360,
       "travelWindow": "Sep 9 – Nov 18, Tue/Wed/Sat travel only (blackout Oct 9–14 & Nov 8–11); book the sale fare by tonight 11:59pm ET",
-      "airlines": ["JetBlue"],
+      "airlines": [
+        "JetBlue"
+      ],
       "nonstop": true,
       "whyRanked": "The priciest of the five at $154 one-way (~$308–360 RT), but it's still a flash-sale fare on a route that normally runs well over $400, and Point Reyes National Seashore is an hour north.",
-      "nearbyParks": [ { "name": "Point Reyes National Seashore", "drive": "1 h" }, { "name": "Muir Woods National Monument", "drive": "40 min" } ],
+      "nearbyParks": [
+        {
+          "name": "Point Reyes National Seashore",
+          "drive": "1 h"
+        },
+        {
+          "name": "Muir Woods National Monument",
+          "drive": "40 min"
+        }
+      ],
       "soloScore": 4,
       "soloWhy": "Muni and BART make the whole city reachable without a car, and neighborhoods like the Mission and Hayes Valley are dense enough to wander solo all day without repeating a block.",
       "guide": {
@@ -161,9 +224,16 @@
         ],
         "gettingAround": "Muni and BART cover the city well — skip the rental car except for the Point Reyes/Muir Woods day trip.",
         "stayArea": "Hayes Valley or the Mission — both walkable, transit-connected, and closer to the food scene than the Fisherman's Wharf tourist strip.",
-        "food": ["Tartine Bakery", "La Taqueria (Mission)", "Swan Oyster Depot"]
+        "food": [
+          "Tartine Bakery",
+          "La Taqueria (Mission)",
+          "Swan Oyster Depot"
+        ]
       },
-      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SFO"
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SFO",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/1280px-Zeppelin-ride-020100925-195_%285029394846%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=o9XUwcyER1Y"
     }
   ]
 }
