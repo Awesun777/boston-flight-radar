@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T04:54:56Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 167,
+      "priceHigh": 177,
+      "travelWindow": "Sep 5 – Nov 19, cheapest midweek nonstop",
+      "airlines": ["JetBlue", "Delta", "Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Cheapest verified fare of the five at $167–177 RT nonstop, and Everglades National Park is under 2 hours south.",
+      "nearbyParks": [
+        { "name": "Everglades National Park", "drive": "1h 55m (Ernest Coe entrance)" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Las Olas Blvd and the beachfront promenade are walkable and easy to explore alone, though most of the rest of the metro is car-dependent.",
+      "guide": {
+        "highlights": [
+          "Las Olas Boulevard shops and sidewalk cafes",
+          "Fort Lauderdale Beach promenade at sunrise",
+          "Riverwalk and the NSU Art Museum",
+          "Everglades airboat tour or a ranger-led walk on the Anhinga Trail",
+          "Bonnet House Museum & Gardens"
+        ],
+        "itinerary": [
+          "Day 1 — Beach promenade walk at sunrise, Las Olas Blvd for lunch and gallery-hopping, dinner on the Riverwalk.",
+          "Day 2 — Rent a car for the day, drive to Everglades NP's Ernest Coe entrance, walk the Anhinga Trail, add an airboat tour near Sawgrass if time allows.",
+          "Day 3 — Bonnet House Museum & Gardens or a paddleboard morning on the New River, fly home."
+        ],
+        "gettingAround": "Downtown/Las Olas and the beach are walkable to each other via the Riverwalk, but a rental car is worth it for the Everglades day — return it same-day to skip resort parking fees.",
+        "stayArea": "Las Olas or Fort Lauderdale Beach — both walkable to restaurants and within a short ride of each other.",
+        "food": [
+          "Lester's Diner (24-hour classic)",
+          "Rooftop at 1WLO (Las Olas)",
+          "Coconuts (waterfront, casual seafood)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/1280px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=pGpH8Pzg8qU"
+    },
+    {
+      "rank": 2,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 188,
+      "priceHigh": 219,
+      "travelWindow": "Sep 4 – Sep 26, cheapest in September",
+      "airlines": ["Frontier", "JetBlue", "Delta"],
+      "nonstop": true,
+      "whyRanked": "A legitimate $188–219 RT floor for September travel — no park boost, but it's the second-cheapest verified fare of the five.",
+      "nearbyParks": [],
+      "soloScore": 2,
+      "soloWhy": "Downtown Tampa and Ybor City have walkable pockets, but the metro is spread out and mostly needs a car or rideshare between neighborhoods.",
+      "guide": {
+        "highlights": [
+          "Tampa Riverwalk and Curtis Hixon Park",
+          "Ybor City's cigar-factory history and nightlife",
+          "The Florida Aquarium",
+          "Bayshore Boulevard (world's longest continuous sidewalk) for a run or walk",
+          "Armature Works food hall"
+        ],
+        "itinerary": [
+          "Day 1 — Riverwalk from Curtis Hixon Park to the Florida Aquarium, dinner at Armature Works.",
+          "Day 2 — Ybor City walking tour and cigar-factory history, evening on 7th Avenue.",
+          "Day 3 — Bayshore Boulevard walk or bike, Hyde Park Village shopping, fly home."
+        ],
+        "gettingAround": "The Riverwalk and downtown/Ybor corridor are walkable via the free TECO streetcar; a car or rideshare helps for anything past Hyde Park.",
+        "stayArea": "Downtown/Channelside or Hyde Park — both close to the Riverwalk and streetcar line.",
+        "food": [
+          "Columbia Restaurant (Ybor City, since 1905)",
+          "Ulele (riverside, indigenous-inspired)",
+          "Ella's Americana Folk Art Cafe"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=fDFCPnf47PQ"
+    },
+    {
+      "rank": 3,
+      "destination": "New Orleans, LA",
+      "airport": "MSY",
+      "priceLow": 203,
+      "priceHigh": 267,
+      "travelWindow": "Sep 5 – Nov 14, cheapest one-stop from $203, nonstop from ~$247",
+      "airlines": ["Frontier", "Delta", "JetBlue"],
+      "nonstop": false,
+      "whyRanked": "$203 RT (one-stop) to one of the most walkable solo-friendly cities in the country, with a national park unit 30–45 minutes away.",
+      "nearbyParks": [
+        { "name": "Jean Lafitte NHP & Preserve (Barataria Preserve)", "drive": "30–45 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The French Quarter and Garden District are dense, walkable, and full of solo-friendly bars and jazz clubs, with streetcars covering the rest.",
+      "guide": {
+        "highlights": [
+          "French Quarter architecture and Jackson Square",
+          "Frenchmen Street live jazz (no cover at most bars)",
+          "St. Charles streetcar through the Garden District",
+          "Barataria Preserve boardwalk trail — alligators and cypress swamp",
+          "National WWII Museum"
+        ],
+        "itinerary": [
+          "Day 1 — French Quarter walk, Jackson Square, Cafe du Monde, Frenchmen Street for live jazz at night.",
+          "Day 2 — St. Charles streetcar through the Garden District, National WWII Museum in the afternoon.",
+          "Day 3 — Drive or rideshare to Barataria Preserve for the boardwalk trail, fly home."
+        ],
+        "gettingAround": "French Quarter, CBD, and Garden District are walkable or a short streetcar ride apart; a rideshare or rental car is easiest for the Barataria Preserve trip.",
+        "stayArea": "French Quarter (lively, walkable) or the Garden District (quieter, still streetcar-connected).",
+        "food": [
+          "Cafe du Monde (beignets)",
+          "Turkey and the Wolf (sandwiches)",
+          "Cochon (Cajun/Southern)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MSY",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=9y-hOWMjd3U"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 222,
+      "priceHigh": 250,
+      "travelWindow": "Aug 20 – Nov 4, currently a low-fare window per fare trackers",
+      "airlines": ["Southwest", "JetBlue", "United", "Frontier"],
+      "nonstop": true,
+      "whyRanked": "$222–226 RT nonstop across multiple airlines right now, and Rocky Mountain NP is 90 minutes up the road.",
+      "nearbyParks": [
+        { "name": "Rocky Mountain National Park", "drive": "1.5 h (Estes Park entrance)" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "LoDo and RiNo are walkable and full of solo diners at the bar, the A Line train runs straight from the airport downtown, and Bear Lake's easy trails make for a low-stakes solo hiking day.",
+      "guide": {
+        "highlights": [
+          "RiNo (River North) street art and brewery row",
+          "Larimer Square for dinner and people-watching",
+          "Denver Botanic Gardens",
+          "Bear Lake Road in Rocky Mountain NP — easy trails, no permit off-season",
+          "Meow Wolf's Convergence Station for something weird and solo-friendly"
+        ],
+        "itinerary": [
+          "Day 1 — Land, A Line into Union Station, wander LoDo and Larimer Square, dinner and a beer flight in RiNo.",
+          "Day 2 — Rent a car, drive to Rocky Mountain NP via Estes Park, hike Bear Lake to Nymph and Dream Lake (easy, ~2 mi round trip), sunset over Lake Estes.",
+          "Day 3 — Denver Botanic Gardens or Meow Wolf, browse REI's flagship store, fly home."
+        ],
+        "gettingAround": "Downtown is walkable and the A Line light rail covers the airport-to-LoDo run with no car needed. Rent a car only for the Rocky Mountain NP day.",
+        "stayArea": "LoDo or RiNo — both walkable to restaurants and transit, with a livelier bar scene for solo evenings than the suburbs.",
+        "food": [
+          "Snooze an A.M. Eatery (breakfast)",
+          "Avanti Food & Beverage (food hall, good for solo grazing)",
+          "Work & Class (Larimer)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rocky_Mountain_National_Park_in_September_2011_-_Glacier_Gorge_from_Bear_Lake.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=GdjtNOH0p4g"
+    },
+    {
+      "rank": 5,
+      "destination": "Charleston, SC",
+      "airport": "CHS",
+      "priceLow": 232,
+      "priceHigh": 259,
+      "travelWindow": "Sep 26 – Nov 14, cheapest midweek",
+      "airlines": ["JetBlue", "United", "Delta"],
+      "nonstop": true,
+      "whyRanked": "$232–259 RT for one of the most walkable historic downtowns in the country, and Congaree National Park is under 2 hours away.",
+      "nearbyParks": [
+        { "name": "Congaree National Park", "drive": "1h 45m – 2h" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The peninsula is compact, flat, and safe to wander solo end to end, with the Battery, King Street, and the food scene all walkable from a single base.",
+      "guide": {
+        "highlights": [
+          "The Battery and Rainbow Row",
+          "King Street shopping and restaurants",
+          "Charleston City Market",
+          "Congaree National Park's Boardwalk Loop through old-growth floodplain forest",
+          "Waterfront Park's Pineapple Fountain"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Battery and Rainbow Row, Charleston City Market, dinner on King Street.",
+          "Day 2 — Rent a car, drive to Congaree National Park, walk the 2.6-mile Boardwalk Loop, back for sunset at Waterfront Park.",
+          "Day 3 — Historic house museum (Aiken-Rhett or Nathaniel Russell House) and a final stroll through the French Quarter neighborhood, fly home."
+        ],
+        "gettingAround": "The downtown peninsula is entirely walkable; rent a car only for the Congaree day trip and return it same day.",
+        "stayArea": "French Quarter or South of Broad — both walkable to everything and quieter at night than the market area.",
+        "food": [
+          "Husk (Southern, reservations recommended)",
+          "Xiao Bao Biscuit (Asian-Southern fusion)",
+          "Leon's Oyster Shop"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20CHS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/East_Battery_Street_Charleston_Aug2010.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5hdHg4-Dh3M"
+    }
+  ]
+}
