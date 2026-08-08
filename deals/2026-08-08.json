@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T04:54:35Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Atlanta, GA",
+      "airport": "ATL",
+      "priceLow": 108,
+      "priceHigh": 145,
+      "travelWindow": "Aug 19 – Oct, cheapest midweek",
+      "airlines": ["Frontier", "Delta"],
+      "nonstop": true,
+      "whyRanked": "Cheapest verified fare of the five at $108–145 RT nonstop, and the Chattahoochee River National Recreation Area is 25 minutes from downtown.",
+      "nearbyParks": [
+        { "name": "Chattahoochee River National Recreation Area", "drive": "25 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The BeltLine trail and Old Fourth Ward are dense and walkable, though you'll want rideshare between the farther-flung neighborhoods.",
+      "guide": {
+        "highlights": [
+          "Atlanta BeltLine walk through Old Fourth Ward and Ponce City Market",
+          "Martin Luther King Jr. National Historical Park",
+          "Jimmy Carter Presidential Library and Museum",
+          "Chattahoochee River NRA — Cochran Shoals or Sope Creek trails",
+          "Krog Street Market for lunch"
+        ],
+        "itinerary": [
+          "Day 1 — Old Fourth Ward walking tour, MLK Jr. NHP, BeltLine stroll to Ponce City Market for dinner.",
+          "Day 2 — Chattahoochee River NRA (Cochran Shoals loop, easy 3-mile trail), afternoon at the Jimmy Carter Library.",
+          "Day 3 — Krog Street Market and Cabbagetown murals, fly home."
+        ],
+        "gettingAround": "MARTA rail covers downtown, Midtown, and the airport well; a rental car or rideshare is worth it for the Chattahoochee day.",
+        "stayArea": "Old Fourth Ward or Midtown — both walkable to the BeltLine and close to MARTA.",
+        "food": [
+          "The Varsity (Atlanta institution, chili dogs)",
+          "Ponce City Market food hall",
+          "Busy Bee Cafe (soul food)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20ATL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/A2ATL20250614-0721_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=zo88G2hwLhI"
+    },
+    {
+      "rank": 2,
+      "destination": "Destin/Fort Walton Beach, FL",
+      "airport": "VPS",
+      "priceLow": 135,
+      "priceHigh": 205,
+      "travelWindow": "Sep 7 – Oct 17, new nonstop route just launched this year",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's brand-new BOS–VPS nonstop is running $135–205 RT introductory fares, and Gulf Islands National Seashore is about 20 minutes away.",
+      "nearbyParks": [
+        { "name": "Gulf Islands National Seashore", "drive": "20 min" }
+      ],
+      "soloScore": 2,
+      "soloWhy": "The Destin Harbor boardwalk is walkable for an evening, but the beaches and shopping are spread out along Route 98 and mostly need a car.",
+      "guide": {
+        "highlights": [
+          "Destin Harbor Boardwalk at sunset",
+          "Gulf Islands National Seashore's Okaloosa Day Use Area beach",
+          "Crab Island sandbar (boat tour or rental)",
+          "HarborWalk Village shops and fishing charters",
+          "Henderson Beach State Park's dune trail"
+        ],
+        "itinerary": [
+          "Day 1 — Destin Harbor Boardwalk, HarborWalk Village, sunset dinner on the water.",
+          "Day 2 — Gulf Islands National Seashore's Okaloosa unit for a beach day, or a Crab Island boat trip.",
+          "Day 3 — Henderson Beach State Park dune trail and a final beach morning, fly home."
+        ],
+        "gettingAround": "A rental car is close to essential — the beaches and shopping stretch for miles along Route 98 with no transit.",
+        "stayArea": "Near the Harbor or Miramar Beach — both put you close to restaurants and a short drive from the National Seashore.",
+        "food": [
+          "The Donut Hole (breakfast institution)",
+          "Boshamps Seafood and Oyster House",
+          "AJ's Seafood & Oyster Bar (Destin Harbor)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20VPS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View_of_Destin%2C_Florida_from_the_Destin_Harbor.jpg/3840px-View_of_Destin%2C_Florida_from_the_Destin_Harbor.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=1CjRRoQfMzU"
+    },
+    {
+      "rank": 3,
+      "destination": "Miami, FL",
+      "airport": "MIA",
+      "priceLow": 144,
+      "priceHigh": 180,
+      "travelWindow": "Sep – Oct, cheapest midweek nonstop",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "$144–180 RT nonstop, and Everglades National Park's Shark Valley entrance is under an hour from downtown.",
+      "nearbyParks": [
+        { "name": "Everglades National Park (Shark Valley)", "drive": "50 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "South Beach and Wynwood are dense, walkable, and full of solo diners at sidewalk cafes, with the free Metromover covering downtown.",
+      "guide": {
+        "highlights": [
+          "Ocean Drive and South Beach's Art Deco Historic District",
+          "Wynwood Walls street art",
+          "Little Havana's Calle Ocho and Máximo Gómez Park",
+          "Shark Valley's 15-mile loop trail (bike or tram) in the Everglades",
+          "Vizcaya Museum and Gardens"
+        ],
+        "itinerary": [
+          "Day 1 — Art Deco walking tour of South Beach, Ocean Drive at sunset.",
+          "Day 2 — Wynwood Walls in the morning, Little Havana for a late lunch and dominoes at Máximo Gómez Park.",
+          "Day 3 — Rent a car, Shark Valley tram or bike loop in the Everglades, back for a swim before the flight home."
+        ],
+        "gettingAround": "The free Metromover covers downtown and Brickell; South Beach is walkable on its own. Rent a car only for the Everglades day.",
+        "stayArea": "South Beach or Brickell — both walkable with easy rideshare access to everything else.",
+        "food": [
+          "Versailles Restaurant (Little Havana, Cuban)",
+          "News Cafe (Ocean Drive, all-day)",
+          "Wynwood food trucks"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MIA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ocean_drive_day_2009j.JPG/3840px-Ocean_drive_day_2009j.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=UVy0wrsKjaA"
+    },
+    {
+      "rank": 4,
+      "destination": "Las Vegas, NV",
+      "airport": "LAS",
+      "priceLow": 152,
+      "priceHigh": 236,
+      "travelWindow": "Sep – Nov, cheapest midweek nonstop",
+      "airlines": ["Delta", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$152–236 RT nonstop across two carriers, and Red Rock Canyon is a 20-minute drive from the Strip.",
+      "nearbyParks": [
+        { "name": "Red Rock Canyon National Conservation Area", "drive": "20 min" },
+        { "name": "Valley of Fire State Park", "drive": "50 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The Strip and Fremont Street are made for wandering solo and striking up conversation, though it's a scene-driven trip more than a quiet one.",
+      "guide": {
+        "highlights": [
+          "Fremont Street Experience at night",
+          "Red Rock Canyon's 13-mile scenic drive and Calico Tanks trail",
+          "The Strip on foot — Bellagio fountains to the Venetian",
+          "Valley of Fire State Park's red-sandstone formations",
+          "Downtown's Neon Museum"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Strip from Bellagio to the Venetian, fountain show at sunset, dinner off-Strip.",
+          "Day 2 — Rent a car, Red Rock Canyon scenic drive and the Calico Tanks hike (2.5 mi round trip).",
+          "Day 3 — Fremont Street and the Neon Museum, or push out to Valley of Fire, fly home."
+        ],
+        "gettingAround": "The Strip and Fremont Street are walkable on their own; rent a car only for the Red Rock or Valley of Fire day trips.",
+        "stayArea": "The Strip for convenience and nightlife, or Downtown/Fremont for a cheaper, more local base.",
+        "food": [
+          "In-N-Out (Strip location, 24-hour)",
+          "Lotus of Siam (Thai, off-Strip)",
+          "Eat (Downtown, brunch)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20LAS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/3840px-Las_Vegas_from_above_%2840064746644%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=wCN3yUj1lJQ"
+    },
+    {
+      "rank": 5,
+      "destination": "San Juan, PR",
+      "airport": "SJU",
+      "priceLow": 223,
+      "priceHigh": 270,
+      "travelWindow": "Sep 6 – Oct, cheapest per JetBlue one-way sale fares",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$223–270 RT nonstop to one of the most walkable solo-friendly islands in the country, with El Yunque National Forest 40 minutes away.",
+      "nearbyParks": [
+        { "name": "El Yunque National Forest", "drive": "40 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Old San Juan is compact, colorful, and safe to wander alone end to end, with rideshare covering the rest of the metro.",
+      "guide": {
+        "highlights": [
+          "Castillo San Felipe del Morro and Castillo San Cristóbal",
+          "Old San Juan's colorful streets and the Puerto Rican flag door on Calle Imperial",
+          "El Yunque's La Mina Falls trail",
+          "Condado Beach for a swim",
+          "Piñones food kiosks along the coast"
+        ],
+        "itinerary": [
+          "Day 1 — Old San Juan walking tour, both Spanish forts, dinner in the old city.",
+          "Day 2 — Rent a car, El Yunque National Forest for the La Mina Falls trail (easy, ~0.7 mi each way), Piñones kiosks on the way back.",
+          "Day 3 — Condado Beach morning, Museo de Arte de Puerto Rico, fly home."
+        ],
+        "gettingAround": "Old San Juan and Condado are walkable; rideshare covers the rest of the metro, and a rental car is worth it for the El Yunque day.",
+        "stayArea": "Old San Juan (historic, walkable) or Condado (beachfront, more nightlife).",
+        "food": [
+          "La Factoría (cocktails, Old San Juan)",
+          "Piñones kiosks (alcapurrias, bacalaítos)",
+          "Marmalade (Old San Juan, upscale)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SJU",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2013_Old_San_Juan_01.JPG/3840px-2013_Old_San_Juan_01.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=rVjjcKPsphQ"
+    }
+  ]
+}
