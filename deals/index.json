@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-08-08T04:54:35Z",
+  "generatedAt": "2026-08-10T04:50:23Z",
   "digests": [
+    { "date": "2026-08-10", "title": "Knoxville $110, Smoky Mountains gateway", "destinations": ["TYS", "RSW", "MCO", "BNA", "BUF"] },
     { "date": "2026-08-08", "title": "Atlanta $108, new Destin nonstop", "destinations": ["ATL", "VPS", "MIA", "LAS", "SJU"] },
     { "date": "2026-08-07", "title": "Fort Lauderdale $167, NOLA solo pick", "destinations": ["FLL", "TPA", "MSY", "DEN", "CHS"] },
     { "date": "2026-08-06", "title": "JetBlue flash sale, Denver $99", "destinations": ["DEN", "MCO", "BNA", "SAN", "SFO"] }

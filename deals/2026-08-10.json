@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T04:50:23Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 110,
+      "priceHigh": 165,
+      "travelWindow": "Oct 20 – 24, cheapest confirmed nonstop; Allegiant flies the route 5 days a week",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five by a wide margin at $110–165 RT nonstop, and it's the closest major airport to the Great Smoky Mountains — under an hour to the Sugarlands entrance.",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min (Sugarlands Visitor Center)" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown Knoxville's Market Square is small but walkable and easy to explore alone; you'll want a car for the Smokies day, but the park's trailheads are well-marked and solo-safe.",
+      "guide": {
+        "highlights": [
+          "Market Square for coffee, lunch, and street musicians",
+          "World's Fair Park and the Sunsphere",
+          "Laurel-Snow or Alum Cave Trail day hike in the Smokies",
+          "Cades Cove loop road for wildlife (deer, sometimes black bear)",
+          "Ijams Nature Center on the edge of downtown"
+        ],
+        "itinerary": [
+          "Day 1 — Land, walk Market Square and World's Fair Park, dinner on Gay Street.",
+          "Day 2 — Rent a car, drive to Great Smoky Mountains NP, hike Alum Cave Trail (up to Alum Cave Bluffs, ~4.6 mi round trip) or the shorter Laurel Falls Trail if you want easier miles.",
+          "Day 3 — Cades Cove scenic loop at dawn for wildlife, or Ijams Nature Center if you'd rather stay closer to town, fly home."
+        ],
+        "gettingAround": "Downtown is walkable on its own, but a rental car is close to essential for the Smokies — pick it up at the airport and return it before your flight out.",
+        "stayArea": "Downtown/Market Square — walkable, close to restaurants, and about 40 minutes from the park entrance.",
+        "food": [
+          "Knox Mason (brunch, Old City)",
+          "Yassin's Falafel House",
+          "OliBea (breakfast, Old City)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/View_atop_Cliff_Tops_on_Mount_LeConte%2C_GSMNP%2C_TN.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=L1cljtoCim0"
+    },
+    {
+      "rank": 2,
+      "destination": "Fort Myers, FL",
+      "airport": "RSW",
+      "priceLow": 176,
+      "priceHigh": 210,
+      "travelWindow": "Sep 5 – 12, cheapest nonstop",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$176–210 RT nonstop, and the J.N. \"Ding\" Darling National Wildlife Refuge on Sanibel Island is a 35-minute drive.",
+      "nearbyParks": [
+        { "name": "J.N. \"Ding\" Darling National Wildlife Refuge (Sanibel)", "drive": "35 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown Fort Myers' River District is small and walkable for an evening, but Sanibel and the beaches are spread out and mostly need a car.",
+      "guide": {
+        "highlights": [
+          "Ding Darling NWR's Wildlife Drive (bike or drive, alligators and roseate spoonbills)",
+          "Sanibel Lighthouse Beach for shelling",
+          "Downtown River District's riverfront and galleries",
+          "Edison and Ford Winter Estates",
+          "Captiva sunset at the Mucky Duck"
+        ],
+        "itinerary": [
+          "Day 1 — Downtown River District walk, dinner along First Street.",
+          "Day 2 — Drive to Sanibel, bike the Ding Darling Wildlife Drive in the morning, Lighthouse Beach for shelling in the afternoon.",
+          "Day 3 — Edison and Ford Winter Estates, or push out to Captiva for sunset, fly home."
+        ],
+        "gettingAround": "A rental car is essential — Sanibel, Captiva, and the beaches are 20–40 minutes from downtown with no real transit between them.",
+        "stayArea": "Downtown River District for restaurants and nightlife, or a Fort Myers Beach/Sanibel base if you'd rather wake up near the water.",
+        "food": [
+          "The Standard (River District, seafood)",
+          "Doc Ford's Rum Bar & Grille (Sanibel)",
+          "Fresh Catch Bistro"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20RSW",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Blind_Pass%2C_Sanibel_and_Captiva.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=6FVhwhj8ojA"
+    },
+    {
+      "rank": 3,
+      "destination": "Orlando, FL",
+      "airport": "MCO",
+      "priceLow": 184,
+      "priceHigh": 230,
+      "travelWindow": "Sep 15 – 19, cheapest one-stop; nonstop JetBlue/Delta run higher",
+      "airlines": ["Frontier", "JetBlue"],
+      "nonstop": false,
+      "whyRanked": "$184 RT is the floor for the week (one-stop via Atlanta); no national park nearby, but Wekiwa Springs State Park is a quiet 30-minute escape from the theme-park sprawl.",
+      "nearbyParks": [
+        { "name": "Wekiwa Springs State Park", "drive": "30 min" }
+      ],
+      "soloScore": 2,
+      "soloWhy": "Winter Park and Lake Eola are walkable pockets, but the metro is car-dependent and most attractions are built for groups rather than solo pacing.",
+      "guide": {
+        "highlights": [
+          "Winter Park's Park Avenue and the Scenic Boat Tour",
+          "Lake Eola Park at sunset",
+          "Wekiwa Springs State Park's spring-fed swimming hole and trails",
+          "Kennedy Space Center Visitor Complex (day trip)",
+          "Mills 50 district for murals and local food"
+        ],
+        "itinerary": [
+          "Day 1 — Winter Park: Park Avenue shops, the Scenic Boat Tour on the chain of lakes, dinner nearby.",
+          "Day 2 — Wekiwa Springs State Park in the morning (swim, easy trails), Mills 50 for dinner.",
+          "Day 3 — Day trip to Kennedy Space Center Visitor Complex (~1 h drive), sunset walk around Lake Eola, fly home."
+        ],
+        "gettingAround": "Rental car is essential — Orlando has no real transit network and everything is spread across highway exits.",
+        "stayArea": "Winter Park or the Lake Eola/Downtown Orlando area — walkable and removed from the International Drive tourist strip.",
+        "food": [
+          "The Rusty Spoon (downtown)",
+          "Domu (ramen, Mills 50)",
+          "East End Market (Audubon Park)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando%2C_Florida_%28cropped%29.jpg/3840px-Orlando%2C_Florida_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=ffpo8K-I3Xg"
+    },
+    {
+      "rank": 4,
+      "destination": "Nashville, TN",
+      "airport": "BNA",
+      "priceLow": 212,
+      "priceHigh": 231,
+      "travelWindow": "Oct 3 – Nov 7; cheapest nonstop is Southwest at $231 (Oct 3–5), connecting Frontier fares from $212",
+      "airlines": ["Southwest", "Frontier"],
+      "nonstop": true,
+      "whyRanked": "$212–231 RT for a walkable downtown with live music every night, and Mammoth Cave National Park is a 2-hour drive if you want a park day.",
+      "nearbyParks": [
+        { "name": "Mammoth Cave National Park", "drive": "2 h" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Downtown and The Gulch are dense and walkable, the honky-tonks are built for striking up conversation at the bar solo, and there's an easy day-trip menu if you want a break from the city.",
+      "guide": {
+        "highlights": [
+          "Broadway honky-tonk crawl (free live music, no cover)",
+          "Ryman Auditorium daytime tour",
+          "The Parthenon at Centennial Park",
+          "Mammoth Cave NP guided cave tour (book ahead)",
+          "East Nashville's coffee shops and vintage stores"
+        ],
+        "itinerary": [
+          "Day 1 — Broadway honky-tonk crawl, Ryman Auditorium, dinner in The Gulch.",
+          "Day 2 — Drive north to Mammoth Cave NP (~2 h) for a ranger-led cave tour, or stay local and walk Centennial Park and the Parthenon.",
+          "Day 3 — East Nashville coffee and vintage shopping, Country Music Hall of Fame, fly home."
+        ],
+        "gettingAround": "Downtown, The Gulch, and East Nashville are walkable or a short rideshare apart. Rent a car only if doing the Mammoth Cave day trip.",
+        "stayArea": "The Gulch (walkable, quieter at night) or East Nashville (more local, better coffee/food scene).",
+        "food": [
+          "Hattie B's Hot Chicken",
+          "Arnold's Country Kitchen (meat-and-three, lunch only)",
+          "Pinewood Social"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BNA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashville%2C_TN_skyline.jpg/3840px-Nashville%2C_TN_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=6VbJQDlh3LQ"
+    },
+    {
+      "rank": 5,
+      "destination": "Buffalo, NY",
+      "airport": "BUF",
+      "priceLow": 217,
+      "priceHigh": 240,
+      "travelWindow": "Sep 19 – 26, cheapest nonstop",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$217–240 RT nonstop, and Niagara Falls State Park — the oldest state park in the country — is a 20-minute drive.",
+      "nearbyParks": [
+        { "name": "Niagara Falls State Park", "drive": "20 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Downtown Buffalo and Elmwood Village are compact and walkable, and Niagara Falls has tour buses and shuttles from the city if you'd rather skip renting a car.",
+      "guide": {
+        "highlights": [
+          "Niagara Falls State Park — Terrapin Point and the Cave of the Winds",
+          "Elmwood Village for coffee, shops, and galleries",
+          "Darwin D. Martin House (Frank Lloyd Wright)",
+          "Buffalo AKG Art Museum",
+          "Original Anchor Bar for the birthplace of Buffalo wings"
+        ],
+        "itinerary": [
+          "Day 1 — Elmwood Village walk, Buffalo AKG Art Museum, dinner at the Anchor Bar.",
+          "Day 2 — Day trip to Niagara Falls State Park — Terrapin Point, Cave of the Winds, and the Maid of the Mist boat if it's running.",
+          "Day 3 — Darwin D. Martin House tour and a walk along the Buffalo waterfront, fly home."
+        ],
+        "gettingAround": "Downtown and Elmwood Village are walkable; Niagara Falls is reachable by the NFTA Metro Rail plus a short bus, or an easy 20-minute drive.",
+        "stayArea": "Elmwood Village — walkable, close to restaurants, and a straightforward drive or bus ride to Niagara Falls.",
+        "food": [
+          "Anchor Bar (original Buffalo wings)",
+          "Sweet_ness 7 Café (Elmwood Village)",
+          "Ashker's Juice Bar & Cafe"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BUF",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Niagara_Falls_2009.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=_j5VA3Np8Qs"
+    }
+  ]
+}
