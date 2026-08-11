@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T04:55:28Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Chicago, IL",
+      "airport": "ORD",
+      "priceLow": 166,
+      "priceHigh": 225,
+      "travelWindow": "Aug 24 – Sep 2, cheapest one-stop (Frontier); nonstop AA/United/JetBlue run closer to $220",
+      "airlines": ["Frontier", "American", "United"],
+      "nonstop": false,
+      "whyRanked": "The cheapest verified fare of the five at $166 RT, and Indiana Dunes National Park is about an hour away by car or the South Shore Line train.",
+      "nearbyParks": [
+        { "name": "Indiana Dunes National Park", "drive": "1 h (or South Shore Line train)" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "The Loop and Riverwalk are dense, walkable, and connected by the L, so a car is never needed to explore solo.",
+      "guide": {
+        "highlights": [
+          "Chicago Riverwalk architecture boat cruise",
+          "Millennium Park and Cloud Gate (\"The Bean\")",
+          "Art Institute of Chicago",
+          "Indiana Dunes National Park day trip via the South Shore Line",
+          "Wicker Park / Logan Square for vintage shops and coffee"
+        ],
+        "itinerary": [
+          "Day 1 — Land, walk the Riverwalk, take a 90-minute architecture river cruise, dinner in the West Loop.",
+          "Day 2 — Millennium Park and the Art Institute in the morning, Wicker Park/Logan Square in the afternoon, deep-dish dinner.",
+          "Day 3 — South Shore Line train to Indiana Dunes National Park, hike the West Beach or Mount Baldy trail, back to Chicago, fly home."
+        ],
+        "gettingAround": "The L and Riverwalk make downtown, the Loop, and the Near North Side fully walkable/transit-friendly; skip a rental car unless doing the Indiana Dunes day trip, which is also reachable by train.",
+        "stayArea": "The Loop or West Loop — walkable, near transit, close to restaurants.",
+        "food": [
+          "Lou Malnati's or Pequod's (deep dish)",
+          "Au Cheval (West Loop)",
+          "Intelligentsia Coffee"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20ORD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chicago_River_ferry_b.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=RwWZFaq_CLw"
+    },
+    {
+      "rank": 2,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 188,
+      "priceHigh": 225,
+      "travelWindow": "Aug 18 – 22, cheapest nonstop (Frontier)",
+      "airlines": ["Frontier", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$188 RT nonstop, and De Soto National Memorial plus the Gulf beaches are under an hour away for a nature break without leaving the Tampa Bay area.",
+      "nearbyParks": [
+        { "name": "De Soto National Memorial", "drive": "50 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's Riverwalk is compact and walkable for an evening, but the beaches and De Soto Memorial call for a rental car.",
+      "guide": {
+        "highlights": [
+          "Tampa Riverwalk and Curtis Hixon Waterfront Park",
+          "Ybor City historic cigar district and nightlife",
+          "Tampa Museum of Art",
+          "De Soto National Memorial day trip",
+          "Sunset at St. Pete or Clearwater Beach"
+        ],
+        "itinerary": [
+          "Day 1 — Land, walk the Riverwalk, Tampa Museum of Art, dinner in Ybor City.",
+          "Day 2 — Drive to De Soto National Memorial and the Bradenton-area beaches, or stay closer and walk St. Pete's Central Avenue.",
+          "Day 3 — Ybor City cigar-rolling demo and Centro Ybor, sunset at Clearwater Beach, fly home."
+        ],
+        "gettingAround": "Downtown Riverwalk and Ybor City are walkable; a rental car is worth it for De Soto National Memorial or the Gulf beaches, 30–50 minutes away.",
+        "stayArea": "Downtown/Riverwalk — walkable, close to restaurants, easy highway access for day trips.",
+        "food": [
+          "Ulele (Riverwalk, Native/Floridian)",
+          "Columbia Restaurant (Ybor City, since 1905)",
+          "Ella's Americana Folk Art Cafe"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/3840px-Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=24XsEnzDgIs"
+    },
+    {
+      "rank": 3,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 222,
+      "priceHigh": 270,
+      "travelWindow": "Sep 16 – 20, cheapest nonstop (Frontier)",
+      "airlines": ["Frontier", "United", "Southwest"],
+      "nonstop": true,
+      "whyRanked": "$222 RT nonstop, and Rocky Mountain National Park is about 90 minutes away via Estes Park — one of the most accessible major national parks from any big-city airport.",
+      "nearbyParks": [
+        { "name": "Rocky Mountain National Park", "drive": "1.5 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "LoDo and the 16th Street corridor are walkable and reachable from the airport via the A Line train, and Denver's outdoor-gear/hostel scene makes linking up for day hikes easy solo.",
+      "guide": {
+        "highlights": [
+          "LoDo and Larimer Square",
+          "Denver Art Museum",
+          "Red Rocks Park & Amphitheatre",
+          "Rocky Mountain NP day trip via the Bear Lake corridor",
+          "REI flagship store and Confluence Park"
+        ],
+        "itinerary": [
+          "Day 1 — A Line train into LoDo, walk Larimer Square, dinner and a brewery in RiNo.",
+          "Day 2 — Drive to Rocky Mountain NP via Estes Park, hike Bear Lake to Nymph and Dream Lake (easy 2.2 mi RT), push on to Emerald Lake if energy allows.",
+          "Day 3 — Red Rocks Park in the morning, Denver Art Museum or Confluence Park, fly home."
+        ],
+        "gettingAround": "The A Line train covers DEN-to-downtown; rent a car only for the Rocky Mountain NP day (a timed-entry reservation is needed in peak season).",
+        "stayArea": "LoDo or RiNo — walkable, close to breweries and the train line.",
+        "food": [
+          "Snooze an A.M. Eatery (brunch)",
+          "Work & Class (RiNo)",
+          "Avanti Food & Beverage (food hall)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rocky_Mountain_National_Park_in_September_2011_-_Glacier_Gorge_from_Bear_Lake.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=KbCOh3wCZX4"
+    },
+    {
+      "rank": 4,
+      "destination": "New Orleans, LA",
+      "airport": "MSY",
+      "priceLow": 228,
+      "priceHigh": 260,
+      "travelWindow": "Sep 5 – 12, cheapest nonstop (JetBlue/Delta)",
+      "airlines": ["JetBlue", "Delta"],
+      "nonstop": true,
+      "whyRanked": "$228 RT nonstop, French Quarter walkability is hard to beat for a solo trip, and the Barataria Preserve unit of Jean Lafitte National Historical Park is a half-hour away.",
+      "nearbyParks": [
+        { "name": "Jean Lafitte NHP – Barataria Preserve", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The French Quarter and Faubourg Marigny are dense, walkable, and full of live music where striking up a conversation solo at the bar is the norm.",
+      "guide": {
+        "highlights": [
+          "French Quarter walk — Jackson Square, Royal Street galleries",
+          "St. Louis Cathedral",
+          "Frenchmen Street live music",
+          "Barataria Preserve boardwalk trail (alligators, cypress swamp)",
+          "Garden District streetcar ride"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the French Quarter: Jackson Square, Royal Street, beignets at Café du Monde, Frenchmen Street for live music at night.",
+          "Day 2 — Barataria Preserve boardwalk trail in the morning (30-minute drive, or book a guided swamp tour), Garden District streetcar ride and Lafayette Cemetery in the afternoon.",
+          "Day 3 — Frenchmen Art Market, po'boy lunch, fly home."
+        ],
+        "gettingAround": "The French Quarter, Marigny, and Garden District (via the St. Charles streetcar) don't require a car; rent one only for the Barataria Preserve day, or book a swamp tour instead.",
+        "stayArea": "French Quarter or Faubourg Marigny — walkable, central, close to music venues.",
+        "food": [
+          "Café du Monde (beignets)",
+          "Domilise's (po'boys)",
+          "Bacchanal Wine (Marigny courtyard)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MSY",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/French_Quarter%2C_looking_north_with_Mississippi_River_to_the_right_2011.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=AbZk6QjHI4o"
+    },
+    {
+      "rank": 5,
+      "destination": "Charleston, SC",
+      "airport": "CHS",
+      "priceLow": 240,
+      "priceHigh": 270,
+      "travelWindow": "Aug 29 – Sep 5, cheapest nonstop (JetBlue)",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$240 RT nonstop, and the historic peninsula is one of the most walkable downtowns in the South, with Francis Marion National Forest under an hour away.",
+      "nearbyParks": [
+        { "name": "Francis Marion National Forest", "drive": "45 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "The historic peninsula is flat, compact, and safe to wander alone — cobblestone streets, the Battery, and the City Market are all within walking distance of most downtown hotels.",
+      "guide": {
+        "highlights": [
+          "Rainbow Row and the Battery waterfront walk",
+          "Charleston City Market",
+          "Fort Sumter National Monument ferry",
+          "Angel Oak Tree on Johns Island",
+          "Francis Marion National Forest day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Battery and Rainbow Row, Charleston City Market, dinner downtown.",
+          "Day 2 — Ferry to Fort Sumter National Monument in the morning, Angel Oak Tree on Johns Island in the afternoon.",
+          "Day 3 — Drive to Francis Marion National Forest for a short hike or paddle at the Sewee Visitor Center, fly home."
+        ],
+        "gettingAround": "Downtown is entirely walkable or a short pedicab/bike ride; rent a car (or book a tour) only for Johns Island or the national forest.",
+        "stayArea": "Downtown peninsula — walkable, near restaurants and the waterfront.",
+        "food": [
+          "Husk (Southern, downtown)",
+          "Leon's Oyster Shop",
+          "Callie's Hot Little Biscuit"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20CHS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/East_Battery_Street_Charleston_Aug2010.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=VwGap5EOyt4"
+    }
+  ]
+}
