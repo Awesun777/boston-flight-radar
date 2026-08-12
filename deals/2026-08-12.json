@@ -1,0 +1,210 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T04:56:47Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 141,
+      "priceHigh": 241,
+      "travelWindow": "Fall 2026, basic economy floor $141 nonstop (United)",
+      "airlines": ["United"],
+      "nonstop": true,
+      "whyRanked": "Fresh United fare posted just yesterday at $141 RT basic economy — down sharply from the $222 we saw here days ago — and Rocky Mountain National Park is 90 minutes away via Estes Park.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Denver%2C_Colorado_skyline_%28cropped%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=jKpEY4cmss8",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "The A Line train runs straight from DEN into downtown, LoDo and RiNo are walkable, and the outdoor-gear/hostel crowd makes it easy to link up for a day hike solo.",
+      "guide": {
+        "highlights": [
+          "Golden, CO and the Colorado Railroad Museum",
+          "Clear Creek whitewater park in Golden",
+          "Chautauqua Park and the Flatirons in Boulder",
+          "RiNo Art District murals",
+          "Union Station's food hall"
+        ],
+        "itinerary": [
+          "Day 1 — A Line into downtown, wander Union Station and Larimer Square, dinner in RiNo.",
+          "Day 2 — Day trip to Boulder: hike the Chautauqua Trail up to the Flatirons (moderate, 3 mi RT), lunch on Pearl Street.",
+          "Day 3 — Golden for the School of Mines campus and Clear Creek, or push further to Rocky Mountain NP's Bear Lake corridor if you have a car."
+        ],
+        "gettingAround": "A Line train covers the airport-to-downtown hop for free walking around; you'll want a rental car for Boulder, Golden, or the national park.",
+        "stayArea": "RiNo or LoDo — both walkable, close to breweries and the train line.",
+        "food": [
+          "Snooze an A.M. Eatery (brunch)",
+          "Avanti Food & Beverage (food hall)",
+          "The Post Brewing Co. (Boulder day trip)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 2,
+      "destination": "Dallas, TX",
+      "airport": "DFW",
+      "priceLow": 131,
+      "priceHigh": 185,
+      "travelWindow": "Sep 12 – Dec 12, limited Saturday nonstop fares (American)",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $131 RT nonstop, though it's a Saturday-only basic-economy fare and there's no national park nearby.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png/3840px-Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=e5UtYMwoDxM",
+      "nearbyParks": [],
+      "soloScore": 3,
+      "soloWhy": "Bishop Arts District and the Katy Trail are walkable and low-key, but Dallas sprawls — a rideshare or the DART rail is needed to cover the rest.",
+      "guide": {
+        "highlights": [
+          "Bishop Arts District",
+          "Klyde Warren Park",
+          "Dallas Museum of Art (free general admission)",
+          "The Sixth Floor Museum at Dealey Plaza",
+          "Katy Trail for a morning walk or run"
+        ],
+        "itinerary": [
+          "Day 1 — Klyde Warren Park, Dallas Museum of Art, dinner in the Arts District.",
+          "Day 2 — Bishop Arts District for boutiques and tacos, evening on the Katy Trail.",
+          "Day 3 — The Sixth Floor Museum and Reunion Tower before an afternoon flight."
+        ],
+        "gettingAround": "DART light rail connects downtown to Bishop Arts and Mockingbird Station; a rental car opens up the rest of the metro.",
+        "stayArea": "Downtown or Uptown — closest to the DART line and walkable restaurant rows.",
+        "food": [
+          "Pecan Lodge (brisket)",
+          "Oddfellows (Bishop Arts brunch)",
+          "Velvet Taco"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DFW"
+    },
+    {
+      "rank": 3,
+      "destination": "Los Angeles, CA",
+      "airport": "LAX",
+      "priceLow": 197,
+      "priceHigh": 267,
+      "travelWindow": "Fall 2026, nonstop JetBlue basic economy fares fluctuating in this range",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$197–267 RT nonstop on recent JetBlue fare drops, and the Santa Monica Mountains National Recreation Area (Malibu Creek, Topanga) is a 30–45 minute drive from the Westside.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Joshua_Tree_-_Cyclops_%2B_Potato_Head_-_Sunrise.jpg/3840px-Joshua_Tree_-_Cyclops_%2B_Potato_Head_-_Sunrise.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=sI4beO3aKl4",
+      "nearbyParks": [
+        { "name": "Santa Monica Mountains NRA", "drive": "30-45 min" },
+        { "name": "Joshua Tree National Park", "drive": "2.5-3 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Santa Monica, Venice and Downtown's Arts District are walkable pockets, but LA is car-dependent between them — budget for rideshares or a rental.",
+      "guide": {
+        "highlights": [
+          "Venice Boardwalk and Abbot Kinney",
+          "Griffith Observatory and the Hollywood sign trails",
+          "Getty Center (free admission, paid parking)",
+          "Malibu Creek State Park hike",
+          "Grand Central Market downtown"
+        ],
+        "itinerary": [
+          "Day 1 — Santa Monica Pier, walk or bike the Venice Boardwalk, sunset at Abbot Kinney.",
+          "Day 2 — Griffith Park: hike to the Observatory, then Grand Central Market and the Arts District downtown.",
+          "Day 3 — Rent a car for the morning and hike Malibu Creek State Park or Solstice Canyon before an afternoon flight."
+        ],
+        "gettingAround": "The Metro E Line reaches Santa Monica from downtown, but a rental car or regular rideshares are the practical way to see Griffith Park, Malibu, or Joshua Tree.",
+        "stayArea": "Santa Monica or Venice — walkable to the beach and easiest to explore without a car for a day or two.",
+        "food": [
+          "Gjelina (Venice)",
+          "Grand Central Market stalls",
+          "Erewhon (for the people-watching as much as the food)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20LAX"
+    },
+    {
+      "rank": 4,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 207,
+      "priceHigh": 257,
+      "travelWindow": "Fall 2026, nonstop Alaska and JetBlue basic economy fares in this range",
+      "airlines": ["Alaska", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$207–257 RT nonstop, and Cabrillo National Monument sits right in the city — a solo-friendly downtown with a national park unit a 15-minute drive away is a rare combination.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cabrillo_National_Monument_and_Lighthouse.jpg/3840px-Cabrillo_National_Monument_and_Lighthouse.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=EkFb9c9fsSQ",
+      "nearbyParks": [
+        { "name": "Cabrillo National Monument", "drive": "15 min" },
+        { "name": "Torrey Pines State Natural Reserve", "drive": "25 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Compact, walkable Gaslamp and Balboa Park, a trolley that actually covers the tourist core, and Torrey Pines' well-trafficked trails make solo hiking feel safe.",
+      "guide": {
+        "highlights": [
+          "Balboa Park's museums and gardens",
+          "Cabrillo National Monument tide pools and lighthouse",
+          "Torrey Pines State Natural Reserve",
+          "Gaslamp Quarter nightlife",
+          "Old Town San Diego"
+        ],
+        "itinerary": [
+          "Day 1 — Balboa Park museums and gardens, dinner in the Gaslamp Quarter.",
+          "Day 2 — Point Loma: Cabrillo National Monument tide pools and lighthouse, afternoon in Old Town.",
+          "Day 3 — Hike Torrey Pines State Natural Reserve, then La Jolla Cove before an evening flight."
+        ],
+        "gettingAround": "The MTS trolley and buses cover downtown, Balboa Park and Old Town well; a car or rideshare is worth it for Point Loma and Torrey Pines.",
+        "stayArea": "Gaslamp Quarter or Little Italy — walkable to the trolley and the harbor.",
+        "food": [
+          "Liberty Public Market (Point Loma)",
+          "Puesto (Little Italy tacos)",
+          "The Crack Shack"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    },
+    {
+      "rank": 5,
+      "destination": "Seattle, WA",
+      "airport": "SEA",
+      "priceLow": 297,
+      "priceHigh": 407,
+      "travelWindow": "Sep – Oct 2026, sample dates Sep 18-21 (JetBlue)",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $297 RT nonstop, but Olympic and Mount Rainier National Parks are both within a couple hours and Seattle is one of the most solo-friendly big cities in the country.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=JY3dN1rAV1s",
+      "nearbyParks": [
+        { "name": "Mount Rainier National Park", "drive": "2 h" },
+        { "name": "Olympic National Park", "drive": "2-2.5 h (plus ferry)" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Link light rail runs straight from SEA into downtown, Pike Place and Capitol Hill are made for wandering alone, and the hostel and coffee-shop culture makes it easy to strike up conversation.",
+      "guide": {
+        "highlights": [
+          "Pike Place Market",
+          "Kerry Park views of the skyline",
+          "Chihuly Garden and Glass",
+          "Ferry ride across Elliott Bay to Bainbridge Island",
+          "Discovery Park's coastal bluff trails"
+        ],
+        "itinerary": [
+          "Day 1 — Link light rail into downtown, Pike Place Market, Kerry Park at sunset.",
+          "Day 2 — Ferry to Bainbridge Island for the day, or Discovery Park's Loop Trail if you'd rather stay in the city.",
+          "Day 3 — Rent a car for a Mount Rainier day trip (Paradise area for the wildflower meadows) or push to Olympic NP's Hurricane Ridge."
+        ],
+        "gettingAround": "Link light rail covers the airport-to-downtown trip and most of the city core; a rental car is worth it only for the national park days.",
+        "stayArea": "Capitol Hill or Belltown — walkable, close to transit and nightlife.",
+        "food": [
+          "Pike Place Chowder",
+          "Paseo (Cuban sandwiches)",
+          "Damn the Weather (Pioneer Square)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SEA"
+    }
+  ]
+}
