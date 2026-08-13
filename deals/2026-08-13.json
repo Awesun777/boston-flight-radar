@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T05:40:35Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Miami, FL",
+      "airport": "MIA",
+      "priceLow": 144,
+      "priceHigh": 220,
+      "travelWindow": "Sep 1 – 8, nonstop Delta flash sale; nonstop fares typically run $190+ into Oct-Nov",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $144 RT nonstop, and the Everglades' Royal Palm entrance is a 45-minute drive from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=vchssrMcIXM",
+      "nearbyParks": [ { "name": "Everglades National Park", "drive": "45 min" } ],
+      "soloScore": 4,
+      "soloWhy": "South Beach and Wynwood are compact and walkable, the free Metromover covers downtown, and counter-seating Cuban cafes make solo dining easy.",
+      "guide": {
+        "highlights": [
+          "South Beach's Art Deco Historic District",
+          "Wynwood Walls street art",
+          "Little Havana's Calle Ocho",
+          "Vizcaya Museum and Gardens",
+          "Everglades airboat tour or Anhinga Trail walk"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Art Deco district, swim at South Beach, sunset at the South Pointe Pier.",
+          "Day 2 — Wynwood Walls in the morning, Vizcaya Museum and Gardens midday, Little Havana for dinner and live music on Calle Ocho.",
+          "Day 3 — Rent a car for the Everglades: the Anhinga Trail boardwalk (alligators, herons) and an airboat tour before an afternoon flight."
+        ],
+        "gettingAround": "The free Metromover covers downtown and Brickell; South Beach is walkable on its own, but a rental car is the easiest way to reach the Everglades.",
+        "stayArea": "South Beach or Wynwood — walkable, close to the beach or the art district.",
+        "food": [
+          "Versailles (Little Havana, classic Cuban)",
+          "La Sandwicherie (South Beach, late-night)",
+          "Wynwood food trucks and Coyo Taco"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MIA"
+    },
+    {
+      "rank": 2,
+      "destination": "Las Vegas, NV",
+      "airport": "LAS",
+      "priceLow": 185,
+      "priceHigh": 300,
+      "travelWindow": "Aug 26 – 29, cheapest with a connection (Frontier); nonstop Delta fares start around $300",
+      "airlines": ["Frontier", "Delta"],
+      "nonstop": false,
+      "whyRanked": "$185 RT is the connecting-flight floor, but Vegas is the rare hub within striking distance of three national parks: Zion, the Grand Canyon, and Death Valley.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/3840px-Las_Vegas_from_above_%2840064746644%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=z4ir5Zsltnk",
+      "nearbyParks": [
+        { "name": "Zion National Park", "drive": "2.5 h" },
+        { "name": "Grand Canyon West Rim", "drive": "2.5 h" },
+        { "name": "Death Valley National Park", "drive": "2 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "The Strip runs 24/7 with counter-seating restaurants, solo-friendly shows, and a monorail that removes any need to rideshare between casinos.",
+      "guide": {
+        "highlights": [
+          "Fremont Street Experience downtown",
+          "High Roller observation wheel",
+          "Red Rock Canyon National Conservation Area (30 min)",
+          "Valley of Fire State Park day trip",
+          "A Strip food hall for solo-friendly dining"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Strip, ride the High Roller at sunset, dinner at a food hall (Eataly or Grand Bazaar Shops).",
+          "Day 2 — Morning hike or scenic drive at Red Rock Canyon, evening at Fremont Street downtown.",
+          "Day 3 — Rent a car for a Zion or Valley of Fire day trip, or stay closer with a spa day before an evening flight."
+        ],
+        "gettingAround": "The Strip monorail and walking cover the casino corridor; a rental car is essential for Zion, Grand Canyon, or Death Valley day trips.",
+        "stayArea": "Mid-Strip, near a monorail stop — walkable to most casinos and shows.",
+        "food": [
+          "In-N-Out (yes, it's worth it)",
+          "Eataly at Park MGM",
+          "A classic Vegas buffet for the experience"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20LAS"
+    },
+    {
+      "rank": 3,
+      "destination": "Nashville, TN",
+      "airport": "BNA",
+      "priceLow": 194,
+      "priceHigh": 194,
+      "travelWindow": "Aug 27 – 31, nonstop (Delta)",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "$194 RT nonstop, and Mammoth Cave National Park is under two hours north — an easy day trip from a famously walkable downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashville%2C_TN_skyline.jpg/3840px-Nashville%2C_TN_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=6YnkKKRREgs",
+      "nearbyParks": [ { "name": "Mammoth Cave National Park", "drive": "1.75 h" } ],
+      "soloScore": 4,
+      "soloWhy": "The Gulch and downtown are walkable, live-music bars are built around bar-seating for solo visitors, and the crowd is used to people showing up alone for the music.",
+      "guide": {
+        "highlights": [
+          "Broadway honky-tonks",
+          "Country Music Hall of Fame",
+          "The Gulch's murals and boutiques",
+          "Percy Warner Park trails",
+          "Mammoth Cave National Park day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Broadway honky-tonks and the Country Music Hall of Fame, dinner in the Gulch.",
+          "Day 2 — Morning hike at Percy Warner Park, afternoon in East Nashville for coffee and murals, live music at night.",
+          "Day 3 — Rent a car for a Mammoth Cave National Park tour (book the cave tour ahead), back to Nashville for an evening flight."
+        ],
+        "gettingAround": "Downtown, the Gulch, and East Nashville (via the pedestrian bridge) are walkable; rent a car only for the Mammoth Cave day.",
+        "stayArea": "The Gulch or East Nashville — walkable, close to music venues and food.",
+        "food": [
+          "Hattie B's Hot Chicken",
+          "Arnold's Country Kitchen (meat-and-three)",
+          "Pinewood Social"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BNA"
+    },
+    {
+      "rank": 4,
+      "destination": "Phoenix, AZ",
+      "airport": "PHX",
+      "priceLow": 242,
+      "priceHigh": 292,
+      "travelWindow": "Aug 24 – 31, cheapest with a connection (United); nonstop Delta fares start around $292",
+      "airlines": ["United", "Delta"],
+      "nonstop": false,
+      "whyRanked": "$242 RT is the connecting-fare floor, but Phoenix is the closest major airport to both the Grand Canyon and Sedona's red rocks.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=sm_0WibP0Wk",
+      "nearbyParks": [
+        { "name": "Grand Canyon National Park (South Rim)", "drive": "3.5-4 h" },
+        { "name": "Sedona / Red Rock State Park", "drive": "2 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Roosevelt Row and downtown are a walkable pocket, but the metro sprawls — plan on a rental car for Sedona or the Grand Canyon.",
+      "guide": {
+        "highlights": [
+          "Desert Botanical Garden",
+          "Camelback Mountain or Papago Park hike",
+          "Old Town Scottsdale",
+          "Roosevelt Row murals and First Fridays art walk",
+          "Sedona red-rock day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Desert Botanical Garden, hike Papago Park's Hole-in-the-Rock, dinner on Roosevelt Row.",
+          "Day 2 — Morning hike up Camelback Mountain (Echo Canyon Trail), afternoon in Old Town Scottsdale.",
+          "Day 3 — Rent a car for a Sedona day trip: Cathedral Rock or Bell Rock, back to Phoenix for an evening flight."
+        ],
+        "gettingAround": "Light rail covers downtown and Tempe; a rental car is essential for Sedona or the Grand Canyon.",
+        "stayArea": "Roosevelt Row or downtown — walkable, close to the light rail.",
+        "food": [
+          "Barrio Café",
+          "Pizzeria Bianco",
+          "Matt's Big Breakfast"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20PHX"
+    },
+    {
+      "rank": 5,
+      "destination": "San Juan, PR",
+      "airport": "SJU",
+      "priceLow": 244,
+      "priceHigh": 257,
+      "travelWindow": "Sep 29 – Oct 3, cheapest with a connection (JetBlue); nonstop Delta fares from $257",
+      "airlines": ["JetBlue", "Delta"],
+      "nonstop": false,
+      "whyRanked": "The priciest of the five at $244 RT, but El Yunque National Forest is 45 minutes away and Old San Juan is one of the most walkable historic districts for a solo trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2013_Old_San_Juan_01.JPG/3840px-2013_Old_San_Juan_01.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=UIpT_lDRFn8",
+      "nearbyParks": [ { "name": "El Yunque National Forest", "drive": "45 min" } ],
+      "soloScore": 5,
+      "soloWhy": "Old San Juan's cobblestone core is compact, well-lit, and covered by a free trolley — no car needed until you head out for El Yunque.",
+      "guide": {
+        "highlights": [
+          "Castillo San Felipe del Morro",
+          "Old San Juan's cobblestone streets and La Perla",
+          "Condado Beach",
+          "El Yunque National Forest hike (La Mina Falls)",
+          "Bioluminescent bay night kayak in Fajardo (day trip)"
+        ],
+        "itinerary": [
+          "Day 1 — Walk Old San Juan: El Morro, the cathedral, La Perla, dinner on Calle Fortaleza.",
+          "Day 2 — Rent a car or book a van tour to El Yunque National Forest, hike to La Mina Falls, back for sunset at Condado Beach.",
+          "Day 3 — Bioluminescent bay night kayak tour in Fajardo, or a relaxed beach morning before an evening flight."
+        ],
+        "gettingAround": "Old San Juan and Condado are walkable, with a free trolley in the old city; rent a car or book a tour van for El Yunque or the bio bay.",
+        "stayArea": "Old San Juan or Condado — walkable, close to the beach or the historic core.",
+        "food": [
+          "Mofongo at a local kiosko in Piñones",
+          "Barrachina (birthplace of the piña colada)",
+          "Ocean Lab Brewing"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SJU"
+    }
+  ]
+}
