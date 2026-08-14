@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T05:15:01Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Buffalo, NY",
+      "airport": "BUF",
+      "priceLow": 115,
+      "priceHigh": 165,
+      "travelWindow": "Sep 29 cheapest confirmed date, nonstop JetBlue; American also flies the route nonstop",
+      "airlines": ["JetBlue", "American"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $115 RT nonstop, and Niagara Falls State Park — the oldest state park in the US — is a 25-minute drive from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Niagara_Falls_2009.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Dv0DNGfGfVM",
+      "nearbyParks": [ { "name": "Niagara Falls State Park", "drive": "25 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Downtown Buffalo's Elmwood Village and Canalside are small and walkable, and Niagara's Goat Island trails are well-trafficked and easy to explore solo.",
+      "guide": {
+        "highlights": [
+          "Niagara Falls State Park: American, Bridal Veil, and Horseshoe Falls viewpoints",
+          "Cave of the Winds boardwalk (get soaked at the base of the falls)",
+          "Maid of the Mist boat tour",
+          "Elmwood Village for shops and cafes",
+          "Canalside on the Buffalo waterfront"
+        ],
+        "itinerary": [
+          "Day 1 — Land, walk Elmwood Village, dinner at a Buffalo wing joint, evening stroll at Canalside.",
+          "Day 2 — Drive to Niagara Falls State Park: Goat Island trails, Cave of the Winds, and the Maid of the Mist boat tour; stay for the nightly falls illumination.",
+          "Day 3 — Whirlpool State Park for the Niagara Gorge rim trail, or the Buffalo AKG Art Museum before an afternoon flight."
+        ],
+        "gettingAround": "Downtown Buffalo is walkable; rent a car for the 25-minute drive to Niagara Falls (no rideshare needed once there — the park's shuttle covers the overlooks).",
+        "stayArea": "Elmwood Village or downtown Buffalo — walkable, with easy highway access to the falls.",
+        "food": [
+          "Anchor Bar (birthplace of the Buffalo wing)",
+          "Gabriel's Gate (pub fare, Allentown)",
+          "Duff's (another wing contender)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BUF"
+    },
+    {
+      "rank": 2,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 152,
+      "priceHigh": 241,
+      "travelWindow": "Late Aug – Sep, cheapest nonstop (Frontier); United/Delta nonstop fares run higher into fall",
+      "airlines": ["Frontier", "United", "Delta"],
+      "nonstop": true,
+      "whyRanked": "$152 RT nonstop is a fresh Frontier floor, and Rocky Mountain National Park is 90 minutes away via Estes Park.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=4Fq2-wekzXc",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "The A Line train runs straight from DEN into downtown, City Park and the Cherry Creek Trail are easy solo walks, and Red Rocks shows draw a crowd used to solo concertgoers.",
+      "guide": {
+        "highlights": [
+          "Denver Botanic Gardens",
+          "Denver Art Museum and Civic Center Park",
+          "Red Rocks Amphitheatre (check the summer show calendar)",
+          "City Park and the Denver Zoo",
+          "Cherry Creek Trail for a morning run or bike"
+        ],
+        "itinerary": [
+          "Day 1 — A Line into downtown, Denver Art Museum and Civic Center Park, dinner in the Highlands.",
+          "Day 2 — Denver Botanic Gardens in the morning, Cherry Creek Trail by bike in the afternoon, a Red Rocks show at night if the calendar lines up.",
+          "Day 3 — Rent a car for Rocky Mountain NP: the Bear Lake corridor for an easy alpine hike, back to Denver for an evening flight."
+        ],
+        "gettingAround": "A Line train covers the airport-to-downtown hop; you'll want a rental car for Red Rocks, Boulder, or the national park.",
+        "stayArea": "Highlands or Cherry Creek — walkable, close to trails and restaurants.",
+        "food": [
+          "Root Down (Highlands, farm-to-table)",
+          "Denver Central Market (food hall)",
+          "Voodoo Doughnut (late-night)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 3,
+      "destination": "New Orleans, LA",
+      "airport": "MSY",
+      "priceLow": 178,
+      "priceHigh": 259,
+      "travelWindow": "Sep – Nov, $178 RT connecting (Frontier) floor; nonstop JetBlue/Southwest fares run $241-259",
+      "airlines": ["Frontier", "JetBlue", "Southwest"],
+      "nonstop": false,
+      "whyRanked": "$178 RT is the connecting-flight floor, and the French Quarter is one of the most solo-friendly historic districts in the country — no park nearby, but the price and the solo score both earn it a spot.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/French_Quarter%2C_looking_north_with_Mississippi_River_to_the_right_2011.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=AbZk6QjHI4o",
+      "nearbyParks": [],
+      "soloScore": 5,
+      "soloWhy": "The French Quarter and Garden District are compact and walkable, counter-seating po'boy shops and courtyard bars make solo dining easy, and the streetcar removes any need for a car.",
+      "guide": {
+        "highlights": [
+          "French Quarter: Jackson Square, St. Louis Cathedral, Bourbon and Royal Streets",
+          "Garden District mansions via the St. Charles streetcar",
+          "National WWII Museum",
+          "Frenchmen Street live music (locals' alternative to Bourbon St.)",
+          "City Park and the New Orleans Museum of Art"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the French Quarter: Jackson Square, the Cabildo, Royal Street galleries, dinner and jazz on Frenchmen Street.",
+          "Day 2 — St. Charles streetcar to the Garden District for the mansions and Lafayette Cemetery, National WWII Museum in the afternoon.",
+          "Day 3 — City Park and the New Orleans Museum of Art, or a swamp tour day trip before an evening flight."
+        ],
+        "gettingAround": "The French Quarter and Garden District are walkable, and the St. Charles streetcar covers the rest of the historic core — no car needed.",
+        "stayArea": "French Quarter (for nightlife) or the Garden District (for quiet) — both walkable and streetcar-connected.",
+        "food": [
+          "Domilise's Po-Boys",
+          "Cafe du Monde (beignets)",
+          "Bevi Seafood Co."
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MSY"
+    },
+    {
+      "rank": 4,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 193,
+      "priceHigh": 199,
+      "travelWindow": "Sep 3-19, nonstop JetBlue ($193) and Delta ($199)",
+      "airlines": ["JetBlue", "Delta"],
+      "nonstop": true,
+      "whyRanked": "$193-199 RT nonstop, and Fort De Soto Park's beaches and the Gulf coast are a short drive from a walkable downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/3840px-Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=fDFCPnf47PQ",
+      "nearbyParks": [ { "name": "Fort De Soto Park", "drive": "45 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Riverwalk and Hyde Park are walkable and safe for an evening stroll, but a rental car or rideshare is worth it for the Gulf beaches.",
+      "guide": {
+        "highlights": [
+          "Tampa Riverwalk",
+          "Ybor City's Cuban heritage and nightlife",
+          "Fort De Soto Park beaches and fort ruins",
+          "Florida Aquarium",
+          "Clearwater Beach or St. Pete day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Riverwalk, Florida Aquarium, dinner and cigars in Ybor City.",
+          "Day 2 — Rent a car for Fort De Soto Park: the beach and the Spanish-American War fort ruins, sunset at the north beach.",
+          "Day 3 — Day trip to St. Pete for the Dali Museum and Central Avenue murals, or Clearwater Beach before an afternoon flight."
+        ],
+        "gettingAround": "The TECO Line streetcar connects downtown to Ybor City; a rental car is needed for the beaches and Fort De Soto.",
+        "stayArea": "Downtown or Hyde Park — walkable, close to the Riverwalk and streetcar.",
+        "food": [
+          "Columbia Restaurant (Ybor City, since 1905)",
+          "Ulele (riverside, Native-inspired)",
+          "La Segunda Central Bakery (Cuban bread)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA"
+    },
+    {
+      "rank": 5,
+      "destination": "Salt Lake City, UT",
+      "airport": "SLC",
+      "priceLow": 259,
+      "priceHigh": 280,
+      "travelWindow": "Aug 28 – Sep 2, nonstop Delta",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $259 RT nonstop, but Big Cottonwood and Little Cottonwood Canyons are 30 minutes from downtown, with Zion and Arches both reachable on a longer day trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/SLC_Skyline_2024.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Ul82uf8JxDg",
+      "nearbyParks": [
+        { "name": "Big Cottonwood Canyon", "drive": "30 min" },
+        { "name": "Zion National Park", "drive": "4.5 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Downtown and the Temple Square area are compact and walkable, the TRAX light rail reaches the canyons' trailhead shuttles, and the hiking culture makes it easy to join a group trail.",
+      "guide": {
+        "highlights": [
+          "Temple Square and the Utah State Capitol",
+          "Big Cottonwood Canyon: Donut Falls or Lake Blanche trail",
+          "Antelope Island State Park bison herd",
+          "Red Butte Garden",
+          "Liberty Park and the Tracy Aviary"
+        ],
+        "itinerary": [
+          "Day 1 — Temple Square, the Capitol, dinner in the Central 9th neighborhood.",
+          "Day 2 — Rent a car for Big Cottonwood Canyon: hike to Donut Falls or Lake Blanche, back downtown for a brewery dinner.",
+          "Day 3 — Antelope Island State Park for bison and lake views, or push further for a long Zion or Arches day trip if you have the hours."
+        ],
+        "gettingAround": "TRAX light rail covers downtown and the airport; a rental car is essential for the canyons and any national park day trip.",
+        "stayArea": "Downtown near Temple Square — walkable, close to TRAX and restaurants.",
+        "food": [
+          "Red Iguana (mole, downtown)",
+          "The Copper Onion",
+          "Este Pizzeria"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SLC"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-08-13T05:40:35Z",
+  "generatedAt": "2026-08-14T05:15:01Z",
   "digests": [
+    { "date": "2026-08-14", "title": "Buffalo $115, Niagara Falls nonstop", "destinations": ["BUF", "DEN", "MSY", "TPA", "SLC"] },
     { "date": "2026-08-13", "title": "Miami $144, Everglades day trip", "destinations": ["MIA", "LAS", "BNA", "PHX", "SJU"] },
     { "date": "2026-08-12", "title": "Denver $141, fresh fare drop", "destinations": ["DEN", "DFW", "LAX", "SAN", "SEA"] },
     { "date": "2026-08-11", "title": "Chicago $166, Rocky Mountain NP via Denver", "destinations": ["ORD", "TPA", "DEN", "MSY", "CHS"] },
