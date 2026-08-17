@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-17T04:55:30Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 110,
+      "priceHigh": 150,
+      "travelWindow": "Sep 5, 12, 19 cheapest one-way base fares confirmed on Allegiant's own site; nonstop, 5x weekly",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $110-150 RT base fare nonstop, and Great Smoky Mountains National Park — the most-visited national park in the US — is a 45-minute drive away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/View_atop_Cliff_Tops_on_Mount_LeConte%2C_GSMNP%2C_TN.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=_h2_pbomTP8",
+      "nearbyParks": [ { "name": "Great Smoky Mountains National Park", "drive": "45 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Downtown Knoxville's Market Square and the Old City are small and walkable, and the park's well-marked, high-traffic trails (Laurel Falls, Grotto Falls) are easy and safe to hike solo.",
+      "guide": {
+        "highlights": [
+          "Cades Cove scenic loop for wildlife (elk, black bears)",
+          "Laurel Falls or Grotto Falls trail",
+          "Downtown Knoxville's Market Square",
+          "Sunsphere and World's Fair Park",
+          "Gatlinburg SkyBridge and SkyLift (touristy but worth it once)"
+        ],
+        "itinerary": [
+          "Day 1 — Land, walk Market Square and the Old City, dinner at a local brewery.",
+          "Day 2 — Drive into the Smokies: Laurel Falls trail in the morning, Cades Cove loop at golden hour for wildlife.",
+          "Day 3 — Grotto Falls hike via Trillium Gap Trail, or the Gatlinburg SkyBridge, before an afternoon flight."
+        ],
+        "gettingAround": "Downtown Knoxville is walkable, but a rental car is essential for the 45-minute drive into the national park and its trailheads.",
+        "stayArea": "Downtown Knoxville — walkable, with easy highway access to the park via Sevierville or Gatlinburg.",
+        "food": [
+          "Knox Mason (Southern comfort food)",
+          "Pete's Coffee Shop (classic diner breakfast)",
+          "The Tomato Head (Market Square)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Fort Myers, FL",
+      "airport": "RSW",
+      "priceLow": 177,
+      "priceHigh": 230,
+      "travelWindow": "Sep 12 cheapest confirmed date, nonstop JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$177 RT nonstop, and Everglades National Park's Gulf Coast entrance plus the J.N. \"Ding\" Darling National Wildlife Refuge on Sanibel are both under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=dPxoYXzFeLQ",
+      "nearbyParks": [
+        { "name": "J.N. \"Ding\" Darling National Wildlife Refuge", "drive": "40 min" },
+        { "name": "Everglades National Park (Gulf Coast entrance)", "drive": "1.5 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown Fort Myers' River District is small and walkable for an evening out, though a rental car is worth it for the barrier islands and refuge.",
+      "guide": {
+        "highlights": [
+          "J.N. \"Ding\" Darling NWR wildlife drive and kayak trail",
+          "Sanibel Island shelling beaches",
+          "Downtown River District murals and riverfront",
+          "Edison and Ford Winter Estates",
+          "Everglades Gulf Coast boat tour out of Everglades City"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the River District, Edison and Ford Winter Estates, dinner riverfront.",
+          "Day 2 — Drive to Sanibel: Ding Darling wildlife drive at low tide, then shell on the beach.",
+          "Day 3 — Day trip to Everglades City for a Gulf Coast boat tour before an afternoon flight."
+        ],
+        "gettingAround": "The River District is walkable; a rental car is essential for Sanibel, the refuge, and the Everglades day trip.",
+        "stayArea": "Downtown River District — walkable, close to restaurants and a short drive to the causeway.",
+        "food": [
+          "The Standard (River District)",
+          "Ford's Garage (riverfront)",
+          "Doc Ford's Rum Bar (Sanibel)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20RSW"
+    },
+    {
+      "rank": 3,
+      "destination": "Austin, TX",
+      "airport": "AUS",
+      "priceLow": 158,
+      "priceHigh": 210,
+      "travelWindow": "Sep 10 cheapest confirmed date, nonstop on Southwest or JetBlue",
+      "airlines": ["Southwest", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$158 RT nonstop, and Enchanted Rock State Natural Area and McKinney Falls State Park bookend a famously solo-friendly food-and-music city.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg/3840px-Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=cAEOR7Ukcz4",
+      "nearbyParks": [
+        { "name": "McKinney Falls State Park", "drive": "20 min" },
+        { "name": "Enchanted Rock State Natural Area", "drive": "1.5 h" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "South Congress and Rainey Street are walkable, counter-seating taco trailers and BBQ joints make solo dining effortless, and live-music bars are built for showing up alone.",
+      "guide": {
+        "highlights": [
+          "South Congress Avenue shops and Hope Outdoor Gallery",
+          "Barton Springs Pool",
+          "Lady Bird Lake hike-and-bike trail",
+          "Rainey Street live music and food trucks",
+          "McKinney Falls State Park's Onion Creek trail"
+        ],
+        "itinerary": [
+          "Day 1 — Walk South Congress, swim Barton Springs, live music on Rainey Street at night.",
+          "Day 2 — Lady Bird Lake trail in the morning, McKinney Falls State Park in the afternoon.",
+          "Day 3 — Drive out to Enchanted Rock for a sunrise or sunset climb, back to Austin for an evening flight."
+        ],
+        "gettingAround": "Downtown, South Congress, and Rainey Street are walkable or a short rideshare apart; a rental car is needed for McKinney Falls and Enchanted Rock.",
+        "stayArea": "South Congress or Rainey Street — walkable, close to music venues and the lake trail.",
+        "food": [
+          "Franklin Barbecue (arrive early or order ahead)",
+          "Veracruz All Natural (breakfast tacos)",
+          "Terry Black's Barbecue"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AUS"
+    },
+    {
+      "rank": 4,
+      "destination": "Pittsburgh, PA",
+      "airport": "PIT",
+      "priceLow": 192,
+      "priceHigh": 244,
+      "travelWindow": "Late Aug – Sep, cheapest nonstop (Delta); JetBlue nonstop fares run comparable into fall",
+      "airlines": ["Delta", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$192 RT nonstop, and Ohiopyle State Park's whitewater and the Frank Lloyd Wright house Fallingwater are both about 90 minutes southeast.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ascending_the_Duquesne_Incline.jpg/3840px-Ascending_the_Duquesne_Incline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=-wNAE24yW7s",
+      "nearbyParks": [ { "name": "Ohiopyle State Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "The Strip District and Downtown are walkable, the Duquesne Incline and bridges make for easy solo sightseeing, and counter-service sandwich shops keep solo meals simple.",
+      "guide": {
+        "highlights": [
+          "Duquesne Incline and Mount Washington overlook",
+          "The Strip District food stalls and markets",
+          "Andy Warhol Museum",
+          "Point State Park at the Three Rivers confluence",
+          "Fallingwater and Ohiopyle State Park day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Ride the Duquesne Incline for the skyline view, walk Point State Park, dinner in the Strip District.",
+          "Day 2 — Andy Warhol Museum in the morning, explore the South Side or Lawrenceville in the afternoon.",
+          "Day 3 — Drive to Fallingwater (book a tour ahead) and Ohiopyle State Park for a short hike or raft trip, back for an evening flight."
+        ],
+        "gettingAround": "Downtown, the Strip District, and the South Side are walkable and linked by the T light rail and inclines; a rental car is needed for Fallingwater and Ohiopyle.",
+        "stayArea": "Downtown or the Strip District — walkable, close to the incline and river trails.",
+        "food": [
+          "Primanti Bros. (the original, Strip District)",
+          "Pamela's Diner (hotcakes)",
+          "Enrico Biscotti Co. (Strip District)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20PIT"
+    },
+    {
+      "rank": 5,
+      "destination": "San Francisco, CA",
+      "airport": "SFO",
+      "priceLow": 279,
+      "priceHigh": 330,
+      "travelWindow": "Sep – Nov, cheapest nonstop found; JetBlue's current one-way fare floor is $159",
+      "airlines": ["JetBlue", "United", "Delta"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $279 RT nonstop, but Muir Woods and Point Reyes National Seashore are both under an hour away, with Yosemite reachable on a long day trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/3840px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Y6KRGC7nS4w",
+      "nearbyParks": [
+        { "name": "Muir Woods National Monument", "drive": "45 min" },
+        { "name": "Point Reyes National Seashore", "drive": "1 h" },
+        { "name": "Yosemite National Park", "drive": "4 h" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "BART runs straight from SFO into downtown, Muni and cable cars cover the walkable neighborhoods, and the city's counter-seating cafes and hostels are used to solo travelers.",
+      "guide": {
+        "highlights": [
+          "Golden Gate Bridge and Crissy Field",
+          "Muir Woods old-growth redwoods",
+          "Ferry Building Marketplace",
+          "Golden Gate Park and the de Young Museum",
+          "Point Reyes' Tomales Point trail"
+        ],
+        "itinerary": [
+          "Day 1 — BART into the city, walk Crissy Field to the Golden Gate Bridge, dinner at the Ferry Building.",
+          "Day 2 — Rent a car for Muir Woods in the morning, Point Reyes Tomales Point trail in the afternoon.",
+          "Day 3 — Golden Gate Park and the de Young Museum, or push out to Yosemite for a long day trip before an evening flight."
+        ],
+        "gettingAround": "BART covers the airport-to-downtown hop and Muni/cable cars handle the neighborhoods; a rental car is needed for Muir Woods, Point Reyes, or Yosemite.",
+        "stayArea": "Fisherman's Wharf or the Mission — walkable, close to transit and restaurants.",
+        "food": [
+          "Tartine Bakery (the Mission)",
+          "Swan Oyster Depot (counter seating, Polk Street)",
+          "La Taqueria (the Mission)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SFO"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-08-14T05:15:01Z",
+  "generatedAt": "2026-08-17T04:55:30Z",
   "digests": [
+    { "date": "2026-08-16", "title": "Knoxville $110, Smoky Mountains again", "destinations": ["TYS", "RSW", "AUS", "PIT", "SFO"] },
     { "date": "2026-08-14", "title": "Buffalo $115, Niagara Falls nonstop", "destinations": ["BUF", "DEN", "MSY", "TPA", "SLC"] },
     { "date": "2026-08-13", "title": "Miami $144, Everglades day trip", "destinations": ["MIA", "LAS", "BNA", "PHX", "SJU"] },
     { "date": "2026-08-12", "title": "Denver $141, fresh fare drop", "destinations": ["DEN", "DFW", "LAX", "SAN", "SEA"] },
