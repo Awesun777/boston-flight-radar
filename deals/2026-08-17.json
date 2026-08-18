@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-18T04:55:23Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Dallas, TX",
+      "airport": "DFW",
+      "priceLow": 131,
+      "priceHigh": 175,
+      "travelWindow": "Sat departures Sep 12, 19, 26; Oct 24, 31; Nov 7, 14, 21 cheapest confirmed dates, nonstop American",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $131 RT nonstop; no national park nearby, but the price alone earns the top spot.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png/3840px-Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Kt7lpqdbNgA",
+      "nearbyParks": [ { "name": "Cedar Hill State Park", "drive": "35 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Deep Ellum and the Bishop Arts District are compact, walkable pockets with counter-service tacos and live music, though rideshares are needed to bridge the sprawl between them.",
+      "guide": {
+        "highlights": [
+          "Klyde Warren Park (deck park over the freeway, food trucks)",
+          "Deep Ellum street art and live-music clubs",
+          "Bishop Arts District boutiques and pie shops",
+          "The Sixth Floor Museum at Dealey Plaza",
+          "Dallas Arboretum and Botanical Garden"
+        ],
+        "itinerary": [
+          "Day 1 — Klyde Warren Park, the Sixth Floor Museum, dinner and live music in Deep Ellum.",
+          "Day 2 — Dallas Arboretum in the morning, Bishop Arts District for the afternoon and evening.",
+          "Day 3 — Cedar Hill State Park for a short lakeside trail before an afternoon flight."
+        ],
+        "gettingAround": "DART light rail covers DFW-to-downtown and the main museum district, but a rideshare or rental car is worth it for Bishop Arts and the arboretum.",
+        "stayArea": "Deep Ellum or downtown — walkable to the rail line and nightlife.",
+        "food": [
+          "Pecan Lodge (BBQ, Deep Ellum)",
+          "Emporium Pies (Bishop Arts District)",
+          "Ruins (Deep Ellum tasting menu)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DFW"
+    },
+    {
+      "rank": 2,
+      "destination": "Nashville, TN",
+      "airport": "BNA",
+      "priceLow": 137,
+      "priceHigh": 180,
+      "travelWindow": "Oct 20-23, 25, 27-31 cheapest confirmed dates, nonstop on Delta, JetBlue, or Southwest",
+      "airlines": ["Delta", "JetBlue", "Southwest"],
+      "nonstop": true,
+      "whyRanked": "$137 RT nonstop ties for the cheapest fare of the five, and Mammoth Cave National Park — the world's longest known cave system — is a 90-minute drive north.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashville%2C_TN_skyline.jpg/3840px-Nashville%2C_TN_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Z6sJIXIxUSk",
+      "nearbyParks": [ { "name": "Mammoth Cave National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "Broadway's honky-tonks and songwriter rounds are built for showing up alone, and downtown, the Gulch, and Music Row are all walkable without a car.",
+      "guide": {
+        "highlights": [
+          "Broadway honky-tonks and live music",
+          "Ryman Auditorium tour",
+          "Country Music Hall of Fame",
+          "Centennial Park's full-scale Parthenon replica",
+          "Mammoth Cave National Park guided cave tour"
+        ],
+        "itinerary": [
+          "Day 1 — Walk Broadway's honky-tonks, Ryman Auditorium tour, dinner in the Gulch.",
+          "Day 2 — Country Music Hall of Fame, Centennial Park and the Parthenon, songwriter round at the Bluebird Cafe at night.",
+          "Day 3 — Drive to Mammoth Cave for a ranger-led cave tour before an afternoon flight."
+        ],
+        "gettingAround": "Downtown, the Gulch, and Music Row are walkable; a rental car is needed for the 90-minute drive to Mammoth Cave.",
+        "stayArea": "The Gulch or downtown — walkable to Broadway and the honky-tonks.",
+        "food": [
+          "Hattie B's Hot Chicken",
+          "Arnold's Country Kitchen (meat-and-three)",
+          "Prince's Hot Chicken (the original)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BNA"
+    },
+    {
+      "rank": 3,
+      "destination": "Savannah, GA",
+      "airport": "SAV",
+      "priceLow": 137,
+      "priceHigh": 198,
+      "travelWindow": "Nov 4-5, 11-12, 18-20 cheapest confirmed dates, nonstop on Delta or JetBlue",
+      "airlines": ["Delta", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "Ties Nashville at $137 RT nonstop, and Savannah's walkable historic squares plus Cumberland Island National Seashore's wild beaches 90 minutes south give it the edge for a solo trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Forsyth_fountain_2019.jpeg/3840px-Forsyth_fountain_2019.jpeg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=wuanvfuLefA",
+      "nearbyParks": [ { "name": "Cumberland Island National Seashore", "drive": "1.5 h" } ],
+      "soloScore": 5,
+      "soloWhy": "The historic district's squares and River Street are flat, walkable, and lined with counter-seating cafes, making solo dining and evening strolls effortless.",
+      "guide": {
+        "highlights": [
+          "Forsyth Park and its fountain",
+          "River Street and the historic cotton warehouses",
+          "Self-guided walking tour of the historic squares",
+          "Bonaventure Cemetery",
+          "Cumberland Island National Seashore day trip (ferry from St. Marys)"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the historic squares from Forsyth Park to River Street, dinner along the riverfront.",
+          "Day 2 — Bonaventure Cemetery in the morning, City Market shops and a ghost tour at night.",
+          "Day 3 — Drive to St. Marys for the ferry to Cumberland Island's wild beaches and wild horses before an evening flight."
+        ],
+        "gettingAround": "The historic district is entirely walkable; a rental car is needed for Tybee Island or the Cumberland Island ferry dock.",
+        "stayArea": "The Historic District — walkable to every square, River Street, and City Market.",
+        "food": [
+          "Mrs. Wilkes' Dining Room (Southern family-style)",
+          "Leopold's Ice Cream",
+          "The Grey (in a converted Greyhound station)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAV"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 152,
+      "priceHigh": 220,
+      "travelWindow": "Aug 29 - Sep 2 cheapest confirmed dates on Frontier; fares run into fall on United, Delta, and Southwest",
+      "airlines": ["Frontier", "United", "Delta", "Southwest"],
+      "nonstop": true,
+      "whyRanked": "A fresh $152 RT nonstop Frontier fare, still the best price-to-park ratio of the five: Rocky Mountain National Park is 90 minutes away via Estes Park.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rocky_Mountain_National_Park_in_September_2011_-_Glacier_Gorge_from_Bear_Lake.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=A6kyZezmL6U",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "The A Line train runs straight from DEN into downtown, the RiNo Art District and Union Station area are walkable, and Confluence Park draws a steady crowd for an easy solo paddle or run.",
+      "guide": {
+        "highlights": [
+          "RiNo Art District murals and breweries",
+          "Union Station's restaurants and Great Hall",
+          "Confluence Park for kayaking or a riverside walk",
+          "16th Street Mall for an easy downtown stroll",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Union Station and the 16th Street Mall, dinner and a brewery crawl in RiNo.",
+          "Day 2 — Confluence Park in the morning for a paddle or run, LoDo galleries and shops in the afternoon.",
+          "Day 3 — Rent a car for Rocky Mountain NP: the Bear Lake corridor for an easy alpine hike, back to Denver for an evening flight."
+        ],
+        "gettingAround": "The A Line train covers the airport-to-downtown hop and RiNo/Union Station are walkable; a rental car is needed for the national park.",
+        "stayArea": "RiNo or Union Station area — walkable, close to breweries and the train.",
+        "food": [
+          "Snooze, an A.M. Eatery (breakfast)",
+          "Work & Class (RiNo)",
+          "Casa Bonita (kitschy dinner theater)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 5,
+      "destination": "San Jose, CA",
+      "airport": "SJC",
+      "priceLow": 202,
+      "priceHigh": 312,
+      "travelWindow": "Oct - early Dec cheapest confirmed window, nonstop American (basic economy $202, regular economy $312)",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $202 RT basic economy, but Pinnacles National Park's condor-filled crags are 90 minutes south and the Bay Area's food scene rewards the splurge.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Valencia_Hotel%2C_Santana_Row_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=IibcQNaeTCM",
+      "nearbyParks": [
+        { "name": "Pinnacles National Park", "drive": "1.5 h" },
+        { "name": "Henry Coe State Park", "drive": "45 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "VTA light rail and a walkable downtown core make it easy without a car for a day or two, and Santana Row's counter-seating restaurants suit solo dining.",
+      "guide": {
+        "highlights": [
+          "Santana Row shopping and dining district",
+          "Japantown — one of the last three historic Japantowns in the US",
+          "Winchester Mystery House",
+          "Alum Rock Park's canyon trails",
+          "Pinnacles National Park day trip for condor viewing"
+        ],
+        "itinerary": [
+          "Day 1 — Winchester Mystery House tour, dinner and shopping at Santana Row.",
+          "Day 2 — Japantown for mochi and ramen, Alum Rock Park for an afternoon canyon hike.",
+          "Day 3 — Drive to Pinnacles National Park for the talus caves and a chance at spotting California condors, back for an evening flight."
+        ],
+        "gettingAround": "VTA light rail covers downtown and Santana Row; a rental car is essential for Pinnacles and Henry Coe.",
+        "stayArea": "Downtown San Jose or Santana Row — walkable, close to transit and restaurants.",
+        "food": [
+          "Original Joe's (downtown, since 1937)",
+          "Japantown's Shuei-Do Manju Shop and ramen counters",
+          "San Pedro Square Market"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SJC"
+    }
+  ]
+}
