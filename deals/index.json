@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-08-18T04:55:23Z",
+  "generatedAt": "2026-08-19T04:57:31Z",
   "digests": [
+    { "date": "2026-08-18", "title": "DC $117 flash fare, Chicago via Indiana Dunes", "destinations": ["DCA", "DFW", "ORD", "PDX", "MIA"] },
     { "date": "2026-08-17", "title": "Dallas $131, Savannah solo pick", "destinations": ["DFW", "BNA", "SAV", "DEN", "SJC"] },
     { "date": "2026-08-16", "title": "Knoxville $110, Smoky Mountains again", "destinations": ["TYS", "RSW", "AUS", "PIT", "SFO"] },
     { "date": "2026-08-14", "title": "Buffalo $115, Niagara Falls nonstop", "destinations": ["BUF", "DEN", "MSY", "TPA", "SLC"] },

@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-19T04:57:31Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 117,
+      "priceHigh": 146,
+      "travelWindow": "Sep 1-2 nonstop JetBlue flash fare at $117; nonstop JetBlue/United fares run $143-146 into October",
+      "airlines": ["JetBlue", "United", "American", "Delta"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $117 RT nonstop, and Shenandoah National Park's Skyline Drive is a 2.5-hour drive from a city built for walking.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=bZIonixPV_M",
+      "nearbyParks": [ { "name": "Shenandoah National Park", "drive": "2.5 h" } ],
+      "soloScore": 5,
+      "soloWhy": "The National Mall and Metro system make DC one of the most walkable, transit-friendly capitals for a solo trip, and the free Smithsonian museums fill days without a single reservation.",
+      "guide": {
+        "highlights": [
+          "National Mall walk: Lincoln Memorial, WWII Memorial, Washington Monument",
+          "Smithsonian Air & Space and Natural History museums (free)",
+          "National Gallery of Art",
+          "Georgetown's C&O Canal towpath",
+          "Shenandoah National Park's Skyline Drive day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Sunrise walk down the National Mall, Smithsonian museums in the afternoon, dinner in Penn Quarter.",
+          "Day 2 — Georgetown's canal towpath and waterfront shops, U Street Corridor for dinner and live jazz.",
+          "Day 3 — Drive to Shenandoah National Park for Skyline Drive and a short hike (Stony Man or Old Rag), back for an evening flight."
+        ],
+        "gettingAround": "The Metro covers the monument core, Georgetown, and U Street without a car; rent a car only for the Shenandoah day trip.",
+        "stayArea": "Penn Quarter or Dupont Circle — walkable to the Mall and a Metro stop.",
+        "food": [
+          "Ben's Chili Bowl (U Street)",
+          "Union Market food hall",
+          "Old Ebbitt Grill (near the White House)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 2,
+      "destination": "Dallas, TX",
+      "airport": "DFW",
+      "priceLow": 131,
+      "priceHigh": 175,
+      "travelWindow": "Sat departures Sep 12, 19, 26; Oct 24, 31; Nov 7, 14, 21; Dec 5, 12 cheapest confirmed dates, nonstop American",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "Still one of the cheapest verified fares of the five at $131 RT nonstop; no national park nearby, but the price alone keeps it in the top five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png/3840px-Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Kt7lpqdbNgA",
+      "nearbyParks": [ { "name": "Cedar Hill State Park", "drive": "35 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Deep Ellum's live-music venues and the White Rock Lake trail loop are easy to navigate alone, though the sprawl between neighborhoods calls for a rideshare.",
+      "guide": {
+        "highlights": [
+          "Dallas Museum of Art and the Dallas Arts District",
+          "White Rock Lake hike-and-bike trail",
+          "Trinity River Audubon Center",
+          "Deep Ellum murals and live-music clubs",
+          "Fort Worth Stockyards day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Dallas Museum of Art and the Arts District, dinner and live music in Deep Ellum.",
+          "Day 2 — Morning walk or bike loop around White Rock Lake, afternoon at the Trinity River Audubon Center trails.",
+          "Day 3 — Drive out to the Fort Worth Stockyards for the cattle drive and rodeo history before an afternoon flight."
+        ],
+        "gettingAround": "DART light rail covers downtown and Deep Ellum; a rental car is worth it for White Rock Lake, the Audubon Center, and the Fort Worth day trip.",
+        "stayArea": "Deep Ellum or the Arts District — walkable nightlife and galleries.",
+        "food": [
+          "Pecan Lodge (BBQ, Deep Ellum)",
+          "Off-Site Kitchen (Trinity Groves)",
+          "Cattleack Barbeque"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DFW"
+    },
+    {
+      "rank": 3,
+      "destination": "Chicago, IL",
+      "airport": "ORD",
+      "priceLow": 163,
+      "priceHigh": 165,
+      "travelWindow": "Sep 5-12, Sep 16-22, Oct 20-26 cheapest confirmed nonstop dates on JetBlue, United, American, or Delta",
+      "airlines": ["JetBlue", "United", "American", "Delta"],
+      "nonstop": true,
+      "whyRanked": "$163 RT nonstop JetBlue, and Indiana Dunes National Park's Lake Michigan shoreline is 90 minutes away from one of the most walkable downtowns in the country.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chicago_River_ferry_b.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=RwWZFaq_CLw",
+      "nearbyParks": [ { "name": "Indiana Dunes National Park", "drive": "1.5 h" } ],
+      "soloScore": 5,
+      "soloWhy": "The Loop, Riverwalk, and Magnificent Mile are flat and walkable, the 'L' covers everywhere else, and counter-seating deep-dish and hot-dog spots make solo dining effortless.",
+      "guide": {
+        "highlights": [
+          "Chicago Riverwalk architecture walk",
+          "Art Institute of Chicago",
+          "Millennium Park and Cloud Gate (\"The Bean\")",
+          "360 Chicago observation deck",
+          "Indiana Dunes National Park lakeshore hike"
+        ],
+        "itinerary": [
+          "Day 1 — Riverwalk architecture boat tour, Millennium Park, dinner in the Loop.",
+          "Day 2 — Art Institute of Chicago in the morning, Magnificent Mile in the afternoon, sunset at 360 Chicago.",
+          "Day 3 — Drive to Indiana Dunes National Park for a lakeshore hike (Mount Baldy or West Beach) before an evening flight."
+        ],
+        "gettingAround": "The 'L' and Riverwalk cover downtown and most neighborhoods on foot or by train; a rental car is only needed for the Indiana Dunes day trip.",
+        "stayArea": "The Loop or River North — walkable to the Riverwalk and 'L' stops.",
+        "food": [
+          "Lou Malnati's (deep dish)",
+          "Portillo's (Italian beef)",
+          "Billy Goat Tavern"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20ORD"
+    },
+    {
+      "rank": 4,
+      "destination": "Portland, OR",
+      "airport": "PDX",
+      "priceLow": 199,
+      "priceHigh": 274,
+      "travelWindow": "Sep-Dec 2026, cheapest one-stop fares on American or Southwest; wide date availability through mid-December",
+      "airlines": ["American", "Southwest"],
+      "nonstop": false,
+      "whyRanked": "$199 RT with one stop is the priciest fare confirmed so far, but Multnomah Falls and Mount Hood are both under 90 minutes from a city built around food-cart culture and solo-friendly transit.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Portland_Oregon_Aerial%2C_June_2025.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=VThVI_BnR78",
+      "nearbyParks": [
+        { "name": "Columbia River Gorge National Scenic Area", "drive": "45 min" },
+        { "name": "Mount Hood National Forest", "drive": "1.5 h" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The compact downtown, MAX light rail, and food-cart pods make solo exploring and eating effortless, and the city's laid-back pace suits traveling alone.",
+      "guide": {
+        "highlights": [
+          "Powell's City of Books",
+          "Downtown food-cart pods",
+          "Multnomah Falls",
+          "Washington Park's Japanese Garden",
+          "Mount Hood's Timberline Lodge day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Powell's City of Books, a food-cart lunch, Pearl District galleries, dinner in Southeast Portland.",
+          "Day 2 — Washington Park's Japanese Garden and International Rose Test Garden, Alberta Arts District murals and dinner.",
+          "Day 3 — Drive the Historic Columbia River Highway to Multnomah Falls, or push on to Mount Hood's Timberline Lodge, before an evening flight."
+        ],
+        "gettingAround": "MAX light rail and the streetcar cover downtown and the Pearl District; a rental car is needed for the Gorge or Mount Hood.",
+        "stayArea": "Pearl District or downtown — walkable to food carts and the streetcar.",
+        "food": [
+          "Pok Pok (Thai)",
+          "Voodoo Doughnut",
+          "Ninth & Alder food cart pod"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20PDX"
+    },
+    {
+      "rank": 5,
+      "destination": "Miami, FL",
+      "airport": "MIA",
+      "priceLow": 215,
+      "priceHigh": 230,
+      "travelWindow": "Oct 3-10 cheapest confirmed dates, nonstop outbound on Delta (one-stop return)",
+      "airlines": ["Delta", "Southwest"],
+      "nonstop": false,
+      "whyRanked": "The priciest of the five at $215 RT with a nonstop outbound leg, but the Everglades' Royal Palm entrance is 45 minutes from downtown, and South Beach is endlessly walkable.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=vchssrMcIXM",
+      "nearbyParks": [ { "name": "Everglades National Park", "drive": "45 min" } ],
+      "soloScore": 4,
+      "soloWhy": "South Beach's boardwalk and Coconut Grove's shaded streets are easy solo walks, and the free Metromover removes the need for a rideshare downtown.",
+      "guide": {
+        "highlights": [
+          "Miami Beach Boardwalk and South Beach Art Deco district",
+          "Coconut Grove's waterfront streets",
+          "Bayside Marketplace and a Biscayne Bay boat tour",
+          "Wynwood Walls street art",
+          "Everglades airboat tour or Anhinga Trail walk"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Miami Beach Boardwalk, South Beach's Art Deco district at sunset, dinner in South Beach.",
+          "Day 2 — Coconut Grove in the morning, Bayside Marketplace and a Biscayne Bay boat tour midday, Wynwood Walls at night.",
+          "Day 3 — Rent a car for the Everglades: the Anhinga Trail boardwalk and an airboat tour before an afternoon flight."
+        ],
+        "gettingAround": "The free Metromover covers downtown and Brickell, and South Beach is walkable on its own; a rental car is the easiest way to reach the Everglades.",
+        "stayArea": "South Beach or Coconut Grove — walkable, close to the water.",
+        "food": [
+          "Joe's Stone Crab (South Beach)",
+          "Ball & Chain (Little Havana)",
+          "Monty's Raw Bar (Coconut Grove)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MIA"
+    }
+  ]
+}
