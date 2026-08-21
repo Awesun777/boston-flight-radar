@@ -1,0 +1,210 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T04:56:48Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 141,
+      "priceHigh": 241,
+      "travelWindow": "Sep-Dec 2026, cheapest confirmed nonstop dates on United",
+      "airlines": ["United"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $141 RT nonstop — down from $152 a few days ago — and Rocky Mountain National Park's Bear Lake corridor is 90 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=QIvGEahdcCc",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "LoDo and RiNo are compact and walkable with counter-seating breweries, and the A Line train removes any need for a rideshare from the airport.",
+      "guide": {
+        "highlights": [
+          "Larimer Square's historic block and rooftop bars",
+          "Denver Botanic Gardens",
+          "Cherry Creek bike path along the river",
+          "RiNo Art District murals and breweries",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Larimer Square in the afternoon, dinner and a brewery crawl through LoDo.",
+          "Day 2 — Denver Botanic Gardens in the morning, Cherry Creek bike path in the afternoon, RiNo for dinner.",
+          "Day 3 — Rent a car for Rocky Mountain NP: the Bear Lake corridor for an easy alpine hike, back to Denver for an evening flight."
+        ],
+        "gettingAround": "The A Line train covers the airport-to-downtown hop and LoDo/RiNo are walkable; a rental car is needed for the national park.",
+        "stayArea": "LoDo or Capitol Hill — walkable to Larimer Square and the train.",
+        "food": [
+          "Snooze, an A.M. Eatery (breakfast)",
+          "Root Down (New American, near LoDo)",
+          "Denver Biscuit Company"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 2,
+      "destination": "Santa Barbara, CA",
+      "airport": "SBA",
+      "priceLow": 228,
+      "priceHigh": 338,
+      "travelWindow": "Sep - early Dec 2026, cheapest confirmed one-stop fares on American",
+      "airlines": ["American"],
+      "nonstop": false,
+      "whyRanked": "$228 RT with one stop, and Channel Islands National Park's boats depart from nearby Ventura Harbor, while Santa Barbara's flat, palm-lined State Street is built for walking alone.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Santa_Barbara_Downtown_%28may_2012%29_%282%29_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=O5d1bdgx7_U",
+      "nearbyParks": [ { "name": "Channel Islands National Park", "drive": "45 min (to Ventura Harbor departure)" } ],
+      "soloScore": 5,
+      "soloWhy": "State Street and the waterfront are flat, safe, and walkable end to end, and the Funk Zone's tasting rooms are built around solo counter seating.",
+      "guide": {
+        "highlights": [
+          "Old Mission Santa Barbara",
+          "State Street shopping and people-watching",
+          "Funk Zone wine tasting rooms",
+          "Stearns Wharf at sunset",
+          "Channel Islands National Park boat trip to Anacapa Island"
+        ],
+        "itinerary": [
+          "Day 1 — Old Mission Santa Barbara, State Street in the afternoon, dinner in the Funk Zone.",
+          "Day 2 — Funk Zone wine tasting, Stearns Wharf and East Beach at sunset.",
+          "Day 3 — Drive to Ventura Harbor for the Island Packers boat to Channel Islands National Park, back for an evening flight."
+        ],
+        "gettingAround": "Downtown and the waterfront are entirely walkable, with a free electric shuttle along State Street; a rental car is needed for the Ventura Harbor boat dock.",
+        "stayArea": "The Funk Zone or downtown near State Street — walkable to the wharf and tasting rooms.",
+        "food": [
+          "Loquita (Spanish, Funk Zone)",
+          "Santa Barbara Shellfish Company (on the wharf)",
+          "The Nook"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SBA"
+    },
+    {
+      "rank": 3,
+      "destination": "Las Vegas, NV",
+      "airport": "LAS",
+      "priceLow": 240,
+      "priceHigh": 350,
+      "travelWindow": "Fall 2026, cheapest confirmed nonstop dates on United",
+      "airlines": ["United"],
+      "nonstop": true,
+      "whyRanked": "$240 RT nonstop, and Red Rock Canyon National Conservation Area is a 20-minute drive from the Strip, with Zion National Park reachable in 2.5 hours for a longer day trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/3840px-Las_Vegas_from_above_%2840064746644%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=wCN3yUj1lJQ",
+      "nearbyParks": [
+        { "name": "Red Rock Canyon National Conservation Area", "drive": "20 min" },
+        { "name": "Zion National Park", "drive": "2.5 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The Strip's monorail and pedestrian bridges make it easy to get around without a car, though the scene skews toward groups more than solo travelers.",
+      "guide": {
+        "highlights": [
+          "The Strip: Bellagio Fountains and the Venetian canals",
+          "Fremont Street Experience downtown",
+          "Seven Magic Mountains art installation",
+          "Red Rock Canyon's 13-mile scenic loop drive",
+          "Zion National Park day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the Strip from Bellagio to the Venetian, Fremont Street Experience at night.",
+          "Day 2 — Rent a car for Seven Magic Mountains and the Red Rock Canyon scenic loop with a short trailhead hike.",
+          "Day 3 — Drive to Zion National Park for a canyon hike (Riverside Walk or Angels Landing permitting) before an evening flight."
+        ],
+        "gettingAround": "The Strip monorail and pedestrian bridges cover the casino corridor; a rental car is essential for Red Rock Canyon and Zion.",
+        "stayArea": "Mid-Strip near Bellagio or Aria — walkable to the monorail and Fountains.",
+        "food": [
+          "In-N-Out Burger",
+          "Lotus of Siam (Thai)",
+          "Esther's Kitchen (Downtown)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20LAS"
+    },
+    {
+      "rank": 4,
+      "destination": "Los Angeles, CA",
+      "airport": "LAX",
+      "priceLow": 257,
+      "priceHigh": 357,
+      "travelWindow": "Mid-Aug through early Dec 2026, cheapest confirmed nonstop dates on JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$257 RT nonstop, and Joshua Tree National Park is a 3-hour drive from a city where Griffith Park and the Metro rail make solo exploring easy.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=eZopS_xropM",
+      "nearbyParks": [
+        { "name": "Joshua Tree National Park", "drive": "3 h" },
+        { "name": "Angeles National Forest", "drive": "45 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Silver Lake and Venice are walkable, counter-seating-friendly neighborhoods, and the Metro's B and E lines cover Hollywood and the beach without a rideshare.",
+      "guide": {
+        "highlights": [
+          "Griffith Observatory and the Griffith Park trails",
+          "Venice Beach boardwalk and Abbot Kinney Boulevard",
+          "The Getty Center",
+          "Silver Lake reservoir loop",
+          "Joshua Tree National Park day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Griffith Park hike to the Observatory for sunset views over the city.",
+          "Day 2 — Venice Beach boardwalk in the morning, Abbot Kinney shops and dinner in the evening.",
+          "Day 3 — Drive to Joshua Tree National Park for the Hidden Valley trail before an evening flight."
+        ],
+        "gettingAround": "The Metro B and E lines cover Hollywood, Downtown, and Santa Monica; a rental car is needed for Griffith Park's upper trails and Joshua Tree.",
+        "stayArea": "Silver Lake or Santa Monica — walkable, close to a Metro stop.",
+        "food": [
+          "Guelaguetza (Oaxacan)",
+          "Grand Central Market",
+          "In-N-Out Burger"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20LAX"
+    },
+    {
+      "rank": 5,
+      "destination": "Seattle, WA",
+      "airport": "SEA",
+      "priceLow": 297,
+      "priceHigh": 407,
+      "travelWindow": "Fall 2026, cheapest confirmed nonstop dates on JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $297 RT nonstop, but Mount Rainier and Olympic National Parks are both within 2 hours of one of the most walkable, transit-friendly downtowns in the country.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=DsBgDx2PD50",
+      "nearbyParks": [
+        { "name": "Mount Rainier National Park", "drive": "2 h" },
+        { "name": "Olympic National Park", "drive": "2 h (incl. ferry)" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Pike Place Market and Capitol Hill are dense, walkable, and full of counter-seating spots, and the light rail runs straight from the airport into downtown.",
+      "guide": {
+        "highlights": [
+          "Pike Place Market and the waterfront",
+          "Kerry Park skyline viewpoint",
+          "Chihuly Garden and Glass",
+          "Ballard Locks and the Ballard farmers market",
+          "Mount Rainier National Park day hike"
+        ],
+        "itinerary": [
+          "Day 1 — Pike Place Market in the morning, waterfront walk, dinner in Belltown.",
+          "Day 2 — Capitol Hill in the morning, Kerry Park for sunset, Chihuly Garden and Glass at night.",
+          "Day 3 — Rent a car for Mount Rainier National Park: the Skyline Trail from Paradise before an evening flight."
+        ],
+        "gettingAround": "Link light rail covers the airport-to-downtown hop, and Capitol Hill and Belltown are walkable; a rental car is needed for Mount Rainier or Olympic National Park.",
+        "stayArea": "Capitol Hill or Belltown — walkable to Pike Place and the light rail.",
+        "food": [
+          "Pike Place Chowder",
+          "Paseo (Cuban sandwiches)",
+          "Dick's Drive-In"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SEA"
+    }
+  ]
+}
