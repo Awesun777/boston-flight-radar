@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T04:54:42Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Dallas, TX",
+      "airport": "DFW",
+      "priceLow": 131,
+      "priceHigh": 175,
+      "travelWindow": "Sat departures Sep 12, 19, 26; Oct 24, 31; Nov 7, 14, 21; Dec 5, 12 cheapest confirmed dates, nonstop American",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the four at $131 RT nonstop, holding steady from a week ago — no national park nearby, but the price alone keeps it on top.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png/3840px-Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Kt7lpqdbNgA",
+      "nearbyParks": [ { "name": "Cedar Hill State Park", "drive": "35 min" } ],
+      "soloScore": 3,
+      "soloWhy": "The Katy Trail and Bishop Arts District are easy to wander alone on foot, though the wider city sprawl calls for a rideshare between neighborhoods.",
+      "guide": {
+        "highlights": [
+          "Klyde Warren Park's food trucks and lawn games",
+          "Bishop Arts District boutiques and murals",
+          "Perot Museum of Nature and Science",
+          "Katy Trail hike-and-bike path",
+          "Fort Worth Stockyards day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Perot Museum in the morning, Klyde Warren Park for lunch from the food trucks, dinner in the Arts District.",
+          "Day 2 — Bishop Arts District boutiques and coffee shops, Katy Trail walk along the creek at sunset.",
+          "Day 3 — Drive to the Fort Worth Stockyards for the twice-daily cattle drive and rodeo history before an afternoon flight."
+        ],
+        "gettingAround": "DART light rail and the free Katy Trail cover downtown, Uptown, and the Arts District on foot; a rental car is worth it for Bishop Arts and the Fort Worth day trip.",
+        "stayArea": "Uptown or the Arts District — walkable to Klyde Warren Park and a DART stop.",
+        "food": [
+          "Meddlesome Moth (Design District)",
+          "Emporium Pies (Bishop Arts)",
+          "Pecan Lodge (BBQ, Deep Ellum)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DFW"
+    },
+    {
+      "rank": 2,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 152,
+      "priceHigh": 230,
+      "travelWindow": "Sat Aug 29 - Wed Sep 2 nonstop Frontier flash fare at $152; nonstop United/Southwest fares run higher through fall",
+      "airlines": ["Frontier", "United"],
+      "nonstop": true,
+      "whyRanked": "$152 RT nonstop and bookable for next week, and Rocky Mountain National Park's Bear Lake corridor is 90 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=QIvGEahdcCc",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "The 16th Street Mall and RiNo Art District are flat and walkable, and the free MallRide shuttle removes any guesswork about getting downtown.",
+      "guide": {
+        "highlights": [
+          "Union Station's Great Hall and food stalls",
+          "RiNo Art District street murals",
+          "Denver Art Museum",
+          "City Park and the Denver Zoo",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Union Station food hall for lunch, RiNo murals and a brewery in the afternoon, dinner in LoHi.",
+          "Day 2 — Denver Art Museum in the morning, City Park in the afternoon, sunset from Cheesman Park.",
+          "Day 3 — Rent a car for Rocky Mountain NP: the Bear Lake corridor for an easy alpine hike, back to Denver for an evening flight."
+        ],
+        "gettingAround": "The free MallRide shuttle and A Line train cover downtown and the airport; a rental car is needed for the national park.",
+        "stayArea": "LoHi or Union Station — walkable to the train and RiNo.",
+        "food": [
+          "Avanti Food & Beverage (LoHi food hall)",
+          "Rooster & Moon (Union Station)",
+          "Illegal Pete's"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 3,
+      "destination": "Sacramento, CA",
+      "airport": "SMF",
+      "priceLow": 171,
+      "priceHigh": 230,
+      "travelWindow": "Sep 30; Oct 2, 7, 25, 28-29, 31; Nov 1, 4-5, 8, 12-13, 15, 18-19; Dec 4, 6, 9-10, 16 cheapest confirmed dates, one-stop American or Southwest",
+      "airlines": ["American", "Southwest"],
+      "nonstop": false,
+      "whyRanked": "$171 RT with one stop, and Lake Tahoe and Yosemite National Park are both under a 3-hour drive from a compact, walkable state capital.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sacramento%2C_CA_skyline_%28cropped%29.jpg/3840px-Sacramento%2C_CA_skyline_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=bJqF-0Xt8c8",
+      "nearbyParks": [
+        { "name": "Yosemite National Park", "drive": "2.75 h" },
+        { "name": "Lake Tahoe / Eldorado National Forest", "drive": "1.75 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Midtown's grid is flat, walkable, and full of counter-seating restaurants and coffee shops, and the light rail covers the airport-to-downtown hop.",
+      "guide": {
+        "highlights": [
+          "Old Sacramento's Gold Rush-era waterfront",
+          "California State Capitol and its park grounds",
+          "Midtown's grid of restaurants and bars",
+          "Crocker Art Museum",
+          "Yosemite National Park or Lake Tahoe day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Old Sacramento's riverfront boardwalk and the California State Railroad Museum, dinner in Midtown.",
+          "Day 2 — State Capitol grounds and the Crocker Art Museum in the morning, Midtown's coffee shops and bars in the afternoon.",
+          "Day 3 — Rent a car for Yosemite Valley or Lake Tahoe's Emerald Bay before an evening flight."
+        ],
+        "gettingAround": "SacRT light rail covers the airport-to-downtown hop, and Old Sacramento and Midtown are walkable; a rental car is essential for Tahoe or Yosemite.",
+        "stayArea": "Midtown — walkable grid of restaurants close to the Capitol and a light rail stop.",
+        "food": [
+          "The Rind (Midtown cheese and wine bar)",
+          "Tower Cafe",
+          "Old Soul Co. (coffee)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SMF"
+    },
+    {
+      "rank": 4,
+      "destination": "Salt Lake City, UT",
+      "airport": "SLC",
+      "priceLow": 259,
+      "priceHigh": 320,
+      "travelWindow": "Fri Aug 28 flash fare from $259-280 RT nonstop Delta; regular fall fares run through the $300s",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the four at $259 RT nonstop, but it's the gateway to Utah's Mighty 5 national parks and one of the most walkable downtowns in the Mountain West.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/SLC_Skyline_2024.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Ul82uf8JxDg",
+      "nearbyParks": [
+        { "name": "Big & Little Cottonwood Canyons", "drive": "40 min" },
+        { "name": "Arches National Park (Moab)", "drive": "3.75 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Downtown's grid is flat and easy to navigate solo, the TRAX light rail is free within the downtown zone, and canyon trailheads are a short drive without needing to book a tour.",
+      "guide": {
+        "highlights": [
+          "Temple Square and the Utah State Capitol",
+          "Red Butte Garden",
+          "This Is the Place Heritage Park",
+          "Big Cottonwood Canyon's scenic drive",
+          "Antelope Island State Park on the Great Salt Lake"
+        ],
+        "itinerary": [
+          "Day 1 — Temple Square and the State Capitol grounds, dinner in the Central Ninth neighborhood.",
+          "Day 2 — Red Butte Garden in the morning, downtown's Gateway shopping and dinner in the evening.",
+          "Day 3 — Rent a car for Big Cottonwood Canyon's Donut Falls trail or a drive out to Antelope Island before an evening flight."
+        ],
+        "gettingAround": "TRAX light rail is free within the downtown Free Fare Zone and covers the airport hop; a rental car is needed for the canyons or Antelope Island.",
+        "stayArea": "Downtown or Central Ninth — walkable to Temple Square and a free TRAX stop.",
+        "food": [
+          "Red Iguana (Mexican mole)",
+          "Este Pizza",
+          "The Rose Establishment (coffee)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SLC"
+    }
+  ]
+}

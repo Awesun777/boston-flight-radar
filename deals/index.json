@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-08-21T04:56:48Z",
+  "generatedAt": "2026-08-22T04:54:42Z",
   "digests": [
+    { "date": "2026-08-22", "title": "Dallas $131, Denver flash fare $152", "destinations": ["DFW", "DEN", "SMF", "SLC"] },
     { "date": "2026-08-21", "title": "Denver $141, Santa Barbara solo pick", "destinations": ["DEN", "SBA", "LAS", "LAX", "SEA"] },
     { "date": "2026-08-18", "title": "DC $117 flash fare, Chicago via Indiana Dunes", "destinations": ["DCA", "DFW", "ORD", "PDX", "MIA"] },
     { "date": "2026-08-17", "title": "Dallas $131, Savannah solo pick", "destinations": ["DFW", "BNA", "SAV", "DEN", "SJC"] },
