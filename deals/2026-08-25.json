@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T04:55:10Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 97,
+      "priceHigh": 140,
+      "travelWindow": "Sep 5-12 cheapest confirmed nonstop dates on Allegiant, additional Sept-Oct dates run higher",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "The cheapest verified fare of the five at $97 RT nonstop — down from $110 two weeks ago — and Great Smoky Mountains National Park's Sugarlands entrance is under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=WRgNxxi5oo0",
+      "nearbyParks": [ { "name": "Great Smoky Mountains National Park", "drive": "45 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Market Square and the Old City are compact and easy to wander alone on foot, though a rental car is the only realistic way into the park itself.",
+      "guide": {
+        "highlights": [
+          "Market Square's restaurants and farmers market",
+          "Knoxville Museum of Art",
+          "World's Fair Park and the Sunsphere",
+          "Old City's breweries and live music",
+          "Great Smoky Mountains NP's Sugarlands Visitor Center and Newfound Gap Road"
+        ],
+        "itinerary": [
+          "Day 1 — Market Square for lunch, World's Fair Park and the Sunsphere in the afternoon, dinner in the Old City.",
+          "Day 2 — Knoxville Museum of Art in the morning, a walk along the Tennessee Riverwalk, brewery stop in the Old City at night.",
+          "Day 3 — Rent a car for the Smokies: Newfound Gap Road up to Clingmans Dome trailhead, back to Knoxville for an evening flight."
+        ],
+        "gettingAround": "Downtown Knoxville — Market Square, World's Fair Park, and the Old City — is entirely walkable; a rental car is required for the national park.",
+        "stayArea": "Downtown near Market Square — walkable to restaurants and a short drive from I-40.",
+        "food": [
+          "Yassin's Falafel House",
+          "OliBea (Old City brunch)",
+          "Knox Mason"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Fort Myers, FL",
+      "airport": "RSW",
+      "priceLow": 187,
+      "priceHigh": 240,
+      "travelWindow": "Sep 15-22 cheapest confirmed nonstop dates on JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$187 RT nonstop, and Everglades City's Ten Thousand Islands entrance to Everglades National Park is about 75 minutes south.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=dPxoYXzFeLQ",
+      "nearbyParks": [
+        { "name": "Everglades National Park (Everglades City entrance)", "drive": "1.25 h" },
+        { "name": "J.N. \"Ding\" Darling National Wildlife Refuge (Sanibel)", "drive": "35 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "The River District downtown is small and safe to explore on foot, and Sanibel's beaches and wildlife drive are an easy solo day trip without a tour group.",
+      "guide": {
+        "highlights": [
+          "Edison and Ford Winter Estates",
+          "River District's riverfront restaurants and galleries",
+          "Sanibel Island shelling beaches",
+          "Ding Darling National Wildlife Refuge's Wildlife Drive",
+          "Everglades City airboat tours and Ten Thousand Islands"
+        ],
+        "itinerary": [
+          "Day 1 — Edison and Ford Winter Estates in the morning, River District for dinner and live music.",
+          "Day 2 — Drive to Sanibel for shelling on the beach and the Ding Darling refuge's Wildlife Drive at sunset.",
+          "Day 3 — Drive to Everglades City for a Ten Thousand Islands boat tour before an evening flight."
+        ],
+        "gettingAround": "The River District is walkable, but a rental car is essential for Sanibel and the Everglades.",
+        "stayArea": "Downtown River District — walkable to restaurants and close to the river.",
+        "food": [
+          "The Standard (River District)",
+          "Ford's Garage",
+          "Mermaid Waterfront Bar & Grill"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20RSW"
+    },
+    {
+      "rank": 3,
+      "destination": "Orlando, FL",
+      "airport": "MCO",
+      "priceLow": 196,
+      "priceHigh": 250,
+      "travelWindow": "Sep 6-12 cheapest confirmed nonstop dates on Frontier",
+      "airlines": ["Frontier"],
+      "nonstop": true,
+      "whyRanked": "$196 RT nonstop — no national park nearby, but the price and easy solo logistics (transit-friendly downtown, no rental car required if skipping the parks) keep it in the top five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Orlando%2C_Florida_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5B-BCUIZPDE",
+      "nearbyParks": [],
+      "soloScore": 3,
+      "soloWhy": "Lake Eola Park and the Mills 50 district are walkable and low-key outside of the theme parks, with the free LYMMO bus covering downtown.",
+      "guide": {
+        "highlights": [
+          "Lake Eola Park's swan boats and Sunday farmers market",
+          "Orlando Museum of Art",
+          "Mills 50 district's international restaurants",
+          "Harry P. Leu Gardens",
+          "Winter Park's Park Avenue and scenic boat tour"
+        ],
+        "itinerary": [
+          "Day 1 — Lake Eola Park in the morning, Orlando Museum of Art in the afternoon, dinner in Mills 50.",
+          "Day 2 — Harry P. Leu Gardens, then Winter Park's Park Avenue shops and the Scenic Boat Tour along the chain of lakes.",
+          "Day 3 — A slower morning at a Thornton Park coffee shop before an afternoon flight."
+        ],
+        "gettingAround": "Downtown and Winter Park are walkable in sections with the free LYMMO bus linking them; a rental car opens up the theme parks and Ocala National Forest.",
+        "stayArea": "Thornton Park or Downtown — walkable to Lake Eola and a LYMMO stop.",
+        "food": [
+          "The Ravenous Pig (Winter Park)",
+          "East End Market",
+          "Se7en Bites (Southern comfort food)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO"
+    },
+    {
+      "rank": 4,
+      "destination": "Miami, FL",
+      "airport": "MIA",
+      "priceLow": 210,
+      "priceHigh": 270,
+      "travelWindow": "Oct 3-10 cheapest confirmed nonstop dates on American",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "$210 RT nonstop, and Everglades National Park's main entrance near Homestead is under an hour away — a stronger park boost than the similarly priced Tampa fare, which has jumped it a spot.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=vchssrMcIXM",
+      "nearbyParks": [
+        { "name": "Everglades National Park (Ernest Coe entrance)", "drive": "50 min" },
+        { "name": "Biscayne National Park", "drive": "50 min (boat tours from Homestead)" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "South Beach and Wynwood are walkable and full of counter-seating spots, and rideshares easily cover the gap between neighborhoods without a car.",
+      "guide": {
+        "highlights": [
+          "South Beach's Art Deco Historic District",
+          "Wynwood Walls street art",
+          "Vizcaya Museum and Gardens",
+          "Little Havana's Calle Ocho",
+          "Everglades National Park's Anhinga Trail"
+        ],
+        "itinerary": [
+          "Day 1 — South Beach's Art Deco district in the morning, the beach in the afternoon, dinner in Wynwood.",
+          "Day 2 — Vizcaya Museum and Gardens, then Little Havana's Calle Ocho for coffee and dinner.",
+          "Day 3 — Rent a car for Everglades NP: the Anhinga Trail boardwalk for alligators and wading birds before an evening flight."
+        ],
+        "gettingAround": "The Metromover is free downtown and rideshares cover South Beach, Wynwood, and Little Havana; a rental car is needed for the Everglades.",
+        "stayArea": "South Beach or Wynwood — walkable to the beach or the murals and galleries.",
+        "food": [
+          "Versailles (Little Havana, Cuban)",
+          "Joe's Stone Crab",
+          "Coyo Taco (Wynwood)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MIA"
+    },
+    {
+      "rank": 5,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 207,
+      "priceHigh": 260,
+      "travelWindow": "Sep 19-30 cheapest confirmed nonstop dates on JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $207 RT nonstop with no national park nearby, though Weeki Wachee Springs State Park is an easy day trip and Tampa's Riverwalk is fully walkable.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=fDFCPnf47PQ",
+      "nearbyParks": [ { "name": "Weeki Wachee Springs State Park", "drive": "50 min" } ],
+      "soloScore": 4,
+      "soloWhy": "The Riverwalk connects downtown's museums and Ybor City by foot or the free trolley, making it easy to explore without a car for most of the trip.",
+      "guide": {
+        "highlights": [
+          "Tampa Riverwalk",
+          "Ybor City's Cuban heritage and cigar shops",
+          "Tampa Museum of Art",
+          "Curtis Hixon Waterfront Park",
+          "Weeki Wachee Springs mermaid show and kayaking"
+        ],
+        "itinerary": [
+          "Day 1 — Tampa Riverwalk and the Tampa Museum of Art, dinner in Ybor City.",
+          "Day 2 — Ybor City's cigar shops and Centro Ybor in the morning, Curtis Hixon Waterfront Park in the afternoon.",
+          "Day 3 — Rent a car for Weeki Wachee Springs: the mermaid show or a kayak paddle before an evening flight."
+        ],
+        "gettingAround": "The free TECO Line Streetcar covers downtown and Ybor City; a rental car is needed for Weeki Wachee.",
+        "stayArea": "Downtown near the Riverwalk — walkable to the streetcar and Curtis Hixon Park.",
+        "food": [
+          "Columbia Restaurant (Ybor City)",
+          "Ulele (Riverwalk)",
+          "The Refinery"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA"
+    }
+  ]
+}
