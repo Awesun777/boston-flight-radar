@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T04:56:20Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 97,
+      "priceHigh": 140,
+      "travelWindow": "Sep 5-12 cheapest confirmed nonstop dates on Allegiant, additional Sept-Oct dates run higher",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Holding steady at $97 RT nonstop for a second week — still the cheapest verified fare of the five — and the Smokies' Sugarlands entrance is under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=WRgNxxi5oo0",
+      "nearbyParks": [ { "name": "Great Smoky Mountains National Park", "drive": "45 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to wander alone on foot, and the park's Sugarlands and Cades Cove areas are quiet enough on a weekday to hike solo without a crowd.",
+      "guide": {
+        "highlights": [
+          "Ijams Nature Center's river bluffs and swimming hole",
+          "Market Square's restaurants and Saturday farmers market",
+          "World's Fair Park and the Sunsphere observation deck",
+          "Depot District breweries near the Old City",
+          "Great Smoky Mountains NP's Cades Cove loop road"
+        ],
+        "itinerary": [
+          "Day 1 — Ijams Nature Center for a river-bluff hike, Market Square for dinner and live music at night.",
+          "Day 2 — Sunsphere observation deck and World's Fair Park, then a self-guided brewery crawl through the Old City/Depot District.",
+          "Day 3 — Rent a car for the Smokies: Cades Cove's 11-mile wildlife loop at dawn, back to Knoxville for an evening flight."
+        ],
+        "gettingAround": "Downtown — Market Square, World's Fair Park, and the Old City — is entirely walkable; a rental car is required for the national park.",
+        "stayArea": "Downtown near Market Square — walkable to restaurants and a short drive from I-40.",
+        "food": [
+          "Yassin's Falafel House",
+          "Balter Beerworks (Old City)",
+          "The Tomato Head (Market Square)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 141,
+      "priceHigh": 241,
+      "travelWindow": "Sep 30 - Oct 5 cheapest confirmed nonstop dates on United, other Sept-Nov dates run $217+",
+      "airlines": ["United"],
+      "nonstop": true,
+      "whyRanked": "$141 RT nonstop and back on the board after two quiet weeks, and Rocky Mountain National Park's Bear Lake corridor is 90 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=QIvGEahdcCc",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "Larimer Square and the Confluence Park trail network are flat and well-lit at night, and the free MallRide shuttle removes any guesswork about getting downtown.",
+      "guide": {
+        "highlights": [
+          "Larimer Square's restored Victorian storefronts",
+          "Confluence Park where Cherry Creek meets the South Platte",
+          "Denver Central Market food hall",
+          "Denver Botanic Gardens",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Denver Central Market for lunch, Larimer Square in the afternoon, dinner and rooftop drinks nearby.",
+          "Day 2 — Denver Botanic Gardens in the morning, a walk or bike along Confluence Park and the Cherry Creek Trail, sunset from Cheesman Park.",
+          "Day 3 — Rent a car for Rocky Mountain NP: the Bear Lake corridor for an easy alpine hike, back to Denver for an evening flight."
+        ],
+        "gettingAround": "The free MallRide shuttle and A Line train cover downtown and the airport; a rental car is needed for the national park.",
+        "stayArea": "LoDo or Uptown — walkable to Larimer Square and a MallRide stop.",
+        "food": [
+          "Safta (LoHi)",
+          "Work & Class (Five Points)",
+          "Denver Central Market stalls"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 3,
+      "destination": "Santa Barbara, CA",
+      "airport": "SBA",
+      "priceLow": 228,
+      "priceHigh": 338,
+      "travelWindow": "Sep - early Dec 2026, cheapest confirmed one-stop fares on American, unchanged from a week ago",
+      "airlines": ["American"],
+      "nonstop": false,
+      "whyRanked": "Flat at $228 RT with one stop, and Channel Islands National Park's boats depart from nearby Ventura Harbor — one of the strongest park boosts of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Santa_Barbara_Downtown_%28may_2012%29_%282%29_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=O5d1bdgx7_U",
+      "nearbyParks": [ { "name": "Channel Islands National Park", "drive": "45 min (to Ventura Harbor departure)" } ],
+      "soloScore": 5,
+      "soloWhy": "The flat waterfront grid and a free electric shuttle make it easy to see the whole city without a car, and the Funk Zone's tasting rooms are built around solo counter seating.",
+      "guide": {
+        "highlights": [
+          "Santa Barbara Botanic Garden's chaparral trails",
+          "Santa Barbara County Courthouse's sunken garden and tower view",
+          "Funk Zone wine and cider tasting rooms",
+          "Butterfly Beach at sunset",
+          "Channel Islands National Park boat trip to Anacapa Island"
+        ],
+        "itinerary": [
+          "Day 1 — Santa Barbara County Courthouse tower for the view, State Street in the afternoon, dinner in the Funk Zone.",
+          "Day 2 — Santa Barbara Botanic Garden in the morning, Butterfly Beach and Montecito's Coast Village Road at sunset.",
+          "Day 3 — Drive to Ventura Harbor for the Island Packers boat to Channel Islands National Park, back for an evening flight."
+        ],
+        "gettingAround": "Downtown and the waterfront are entirely walkable, with a free electric shuttle along State Street; a rental car is needed for the Ventura Harbor boat dock.",
+        "stayArea": "The Funk Zone or downtown near State Street — walkable to the wharf and tasting rooms.",
+        "food": [
+          "Lucky Penny (Funk Zone pizza)",
+          "Santa Barbara Public Market",
+          "Loquita (Spanish)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SBA"
+    },
+    {
+      "rank": 4,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 247,
+      "priceHigh": 300,
+      "travelWindow": "Sep 19-29 or Nov 5-11 cheapest confirmed nonstop dates on Delta, Southwest, or JetBlue",
+      "airlines": ["Delta", "Southwest", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$247 RT nonstop across three carriers, and Torrey Pines State Natural Reserve's cliff trails are a 20-minute trolley-and-walk from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=TxmSkRN0z3A",
+      "nearbyParks": [
+        { "name": "Torrey Pines State Natural Reserve", "drive": "20 min" },
+        { "name": "Cabrillo National Monument", "drive": "20 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Balboa Park and the Gaslamp Quarter are packed with solo counter-seating and museum-hopping, and the trolley covers most of the city without a rental car.",
+      "guide": {
+        "highlights": [
+          "Balboa Park's museums and Spanish Village art studios",
+          "Cabrillo National Monument's tide pools and lighthouse",
+          "Gaslamp Quarter happy hours",
+          "La Jolla Cove seals and coastal walk",
+          "Torrey Pines State Natural Reserve cliff trails"
+        ],
+        "itinerary": [
+          "Day 1 — Balboa Park's museums and gardens in the morning, Gaslamp Quarter happy hour and dinner at night.",
+          "Day 2 — La Jolla Cove for the seals and a coastal walk, sunset at Torrey Pines' Razor Point trail.",
+          "Day 3 — Trolley and a short walk to Cabrillo National Monument's tide pools before an afternoon flight."
+        ],
+        "gettingAround": "The MTS trolley and rideshares cover downtown, Balboa Park, and La Jolla without a car; Torrey Pines and Cabrillo are easiest with one.",
+        "stayArea": "Gaslamp Quarter or Little Italy — walkable to a trolley stop and the waterfront.",
+        "food": [
+          "Puesto (Little Italy tacos)",
+          "Cafe Coyote (Old Town)",
+          "Liberty Public Market"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    },
+    {
+      "rank": 5,
+      "destination": "Nashville, TN",
+      "airport": "BNA",
+      "priceLow": 248,
+      "priceHigh": 280,
+      "travelWindow": "Oct 9-12 cheapest confirmed nonstop dates on JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $248 RT nonstop with no national park close by, but Mammoth Cave National Park is a manageable day trip and downtown's honky-tonks make for an easy solo night out.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashville%2C_TN_skyline.jpg/3840px-Nashville%2C_TN_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=gWHimfSjT4E",
+      "nearbyParks": [ { "name": "Mammoth Cave National Park", "drive": "1.75 h" } ],
+      "soloScore": 3,
+      "soloWhy": "Lower Broadway's honky-tonks are set up for solo bar-hopping with live music in every doorway, though a rental car is the only realistic way to Mammoth Cave.",
+      "guide": {
+        "highlights": [
+          "Lower Broadway's honky-tonks and live music",
+          "Country Music Hall of Fame",
+          "Centennial Park and the Parthenon replica",
+          "The Gulch's shops and restaurants",
+          "Mammoth Cave National Park's cave tours"
+        ],
+        "itinerary": [
+          "Day 1 — Country Music Hall of Fame in the afternoon, Lower Broadway honky-tonks at night.",
+          "Day 2 — Centennial Park and the Parthenon in the morning, The Gulch for shopping and dinner in the evening.",
+          "Day 3 — Rent a car for Mammoth Cave National Park's Historic Tour, back to Nashville for an evening flight."
+        ],
+        "gettingAround": "Downtown, The Gulch, and Lower Broadway are walkable, with rideshares covering the rest; a rental car is needed for Mammoth Cave.",
+        "stayArea": "The Gulch or downtown — walkable to Broadway and restaurants.",
+        "food": [
+          "Hattie B's Hot Chicken",
+          "Arnold's Country Kitchen",
+          "Biscuit Love"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BNA"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-08-25T04:55:10Z",
+  "generatedAt": "2026-08-26T04:56:20Z",
   "digests": [
+    { "date": "2026-08-26", "title": "Knoxville $97 holds, Denver back at $141", "destinations": ["TYS", "DEN", "SBA", "SAN", "BNA"] },
     { "date": "2026-08-25", "title": "Knoxville $97, Smokies again", "destinations": ["TYS", "RSW", "MCO", "MIA", "TPA"] },
     { "date": "2026-08-22", "title": "Dallas $131, Denver flash fare $152", "destinations": ["DFW", "DEN", "SMF", "SLC"] },
     { "date": "2026-08-21", "title": "Denver $141, Santa Barbara solo pick", "destinations": ["DEN", "SBA", "LAS", "LAX", "SEA"] },
