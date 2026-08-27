@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T04:55:07Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 98,
+      "priceHigh": 140,
+      "travelWindow": "Sep 5-13 cheapest confirmed nonstop dates on Allegiant, Oct 20-27 runs $110, other Sept-Oct dates higher",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Still the cheapest verified fare of the five at $98 RT nonstop for a third straight week, and the Smokies' Sugarlands entrance is under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=WRgNxxi5oo0",
+      "nearbyParks": [ { "name": "Great Smoky Mountains National Park", "drive": "45 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to wander alone on foot, and the park's quieter Cosby and Greenbrier entrances make for solo hikes without the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "Ijams Nature Center's river bluffs and swimming hole",
+          "Market Square's restaurants and farmers market",
+          "Knoxville Museum of Art and the adjacent World's Fair Park",
+          "South Waterfront Riverwalk along the Tennessee River",
+          "Great Smoky Mountains NP's Cosby/Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Ijams Nature Center for a river-bluff hike, Market Square for dinner and live music at night.",
+          "Day 2 — Knoxville Museum of Art in the morning, a walk along the South Waterfront Riverwalk, brewery stop in the Old City at night.",
+          "Day 3 — Rent a car for the Smokies: the Cosby entrance's Albright Grove trail before heading back to Knoxville for an evening flight."
+        ],
+        "gettingAround": "Downtown — Market Square, World's Fair Park, and the Old City — is entirely walkable; a rental car is required for the national park.",
+        "stayArea": "Downtown near Market Square — walkable to restaurants and a short drive from I-40.",
+        "food": [
+          "Yassin's Falafel House",
+          "OliBea (Old City brunch)",
+          "The Tomato Head (Market Square)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Buffalo, NY",
+      "airport": "BUF",
+      "priceLow": 108,
+      "priceHigh": 160,
+      "travelWindow": "Sep-Oct 2026, cheapest confirmed nonstop dates on JetBlue midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$108 RT nonstop — back to a headline fare after two quiet weeks — and Niagara Falls State Park is a 25-minute drive, one of the strongest price-to-park ratios of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=_j5VA3Np8Qs",
+      "nearbyParks": [ { "name": "Niagara Falls State Park", "drive": "25 min" } ],
+      "soloScore": 4,
+      "soloWhy": "Downtown Buffalo's Elmwood Village and waterfront are flat, walkable, and quiet enough at night for solo strolls, and the falls make an easy no-tour-group day trip by rental car.",
+      "guide": {
+        "highlights": [
+          "Buffalo's Canalside waterfront and Naval Park",
+          "Elmwood Village's shops and cafes",
+          "Darwin D. Martin House, a Frank Lloyd Wright landmark",
+          "Buffalo AKG Art Museum",
+          "Niagara Falls State Park's Cave of the Winds and Maid of the Mist"
+        ],
+        "itinerary": [
+          "Day 1 — Canalside and the Naval Park in the afternoon, Elmwood Village for dinner.",
+          "Day 2 — Darwin Martin House tour in the morning, Buffalo AKG Art Museum in the afternoon.",
+          "Day 3 — Drive to Niagara Falls State Park for the Maid of the Mist boat tour and Cave of the Winds before an evening flight."
+        ],
+        "gettingAround": "Downtown and Elmwood Village are walkable, with the Metro Rail free downtown; a rental car is the easiest way to Niagara Falls.",
+        "stayArea": "Elmwood Village or downtown near Canalside — walkable to restaurants and a short drive to I-190.",
+        "food": [
+          "Anchor Bar (original Buffalo wings)",
+          "Marble + Rye (Elmwood Village)",
+          "Lloyd Taco Factory"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BUF"
+    },
+    {
+      "rank": 3,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 178,
+      "priceHigh": 280,
+      "travelWindow": "Sep-Oct 2026, cheapest confirmed nonstop dates on JetBlue and Spirit, book 3-4 weeks out",
+      "airlines": ["JetBlue", "Spirit", "Delta"],
+      "nonstop": true,
+      "whyRanked": "$178 RT nonstop across three carriers, and the Everglades' Anne Kolb/Markham Park backwaters are about 45 minutes inland.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=rP_4SSATnMc",
+      "nearbyParks": [ { "name": "Everglades National Park (Everglades Holiday Park entrance)", "drive": "45 min" } ],
+      "soloScore": 4,
+      "soloWhy": "The free water taxi loops through downtown and the beach all day, making it easy to island-hop between neighborhoods without a car or a tour group.",
+      "guide": {
+        "highlights": [
+          "Fort Lauderdale Beach's promenade",
+          "Las Olas Boulevard shops and riverfront dining",
+          "Bonnet House Museum and Gardens",
+          "Riverwalk Arts & Entertainment District",
+          "Everglades Holiday Park airboat tours"
+        ],
+        "itinerary": [
+          "Day 1 — Fort Lauderdale Beach in the morning, water taxi to Las Olas Boulevard for dinner.",
+          "Day 2 — Bonnet House Museum and Gardens, then the Riverwalk district in the evening.",
+          "Day 3 — Rent a car for Everglades Holiday Park's airboat tour before an afternoon flight."
+        ],
+        "gettingAround": "The water taxi covers downtown, Las Olas, and the beach all day; a rental car is needed for the Everglades.",
+        "stayArea": "Fort Lauderdale Beach or Las Olas — walkable to a water taxi stop.",
+        "food": [
+          "Coconuts (beachfront seafood)",
+          "Lester's Diner",
+          "Rok:Brgr (Las Olas)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 190,
+      "priceHigh": 241,
+      "travelWindow": "Sep-Nov 2026, cheapest confirmed nonstop dates on United and JetBlue, up from $141 two weeks ago",
+      "airlines": ["United", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$190 RT nonstop — pricier than two weeks ago — but Rocky Mountain National Park's Bear Lake corridor is still just 90 minutes from downtown, the strongest park boost of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=QIvGEahdcCc",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "Larimer Square and the Confluence Park trail network are flat and well-lit at night, and the free MallRide shuttle removes any guesswork about getting downtown.",
+      "guide": {
+        "highlights": [
+          "Larimer Square's restored Victorian storefronts",
+          "Confluence Park where Cherry Creek meets the South Platte",
+          "Denver Central Market food hall",
+          "Denver Art Museum",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Denver Central Market for lunch, Larimer Square in the afternoon, dinner and rooftop drinks nearby.",
+          "Day 2 — Denver Art Museum in the morning, a walk or bike along Confluence Park and the Cherry Creek Trail, sunset from Cheesman Park.",
+          "Day 3 — Rent a car for Rocky Mountain NP: the Bear Lake corridor for an easy alpine hike, back to Denver for an evening flight."
+        ],
+        "gettingAround": "The free MallRide shuttle and A Line train cover downtown and the airport; a rental car is needed for the national park.",
+        "stayArea": "LoDo or Uptown — walkable to Larimer Square and a MallRide stop.",
+        "food": [
+          "Safta (LoHi)",
+          "Work & Class (Five Points)",
+          "Denver Central Market stalls"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 251,
+      "priceHigh": 300,
+      "travelWindow": "Sep-Nov 2026, cheapest confirmed nonstop dates on Delta, Southwest, or JetBlue, roughly flat on last week",
+      "airlines": ["Delta", "Southwest", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "The priciest of the five at $251 RT nonstop, but Torrey Pines State Natural Reserve's cliff trails are a 20-minute trolley-and-walk from downtown and three carriers fly it nonstop.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=TxmSkRN0z3A",
+      "nearbyParks": [
+        { "name": "Torrey Pines State Natural Reserve", "drive": "20 min" },
+        { "name": "Cabrillo National Monument", "drive": "20 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Balboa Park and the Gaslamp Quarter are packed with solo counter-seating and museum-hopping, and the trolley covers most of the city without a rental car.",
+      "guide": {
+        "highlights": [
+          "Balboa Park's museums and Spanish Village art studios",
+          "Cabrillo National Monument's tide pools and lighthouse",
+          "Gaslamp Quarter happy hours",
+          "La Jolla Cove seals and coastal walk",
+          "Torrey Pines State Natural Reserve cliff trails"
+        ],
+        "itinerary": [
+          "Day 1 — Balboa Park's museums and gardens in the morning, Gaslamp Quarter happy hour and dinner at night.",
+          "Day 2 — La Jolla Cove for the seals and a coastal walk, sunset at Torrey Pines' Razor Point trail.",
+          "Day 3 — Trolley and a short walk to Cabrillo National Monument's tide pools before an afternoon flight."
+        ],
+        "gettingAround": "The MTS trolley and rideshares cover downtown, Balboa Park, and La Jolla without a car; Torrey Pines and Cabrillo are easiest with one.",
+        "stayArea": "Gaslamp Quarter or Little Italy — walkable to a trolley stop and the waterfront.",
+        "food": [
+          "Puesto (Little Italy tacos)",
+          "Cafe Coyote (Old Town)",
+          "Liberty Public Market"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
