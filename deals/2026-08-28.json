@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T04:54:42Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 97,
+      "priceHigh": 140,
+      "travelWindow": "Sep 5-12 cheapest confirmed nonstop dates on Allegiant, other Sept-Oct dates run higher",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Still the cheapest verified fare of the five at $97 RT nonstop for a fourth straight week, and the Smokies' Sugarlands entrance is under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [ { "name": "Great Smoky Mountains National Park", "drive": "45 min" } ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to wander alone on foot, and the park's quieter Cosby and Greenbrier entrances make for solo hikes without the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "Urban Wilderness trail network south of downtown",
+          "World's Fair Park and the Sunsphere",
+          "Mast General Store and Market Square's Saturday market",
+          "Knoxville Botanical Garden and Arboretum",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Hike a loop in the Urban Wilderness (House Mountain or Ijams' South Loop), Market Square for dinner.",
+          "Day 2 — Sunsphere and World's Fair Park in the morning, Knoxville Botanical Garden in the afternoon, Old City brewery crawl at night.",
+          "Day 3 — Rent a car for the Smokies: Greenbrier's Ramsey Cascades trailhead before an evening flight."
+        ],
+        "gettingAround": "Downtown and the Urban Wilderness trails are walkable or a short bike ride; a rental car is required for the national park.",
+        "stayArea": "Downtown near Gay Street — walkable to Market Square and close to the Urban Wilderness greenway access.",
+        "food": [
+          "Stock & Barrel (Market Square burgers)",
+          "Knox Mason (Southern brunch)",
+          "Balter Beerworks (Old City)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Fort Myers, FL",
+      "airport": "RSW",
+      "priceLow": 189,
+      "priceHigh": 269,
+      "travelWindow": "Sep 22-29 cheapest confirmed nonstop dates on Delta, other Sept-Oct dates run higher",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "$189 RT nonstop, and Sanibel's Ding Darling refuge and the Everglades' western Ten Thousand Islands entrance are both under 90 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Blind_Pass%2C_Sanibel_and_Captiva.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=KAWB-eTI_Q8",
+      "nearbyParks": [
+        { "name": "J.N. \"Ding\" Darling National Wildlife Refuge", "drive": "40 min" },
+        { "name": "Everglades National Park (Everglades City entrance)", "drive": "1.5 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Sanibel's flat causeway-connected beaches and bike paths are easy to explore alone, and kayak tours through the mangrove tunnels run as solo-friendly small groups.",
+      "guide": {
+        "highlights": [
+          "Sanibel Island's Lighthouse Beach and shelling",
+          "Ding Darling refuge's Wildlife Drive by bike or car",
+          "Manatee Park's winter manatee viewing on the Orange River",
+          "Downtown Fort Myers River District galleries",
+          "Everglades City airboat tours into the Ten Thousand Islands"
+        ],
+        "itinerary": [
+          "Day 1 — River District walk and dinner along the Caloosahatchee waterfront.",
+          "Day 2 — Sanibel causeway drive, bike the Ding Darling Wildlife Drive, sunset shelling at Lighthouse Beach.",
+          "Day 3 — Drive to Everglades City for a Ten Thousand Islands mangrove kayak or airboat tour before an evening flight."
+        ],
+        "gettingAround": "A rental car is essential — Sanibel, Manatee Park, and Everglades City are all separate drives from downtown Fort Myers.",
+        "stayArea": "River District downtown — walkable restaurants and closest to the Sanibel causeway turnoff.",
+        "food": [
+          "The Standard (River District)",
+          "Doc Ford's Rum Bar & Grille (Sanibel)",
+          "Ford's Garage"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20RSW"
+    },
+    {
+      "rank": 3,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 217,
+      "priceHigh": 270,
+      "travelWindow": "Sep 9-12 cheapest confirmed nonstop dates on Delta, JetBlue, United and Southwest",
+      "airlines": ["Delta", "JetBlue", "United", "Southwest"],
+      "nonstop": true,
+      "whyRanked": "$217 RT nonstop across four carriers, only $10-30 over the two Florida picks, and Rocky Mountain National Park's Bear Lake corridor is just 90 minutes from downtown — the strongest park boost of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=GdjtNOH0p4g",
+      "nearbyParks": [ { "name": "Rocky Mountain National Park", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "The free MallRide and A Line train remove any guesswork about getting around, and RiNo's breweries have communal patio seating that's easy to drop into solo.",
+      "guide": {
+        "highlights": [
+          "RiNo Art District's murals and breweries",
+          "Cherry Creek Trail bike path",
+          "Union Station's food hall and public seating",
+          "Red Rocks Park's Trading Post loop trail",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Union Station food hall for lunch, RiNo Art District mural walk and brewery stop in the afternoon.",
+          "Day 2 — Bike the Cherry Creek Trail in the morning, drive out to Red Rocks Park for the Trading Post loop and sunset.",
+          "Day 3 — Rent a car for Rocky Mountain NP: the Bear Lake corridor for an easy alpine hike, back to Denver for an evening flight."
+        ],
+        "gettingAround": "The free MallRide shuttle and A Line train cover downtown and the airport; a rental car is needed for Red Rocks and the national park.",
+        "stayArea": "RiNo or LoDo — walkable to breweries and a short ride to Union Station.",
+        "food": [
+          "Denver Central Market stalls",
+          "Work & Class (Five Points)",
+          "Улица / Nocturne (RiNo dinner)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 4,
+      "destination": "Buffalo, NY",
+      "airport": "BUF",
+      "priceLow": 233,
+      "priceHigh": 285,
+      "travelWindow": "Oct 7-14 cheapest confirmed nonstop dates on JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$233 RT nonstop — up from the summer's $108 headline fare — but Niagara Falls State Park is still a 25-minute drive, the single strongest price-to-park ratio once the boost is applied.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=N8SKPfFXQUM",
+      "nearbyParks": [ { "name": "Niagara Falls State Park", "drive": "25 min" } ],
+      "soloScore": 4,
+      "soloWhy": "Downtown Buffalo's Elmwood Village and waterfront are flat, walkable, and quiet enough at night for solo strolls, and the falls make an easy no-tour-group day trip by rental car.",
+      "guide": {
+        "highlights": [
+          "Buffalo AKG Art Museum's new Gundlach Building",
+          "Delaware Park and the Buffalo Zoo",
+          "Hertel Avenue's Little Italy restaurants",
+          "Silo City's grain elevator tours",
+          "Niagara Falls State Park's Cave of the Winds and Maid of the Mist"
+        ],
+        "itinerary": [
+          "Day 1 — Buffalo AKG Art Museum in the morning, Delaware Park for a walk, Hertel Avenue for dinner.",
+          "Day 2 — Silo City grain elevator tour, Canalside waterfront in the evening.",
+          "Day 3 — Drive to Niagara Falls State Park for the Maid of the Mist boat tour and Cave of the Winds before an evening flight."
+        ],
+        "gettingAround": "Downtown, Delaware Park, and Hertel Avenue are walkable or a short Metro Rail ride; a rental car is the easiest way to Niagara Falls.",
+        "stayArea": "Elmwood Village or downtown near Canalside — walkable to restaurants and a short drive to I-190.",
+        "food": [
+          "Duff's (original Buffalo wings)",
+          "Marble + Rye (Elmwood Village)",
+          "Casa di Pizza (Hertel Avenue)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BUF"
+    },
+    {
+      "rank": 5,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 207,
+      "priceHigh": 257,
+      "travelWindow": "Sep 30-Oct 6 cheapest confirmed nonstop dates on JetBlue",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$207 RT nonstop, the priciest-per-mile of the five with no real park nearby, but three free trolley lines and a walkable historic district make it the easiest to do without a rental car.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/3840px-Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=0GhpNQ8dc2w",
+      "nearbyParks": [],
+      "soloScore": 4,
+      "soloWhy": "The free TECO Line streetcar connects downtown to Ybor City, so a solo traveler can bar- and museum-hop all night without driving or ride-shares.",
+      "guide": {
+        "highlights": [
+          "Ybor City's Cuban sandwich shops and cigar factories",
+          "Bayshore Boulevard's 4.5-mile waterfront path",
+          "Armature Works food hall in Tampa Heights",
+          "Hyde Park Village shops and Kate Jackson Park",
+          "Tampa Museum of Art"
+        ],
+        "itinerary": [
+          "Day 1 — Armature Works for lunch, TECO streetcar to Ybor City for cigar shops and dinner.",
+          "Day 2 — Bayshore Boulevard run or walk at sunrise, Tampa Museum of Art midday, Hyde Park Village in the evening.",
+          "Day 3 — Kayak or paddleboard the Hillsborough River before an afternoon flight."
+        ],
+        "gettingAround": "The free TECO Line streetcar covers downtown to Ybor City; Hyde Park and Bayshore are a short bike or rideshare away.",
+        "stayArea": "Downtown near the Riverwalk or Channelside — walkable to the streetcar and Armature Works.",
+        "food": [
+          "Columbia Restaurant (Ybor City, since 1905)",
+          "Ulele (riverfront)",
+          "Bern's Steak House"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA"
+    }
+  ]
+}
