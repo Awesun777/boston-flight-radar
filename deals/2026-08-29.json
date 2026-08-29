@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T04:56:23Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 97,
+      "priceHigh": 158,
+      "travelWindow": "Sep 1 – Nov 26, very wide availability",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "$97 RT nonstop on American, down from $158, and Shenandoah National Park's Skyline Drive is under 90 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=8iqIiVKMlZE",
+      "nearbyParks": [ { "name": "Shenandoah NP (Front Royal entrance)", "drive": "1.5 h" } ],
+      "soloScore": 5,
+      "soloWhy": "Free world-class Smithsonian museums, an extensive Metro system, and constant foot traffic on the Mall make this one of the easiest solo trips in the country.",
+      "guide": {
+        "highlights": ["National Mall & monuments lit up at night", "Smithsonian museums (all free)", "Eastern Market on Capitol Hill", "U Street's go-go music history", "Georgetown's C&O Canal towpath"],
+        "itinerary": [
+          "Day 1 — Air & Space and American History museums, walk the Mall to the Lincoln Memorial, catch the MLK and FDR memorials at sunset",
+          "Day 2 — Capitol Hill morning, Eastern Market lunch, National Gallery of Art in the afternoon, U Street for dinner",
+          "Day 3 — Georgetown waterfront and C&O Canal walk; rent a car for a day trip to Shenandoah's Skyline Drive if the weather's clear"
+        ],
+        "gettingAround": "The Metro covers nearly everything downtown; a rental car is only worth it for the Shenandoah day trip.",
+        "stayArea": "Dupont Circle or Capitol Hill — central, Metro-accessible, and walkable after dark.",
+        "food": ["Ben's Chili Bowl", "Eastern Market blue crab cakes", "Compass Coffee for a morning start"]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 2,
+      "destination": "Baltimore, MD",
+      "airport": "BWI",
+      "priceLow": 117,
+      "priceHigh": 159,
+      "travelWindow": "Sep 5 – Nov 26, wide availability",
+      "airlines": ["Southwest", "Delta"],
+      "nonstop": true,
+      "whyRanked": "$117 RT nonstop on Southwest or Delta, and Fort McHenry National Monument sits right in the city — no drive required.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=xY_kN8_WRS0",
+      "nearbyParks": [ { "name": "Fort McHenry National Monument", "drive": "10 min (in-city)" } ],
+      "soloScore": 4,
+      "soloWhy": "Inner Harbor and Fells Point are walkable and well-lit, with a free water taxi and Circulator bus linking the main sights.",
+      "guide": {
+        "highlights": ["Fort McHenry National Monument", "Inner Harbor promenade", "Fells Point cobblestone streets", "National Aquarium", "American Visionary Art Museum"],
+        "itinerary": [
+          "Day 1 — Fort McHenry NM in the morning, Inner Harbor promenade, National Aquarium in the afternoon",
+          "Day 2 — Fells Point walking tour, water taxi to Canton, American Visionary Art Museum",
+          "Day 3 — Federal Hill Park for the skyline view; optional day trip to DC (35 min by train) or Annapolis"
+        ],
+        "gettingAround": "Inner Harbor, Fells Point, and Federal Hill are all walkable; the Charm City Circulator bus is free downtown.",
+        "stayArea": "Fells Point or Inner Harbor — walkable, close to the water taxi stops.",
+        "food": ["Faidley's crab cakes at Lexington Market", "Attman's deli", "Blue Moon Café"]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BWI"
+    },
+    {
+      "rank": 3,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 141,
+      "priceHigh": 190,
+      "travelWindow": "Sep 5 – Nov 19, some dates patchy — verify before booking",
+      "airlines": ["Southwest", "American", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$141 RT on Southwest, American, or JetBlue — cheaper than the $190-270 Denver fares in recent digests — and Rocky Mountain National Park's Bear Lake corridor is still just 90 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=4Mv4LpXWfO4",
+      "nearbyParks": [ { "name": "Rocky Mountain NP", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "A compact, walkable downtown with a free shuttle, plus an easy mountain day trip that needs no technical hiking skill.",
+      "guide": {
+        "highlights": ["RiNo Art District murals", "Union Station", "Red Rocks Amphitheatre trails", "Rocky Mountain NP day trip", "Denver Botanic Gardens"],
+        "itinerary": [
+          "Day 1 — Union Station, 16th Street Mall, RiNo Art District mural walk",
+          "Day 2 — Day trip to Rocky Mountain NP for the Bear Lake corridor (in-park shuttle handles the parking)",
+          "Day 3 — Red Rocks Amphitheatre trails in the morning, Denver Botanic Gardens, Larimer Square for dinner"
+        ],
+        "gettingAround": "Downtown is walkable with a free 16th Street shuttle; a rental car is worth it for the Rocky Mountain NP day trip.",
+        "stayArea": "LoDo (Lower Downtown) — near Union Station and walkable to RiNo.",
+        "food": ["Denver Biscuit Company", "Snooze an A.M. Eatery", "Avanti Food & Beverage hall"]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 4,
+      "destination": "Miami, FL",
+      "airport": "MIA",
+      "priceLow": 159,
+      "priceHigh": 207,
+      "travelWindow": "Sep 1 – Oct 7",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "$159 RT nonstop on American, with Everglades and Biscayne National Parks both under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=nG3Pj9jd26Y",
+      "nearbyParks": [ { "name": "Everglades NP (Ernest Coe entrance)", "drive": "45 min" }, { "name": "Biscayne NP", "drive": "40 min" } ],
+      "soloScore": 3,
+      "soloWhy": "South Beach's Art Deco district is walkable and busy at all hours, though a rental car is what really opens up the Everglades and Biscayne day trips.",
+      "guide": {
+        "highlights": ["South Beach Art Deco Historic District", "Everglades boardwalks and bike trails", "Wynwood Walls murals", "Vizcaya Museum & Gardens", "Key Biscayne"],
+        "itinerary": [
+          "Day 1 — South Beach Art Deco walking tour, Lincoln Road, ocean swim",
+          "Day 2 — Everglades NP: Anhinga Trail boardwalk plus the Shark Valley bike loop",
+          "Day 3 — Wynwood Walls murals, Vizcaya Museum & Gardens, sunset at Bill Baggs park on Key Biscayne"
+        ],
+        "gettingAround": "A rental car is worth it for the Everglades; South Beach itself is walkable, and the free Freebee shuttle covers Miami Beach.",
+        "stayArea": "South Beach's Art Deco district — walkable, close to the beach and Lincoln Road.",
+        "food": ["Versailles (Cuban, Little Havana)", "Joe's Stone Crab", "La Sandwicherie"]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MIA"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 197,
+      "priceHigh": 284,
+      "travelWindow": "Oct 3 – Nov 18",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$197 RT nonstop on JetBlue, down from $284, and Cabrillo National Monument and Torrey Pines are each a short trolley-and-drive from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=g3F0RZ2Njv4",
+      "nearbyParks": [ { "name": "Cabrillo National Monument", "drive": "20 min" }, { "name": "Torrey Pines State Natural Reserve", "drive": "20 min" } ],
+      "soloScore": 5,
+      "soloWhy": "Balboa Park, the Gaslamp Quarter, and the coastal trolley make this one of the most solo-friendly warm-weather cities in the country.",
+      "guide": {
+        "highlights": ["Balboa Park museums & gardens", "Cabrillo National Monument tide pools", "Torrey Pines cliff trails", "Gaslamp Quarter", "La Jolla Cove"],
+        "itinerary": [
+          "Day 1 — Balboa Park museums and Botanical Garden, Gaslamp Quarter for dinner",
+          "Day 2 — Cabrillo National Monument tide pools and the Old Point Loma Lighthouse, sunset at Sunset Cliffs",
+          "Day 3 — Torrey Pines State Natural Reserve hike, La Jolla Cove seals, trolley back downtown"
+        ],
+        "gettingAround": "The MTS trolley and buses cover downtown, Old Town, and the beaches; a car isn't required but helps reach Torrey Pines faster.",
+        "stayArea": "Gaslamp Quarter or Little Italy — walkable, trolley-accessible, close to the bay.",
+        "food": ["Liberty Public Market", "Puesto tacos", "Café Coyote in Old Town"]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
