@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T14:30:00Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 93,
+      "priceHigh": 140,
+      "travelWindow": "Sep 5 – Nov 14, cheapest is the Nov 7 departure",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "$93 RT on Allegiant for the Nov 7 departure — a new low and still the cheapest fare of the five — with the Smokies' Greenbrier entrance 45 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to explore solo on foot, and the park's Greenbrier and Cosby entrances offer quiet trails away from the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "Ijams Nature Center's quarry swimming hole and trails",
+          "Concord Park on Fort Loudoun Lake",
+          "Knoxville Museum of Art overlooking World's Fair Park",
+          "South Waterfront Riverwalk",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Ijams Nature Center trails and quarry overlook, dinner in the Old City.",
+          "Day 2 — Knoxville Museum of Art and World's Fair Park in the morning, South Waterfront Riverwalk at sunset.",
+          "Day 3 — Rent a car for Greenbrier: Ramsey Cascades or the Porters Creek trailhead before an evening flight."
+        ],
+        "gettingAround": "Downtown, Ijams, and the South Waterfront are walkable or a short bike ride; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Gay Street or the South Waterfront — walkable, close to the Riverwalk and Old City nightlife.",
+        "food": [
+          "Sweet P's BBQ (South Waterfront)",
+          "OliBea (Old City brunch)",
+          "Alliance Brewing Company"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Dallas, TX",
+      "airport": "DFW",
+      "priceLow": 131,
+      "priceHigh": 195,
+      "travelWindow": "Sep 12 – Dec 12, Saturday-only nonstop fares",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "$131 RT nonstop on American for Saturday departures through December — back at the same low it hit a week ago, still a rare dip under $180 on this route.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png/3840px-Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=e5UtYMwoDxM",
+      "nearbyParks": [],
+      "soloScore": 3,
+      "soloWhy": "Uptown and Deep Ellum are walkable, transit-friendly pockets, though the city overall is spread out enough that a car or rideshare budget helps.",
+      "guide": {
+        "highlights": [
+          "Dallas Museum of Art (free general admission)",
+          "Klyde Warren Park",
+          "Deep Ellum street art and live music",
+          "Reunion Tower GeO-Deck",
+          "Bishop Arts District"
+        ],
+        "itinerary": [
+          "Day 1 — Dallas Museum of Art, Klyde Warren Park for lunch, Reunion Tower at sunset.",
+          "Day 2 — Deep Ellum mural walk and record shops, live music at night.",
+          "Day 3 — Bishop Arts District boutiques and coffee, Dallas World Aquarium before an evening flight."
+        ],
+        "gettingAround": "The DART light rail connects Downtown, Uptown, and Deep Ellum; a rideshare is worth it for Bishop Arts and the Arts District.",
+        "stayArea": "Uptown or Downtown — walkable to the Arts District and a short DART ride from Deep Ellum.",
+        "food": [
+          "Pecan Lodge BBQ (Deep Ellum)",
+          "Trompo tacos (Bishop Arts)",
+          "Ellen's Southern Kitchen"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DFW"
+    },
+    {
+      "rank": 3,
+      "destination": "Miami, FL",
+      "airport": "MIA",
+      "priceLow": 159,
+      "priceHigh": 207,
+      "travelWindow": "Oct – Nov, wide nonstop availability",
+      "airlines": ["Delta", "American"],
+      "nonstop": true,
+      "whyRanked": "$159 RT nonstop on Delta or American for October-November travel, with Everglades and Biscayne National Parks both under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=nG3Pj9jd26Y",
+      "nearbyParks": [
+        { "name": "Everglades NP (Ernest Coe entrance)", "drive": "45 min" },
+        { "name": "Biscayne NP", "drive": "40 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "South Beach's Art Deco streets stay busy and walkable well into the night, though a rental car is what really opens up the two national parks.",
+      "guide": {
+        "highlights": [
+          "South Beach Art Deco Historic District",
+          "Everglades boardwalks and airboat country",
+          "Bill Baggs Cape Florida State Park",
+          "Wynwood Walls murals",
+          "Biscayne NP's Dante Fascell Visitor Center"
+        ],
+        "itinerary": [
+          "Day 1 — South Beach Art Deco walking tour, Lincoln Road, sunset swim.",
+          "Day 2 — Everglades NP: Anhinga Trail boardwalk and the Shark Valley bike loop.",
+          "Day 3 — Biscayne NP glass-bottom boat tour, then Wynwood Walls before an evening flight."
+        ],
+        "gettingAround": "A rental car is worth it for the Everglades and Biscayne day trips; South Beach itself is walkable, with the free Freebee shuttle covering Miami Beach.",
+        "stayArea": "South Beach's Art Deco district — walkable, close to the sand and Lincoln Road.",
+        "food": [
+          "Versailles (Cuban, Little Havana)",
+          "Garcia's Seafood Grille on the Miami River",
+          "La Sandwicherie"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MIA"
+    },
+    {
+      "rank": 4,
+      "destination": "Santa Barbara, CA",
+      "airport": "SBA",
+      "priceLow": 228,
+      "priceHigh": 338,
+      "travelWindow": "Sep – early Dec",
+      "airlines": ["American"],
+      "nonstop": false,
+      "whyRanked": "$228 RT on American (one stop), back on the list after a week away, with Channel Islands National Park a short ferry ride away and a walkable, low-key downtown built for solo trips.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Santa_Barbara_Downtown_%28may_2012%29_%282%29_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=O5d1bdgx7_U",
+      "nearbyParks": [
+        { "name": "Channel Islands NP (via Ventura Harbor ferry)", "drive": "30 min to the ferry dock" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "A flat, walkable downtown, a free electric shuttle along State Street, and a laid-back beach-town pace make this one of the easiest solo weekends in California.",
+      "guide": {
+        "highlights": [
+          "Stearns Wharf and East Beach",
+          "Santa Barbara Mission",
+          "State Street shops and tapas bars",
+          "Channel Islands NP day trip from Ventura Harbor",
+          "Santa Barbara Botanic Garden"
+        ],
+        "itinerary": [
+          "Day 1 — Stearns Wharf, East Beach boardwalk, sunset at the harbor.",
+          "Day 2 — Ferry to Channel Islands NP (Anacapa or Santa Cruz Island) for a half-day hike.",
+          "Day 3 — Santa Barbara Mission and Botanic Garden in the morning, State Street tapas crawl before an evening flight."
+        ],
+        "gettingAround": "The free State Street shuttle and MTD buses cover downtown and the waterfront; a rental car (or a short drive to Ventura) is needed for the Channel Islands ferry.",
+        "stayArea": "Downtown near State Street or the Funk Zone — walkable to the wharf, beach, and shuttle line.",
+        "food": [
+          "Santa Barbara Shellfish Company (wharf)",
+          "The Lark (Funk Zone)",
+          "La Super-Rica Taqueria"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SBA"
+    },
+    {
+      "rank": 5,
+      "destination": "Seattle, WA",
+      "airport": "SEA",
+      "priceLow": 297,
+      "priceHigh": 407,
+      "travelWindow": "Sep 24 – Oct 17, limited availability",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "$297 RT nonstop on JetBlue for late-September and October travel, with Mount Rainier and Olympic National Parks both under two and a half hours away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=JY3dN1rAV1s",
+      "nearbyParks": [
+        { "name": "Mount Rainier NP", "drive": "2.25 h" },
+        { "name": "Olympic NP", "drive": "2.5 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "An extensive bus and light-rail network, a walkable downtown/Capitol Hill core, and a strong cafe culture make solo days easy to fill.",
+      "guide": {
+        "highlights": [
+          "Pike Place Market",
+          "Kerry Park skyline view",
+          "Capitol Hill cafes and Volunteer Park",
+          "Mount Rainier NP's Skyline Trail",
+          "Olympic NP's Hurricane Ridge"
+        ],
+        "itinerary": [
+          "Day 1 — Pike Place Market, waterfront, Kerry Park at sunset.",
+          "Day 2 — Rent a car for Mount Rainier NP: the Skyline Trail loop from Paradise.",
+          "Day 3 — Capitol Hill cafes and Volunteer Park in the morning, Museum of Pop Culture before an evening flight."
+        ],
+        "gettingAround": "Link light rail and the bus network cover downtown, Capitol Hill, and the airport; a rental car is required for either national park day trip.",
+        "stayArea": "Capitol Hill or Downtown — walkable, transit-connected, close to the coffee scene.",
+        "food": [
+          "Pike Place chowder stalls",
+          "Top Pot Doughnuts",
+          "Un Bien Cubano sandwiches"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SEA"
+    }
+  ]
+}
