@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T04:53:46Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 124,
+      "priceHigh": 150,
+      "travelWindow": "Sep 30 – Nov 14, cheapest is the Nov 14 departure",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "$62 one-way legs on Allegiant for Nov 14 (about $124 RT) — up from the $93 low earlier this week but still the cheapest fare of the five, with the Smokies' Greenbrier entrance 45 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to explore solo on foot, and the park's Greenbrier and Cosby entrances offer quiet trails away from the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "Market Square farmers market and street performers",
+          "Sunsphere observation deck over World's Fair Park",
+          "Ijams Nature Center quarry swimming hole",
+          "Mabry-Hazen House hilltop views",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Market Square and the Sunsphere, dinner in the Old City.",
+          "Day 2 — Ijams Nature Center trails in the morning, Mabry-Hazen House and downtown murals in the afternoon.",
+          "Day 3 — Rent a car for Greenbrier: the Ramsey Cascades or Porters Creek trailhead before an evening flight."
+        ],
+        "gettingAround": "Downtown and Ijams are walkable or a short rideshare apart; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable, close to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Balter Beerworks"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Dallas, TX",
+      "airport": "DFW",
+      "priceLow": 131,
+      "priceHigh": 195,
+      "travelWindow": "Sep 12 – Dec 12, Saturday-only nonstop fares",
+      "airlines": ["American"],
+      "nonstop": true,
+      "whyRanked": "$131 RT nonstop on American for Saturday departures through December — holding steady at the same low fare for a second straight day.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png/3840px-Dallas_Texas_skyline_from_Reunion_Tower_September_2025_%28cropped%29.png",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=e5UtYMwoDxM",
+      "nearbyParks": [],
+      "soloScore": 3,
+      "soloWhy": "Uptown and Deep Ellum are walkable, transit-friendly pockets, though the city overall is spread out enough that a car or rideshare budget helps.",
+      "guide": {
+        "highlights": [
+          "The Sixth Floor Museum at Dealey Plaza",
+          "Katy Trail jogging/biking path",
+          "Deep Ellum street art and live music",
+          "Perot Museum of Nature and Science",
+          "Bishop Arts District"
+        ],
+        "itinerary": [
+          "Day 1 — The Sixth Floor Museum and Dealey Plaza, walk the Katy Trail into Uptown for dinner.",
+          "Day 2 — Perot Museum in the morning, Deep Ellum mural walk and live music at night.",
+          "Day 3 — Bishop Arts District boutiques and coffee, Klyde Warren Park before an evening flight."
+        ],
+        "gettingAround": "The DART light rail connects Downtown, Uptown, and Deep Ellum; a rideshare is worth it for Bishop Arts.",
+        "stayArea": "Uptown along the Katy Trail — walkable, quiet at night, a short DART ride from Deep Ellum.",
+        "food": [
+          "Pecan Lodge BBQ (Deep Ellum)",
+          "Trompo tacos (Bishop Arts)",
+          "Velvet Taco (Uptown, 24-hour)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DFW"
+    },
+    {
+      "rank": 3,
+      "destination": "Miami, FL",
+      "airport": "MIA",
+      "priceLow": 149,
+      "priceHigh": 207,
+      "travelWindow": "Oct 6 – Oct 10 flash sale, wider Oct-Nov nonstop availability",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "$149 RT nonstop on Delta for the Oct 6–10 flash sale window, with Everglades and Biscayne National Parks both under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=nG3Pj9jd26Y",
+      "nearbyParks": [
+        { "name": "Everglades NP (Ernest Coe entrance)", "drive": "45 min" },
+        { "name": "Biscayne NP", "drive": "40 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "South Beach's Art Deco streets stay busy and walkable well into the night, though a rental car is what really opens up the two national parks.",
+      "guide": {
+        "highlights": [
+          "South Beach Art Deco Historic District",
+          "Everglades boardwalks and airboat country",
+          "Vizcaya Museum & Gardens",
+          "Wynwood Walls murals",
+          "Biscayne NP's Dante Fascell Visitor Center"
+        ],
+        "itinerary": [
+          "Day 1 — South Beach Art Deco walking tour, Lincoln Road, sunset swim.",
+          "Day 2 — Everglades NP: Anhinga Trail boardwalk and the Shark Valley bike loop.",
+          "Day 3 — Vizcaya Museum & Gardens in the morning, Wynwood Walls before an evening flight."
+        ],
+        "gettingAround": "A rental car is worth it for the Everglades and Biscayne day trips; South Beach itself is walkable, with the free Freebee shuttle covering Miami Beach.",
+        "stayArea": "South Beach's Art Deco district — walkable, close to the sand and Lincoln Road.",
+        "food": [
+          "Versailles (Cuban, Little Havana)",
+          "Garcia's Seafood Grille on the Miami River",
+          "La Sandwicherie"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MIA"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 179,
+      "priceHigh": 240,
+      "travelWindow": "Oct 27 – Nov 3 confirmed low, wider Sep-Nov nonstop availability",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "$179 RT nonstop on Delta for the Oct 27 – Nov 3 window, with Rocky Mountain National Park's Bear Lake corridor still just 90 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=4Mv4LpXWfO4",
+      "nearbyParks": [ { "name": "Rocky Mountain NP", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "A compact, walkable downtown with a free shuttle, plus an easy mountain day trip that needs no technical hiking skill.",
+      "guide": {
+        "highlights": [
+          "RiNo Art District murals",
+          "Union Station",
+          "Denver Botanic Gardens",
+          "Rocky Mountain NP day trip",
+          "Larimer Square"
+        ],
+        "itinerary": [
+          "Day 1 — Union Station, 16th Street Mall, RiNo Art District mural walk.",
+          "Day 2 — Day trip to Rocky Mountain NP for the Bear Lake corridor (in-park shuttle handles the parking).",
+          "Day 3 — Denver Botanic Gardens in the morning, Larimer Square for dinner."
+        ],
+        "gettingAround": "Downtown is walkable with a free 16th Street shuttle; a rental car is worth it for the Rocky Mountain NP day trip.",
+        "stayArea": "LoDo (Lower Downtown) — near Union Station and walkable to RiNo.",
+        "food": [
+          "Denver Biscuit Company",
+          "Snooze an A.M. Eatery",
+          "Avanti Food & Beverage hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 249,
+      "priceHigh": 284,
+      "travelWindow": "Sep 5 flash sale, wider Sep-Nov nonstop availability",
+      "airlines": ["Delta"],
+      "nonstop": true,
+      "whyRanked": "$249 RT nonstop on Delta's flash sale, with Cabrillo National Monument and Torrey Pines each a short trolley-and-drive from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=g3F0RZ2Njv4",
+      "nearbyParks": [ { "name": "Cabrillo National Monument", "drive": "20 min" }, { "name": "Torrey Pines State Natural Reserve", "drive": "20 min" } ],
+      "soloScore": 5,
+      "soloWhy": "Balboa Park, the Gaslamp Quarter, and the coastal trolley make this one of the most solo-friendly warm-weather cities in the country.",
+      "guide": {
+        "highlights": [
+          "Balboa Park museums & gardens",
+          "Cabrillo National Monument tide pools",
+          "Torrey Pines cliff trails",
+          "Gaslamp Quarter",
+          "La Jolla Cove"
+        ],
+        "itinerary": [
+          "Day 1 — Balboa Park museums and Botanical Garden, Gaslamp Quarter for dinner.",
+          "Day 2 — Cabrillo National Monument tide pools and the Old Point Loma Lighthouse, sunset at Sunset Cliffs.",
+          "Day 3 — Torrey Pines State Natural Reserve hike, La Jolla Cove seals, trolley back downtown."
+        ],
+        "gettingAround": "The MTS trolley and buses cover downtown, Old Town, and the beaches; a car isn't required but helps reach Torrey Pines faster.",
+        "stayArea": "Gaslamp Quarter or Little Italy — walkable, trolley-accessible, close to the bay.",
+        "food": [
+          "Liberty Public Market",
+          "Puesto tacos",
+          "Café Coyote in Old Town"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
