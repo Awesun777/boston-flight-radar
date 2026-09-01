@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T04:55:08Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 120,
+      "priceHigh": 150,
+      "travelWindow": "Sep 2026 – Feb 2027, cheapest on scattered off-peak dates (e.g. Nov 14)",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $62 ($120-150 RT) on Allegiant's own site — still the cheapest verified fare of the five, with the Smokies' Greenbrier entrance 45 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to explore solo on foot, and the park's Greenbrier and Cosby entrances offer quiet trails away from the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "Market Square farmers market and street performers",
+          "Sunsphere observation deck over World's Fair Park",
+          "Ijams Nature Center quarry swimming hole",
+          "Mabry-Hazen House hilltop views",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Market Square and the Sunsphere, dinner in the Old City.",
+          "Day 2 — Ijams Nature Center trails in the morning, Mabry-Hazen House and downtown murals in the afternoon.",
+          "Day 3 — Rent a car for Greenbrier: the Ramsey Cascades or Porters Creek trailhead before an evening flight."
+        ],
+        "gettingAround": "Downtown and Ijams are walkable or a short rideshare apart; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable, close to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Balter Beerworks"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Asheville, NC",
+      "airport": "AVL",
+      "priceLow": 130,
+      "priceHigh": 160,
+      "travelWindow": "Through winter 2026/27, cheapest on scattered dates (e.g. Dec 11)",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "New pick: one-way legs as low as $67 ($130-160 RT) confirmed on Allegiant's own booking page, and it's arguably the best park-and-solo double of the five — Blue Ridge Parkway trailheads minutes from a walkable downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Asheville_at_dusk_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=tAGn8fDVxvs",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "1.25 h" },
+        { "name": "Blue Ridge Parkway", "drive": "10 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "A dense, walkable downtown with breweries and galleries, plus Blue Ridge Parkway overlooks reachable without a long drive.",
+      "guide": {
+        "highlights": [
+          "Blue Ridge Parkway scenic overlooks",
+          "River Arts District galleries and studios",
+          "Downtown Asheville brewery scene",
+          "Biltmore Estate gardens",
+          "Chimney Rock and Lake Lure day trip"
+        ],
+        "itinerary": [
+          "Day 1 — Downtown walking tour: Pack Square, Grove Arcade, brewery crawl on the South Slope.",
+          "Day 2 — Blue Ridge Parkway drive to the Folk Art Center and Craggy Gardens overlook.",
+          "Day 3 — River Arts District galleries in the morning, Biltmore Estate gardens before an evening flight."
+        ],
+        "gettingAround": "Downtown and the River Arts District are walkable or a short rideshare apart; a rental car is needed for the Parkway and Chimney Rock.",
+        "stayArea": "Downtown near Pack Square — walkable to restaurants, breweries, and the S&W Market food hall.",
+        "food": [
+          "Buxton Hall Barbecue",
+          "Cúrate (Spanish tapas)",
+          "White Duck Taco Shop"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AVL"
+    },
+    {
+      "rank": 3,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 150,
+      "priceHigh": 190,
+      "travelWindow": "Oct 20 – Nov 14, cheapest on Tue/Wed departures",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $80 ($150-190 RT) confirmed live on JetBlue's own site for October/November dates, with Everglades day trips an hour inland.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=9zXGH3GPs-k",
+      "nearbyParks": [
+        { "name": "Everglades NP (Shark Valley entrance)", "drive": "1 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Las Olas Boulevard and the beachfront promenade are walkable and busy well into the evening, with the free Sun Trolley covering downtown.",
+      "guide": {
+        "highlights": [
+          "Las Olas Boulevard shops and cafes",
+          "Fort Lauderdale beachfront promenade",
+          "Riverwalk and the NSU Art Museum",
+          "Everglades Shark Valley bike loop",
+          "Bonnet House Museum & Gardens"
+        ],
+        "itinerary": [
+          "Day 1 — Beachfront promenade walk, Las Olas Boulevard for dinner.",
+          "Day 2 — Everglades NP Shark Valley: rent a bike for the 15-mile paved loop, alligators guaranteed.",
+          "Day 3 — Riverwalk and NSU Art Museum in the morning, Bonnet House gardens before an evening flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown and the beach; a rental car is worth it for the Everglades day trip.",
+        "stayArea": "Las Olas or the beachfront — walkable, close to restaurants and the water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 220,
+      "priceHigh": 260,
+      "travelWindow": "Sep 26 onward, cheapest on off-peak dates",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $119 ($220-260 RT) confirmed live on JetBlue's site — up from the $179 RT seen earlier this week, but Rocky Mountain National Park's Bear Lake corridor is still just 90 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=4Mv4LpXWfO4",
+      "nearbyParks": [ { "name": "Rocky Mountain NP", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "A compact, walkable downtown with a free shuttle, plus an easy mountain day trip that needs no technical hiking skill.",
+      "guide": {
+        "highlights": [
+          "RiNo Art District murals",
+          "Union Station",
+          "Denver Botanic Gardens",
+          "Rocky Mountain NP day trip",
+          "Larimer Square"
+        ],
+        "itinerary": [
+          "Day 1 — Union Station, 16th Street Mall, RiNo Art District mural walk.",
+          "Day 2 — Day trip to Rocky Mountain NP for the Bear Lake corridor (in-park shuttle handles the parking).",
+          "Day 3 — Denver Botanic Gardens in the morning, Larimer Square for dinner."
+        ],
+        "gettingAround": "Downtown is walkable with a free 16th Street shuttle; a rental car is worth it for the Rocky Mountain NP day trip.",
+        "stayArea": "LoDo (Lower Downtown) — near Union Station and walkable to RiNo.",
+        "food": [
+          "Denver Biscuit Company",
+          "Snooze an A.M. Eatery",
+          "Avanti Food & Beverage hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 240,
+      "priceHigh": 280,
+      "travelWindow": "Oct 21 2026 – Feb 2027, cheapest on off-peak dates",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $129 ($240-280 RT) confirmed live on JetBlue's site, with Cabrillo National Monument and Torrey Pines each a short trolley-and-drive from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=g3F0RZ2Njv4",
+      "nearbyParks": [ { "name": "Cabrillo National Monument", "drive": "20 min" }, { "name": "Torrey Pines State Natural Reserve", "drive": "20 min" } ],
+      "soloScore": 5,
+      "soloWhy": "Balboa Park, the Gaslamp Quarter, and the coastal trolley make this one of the most solo-friendly warm-weather cities in the country.",
+      "guide": {
+        "highlights": [
+          "Balboa Park museums & gardens",
+          "Cabrillo National Monument tide pools",
+          "Torrey Pines cliff trails",
+          "Gaslamp Quarter",
+          "La Jolla Cove"
+        ],
+        "itinerary": [
+          "Day 1 — Balboa Park museums and Botanical Garden, Gaslamp Quarter for dinner.",
+          "Day 2 — Cabrillo National Monument tide pools and the Old Point Loma Lighthouse, sunset at Sunset Cliffs.",
+          "Day 3 — Torrey Pines State Natural Reserve hike, La Jolla Cove seals, trolley back downtown."
+        ],
+        "gettingAround": "The MTS trolley and buses cover downtown, Old Town, and the beaches; a car isn't required but helps reach Torrey Pines faster.",
+        "stayArea": "Gaslamp Quarter or Little Italy — walkable, trolley-accessible, close to the bay.",
+        "food": [
+          "Liberty Public Market",
+          "Puesto tacos",
+          "Café Coyote in Old Town"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
