@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T04:52:34Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 112,
+      "priceHigh": 140,
+      "travelWindow": "Sep 3 – Dec 2026, cheapest on scattered off-peak dates",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $56 ($112-140 RT) confirmed on Allegiant's own booking page — the cheapest verified fare of the five for a 12th straight day, with the Smokies' Greenbrier entrance 45 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to explore on foot alone, and the park's Greenbrier and Cosby entrances stay quiet compared to the Cades Cove side.",
+      "guide": {
+        "highlights": [
+          "Market Square farmers market and street performers",
+          "Sunsphere observation deck over World's Fair Park",
+          "Ijams Nature Center quarry swimming hole",
+          "Knoxville Museum of Art",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — World's Fair Park and the Sunsphere, then Market Square for dinner and live music.",
+          "Day 2 — Rent a car for Greenbrier: the Ramsey Cascades or Porters Creek trailhead, back by early evening.",
+          "Day 3 — Ijams Nature Center in the morning, Knoxville Museum of Art and the Old City before an evening flight."
+        ],
+        "gettingAround": "Downtown and Ijams are walkable or a short rideshare apart; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable, close to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Balter Beerworks"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 164,
+      "priceHigh": 190,
+      "travelWindow": "Sep 21 – Sep 30, cheapest on weekday departures",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "New pick: one-way legs as low as $59-105 confirmed live on JetBlue's own site for late-September dates, with Shenandoah National Park about 75 minutes out for a day trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        { "name": "Shenandoah National Park", "drive": "1.25 h" },
+        { "name": "Great Falls Park", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The Metro reaches nearly every monument and museum, the Mall is safe to walk solo well into the evening, and the Smithsonians are free.",
+      "guide": {
+        "highlights": [
+          "National Mall monuments at sunrise before the crowds",
+          "Smithsonian museums (all free)",
+          "Library of Congress rare-books tour",
+          "Great Falls Park overlook on the Potomac",
+          "Shenandoah's Skyline Drive"
+        ],
+        "itinerary": [
+          "Day 1 — Lincoln Memorial at sunrise, walk the Mall to the Capitol, Smithsonian American History in the afternoon.",
+          "Day 2 — Rent a car for Shenandoah: Skyline Drive to the Stony Man or Hawksbill summit trailhead.",
+          "Day 3 — Library of Congress tour, Eastern Market for lunch, Georgetown waterfront before an evening flight."
+        ],
+        "gettingAround": "Metro covers the Mall, museums, and most neighborhoods; a rental car is only needed for Shenandoah or Great Falls.",
+        "stayArea": "Near a Metro stop on the Orange/Blue/Silver line (Capitol Hill or Foggy Bottom) for the fastest reach to the Mall.",
+        "food": [
+          "Eastern Market's brunch stalls",
+          "Ben's Chili Bowl (U Street)",
+          "Duke's Grocery"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 3,
+      "destination": "Atlanta, GA",
+      "airport": "ATL",
+      "priceLow": 218,
+      "priceHigh": 230,
+      "travelWindow": "Sep 22-23 and Sep 29-30, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $109 each direction confirmed live on JetBlue's site for late-September dates, with the Chattahoochee River's Sope Creek trails inside city limits.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/A2ATL20250614-0721_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=f7rYA1ke8E0",
+      "nearbyParks": [
+        { "name": "Chattahoochee River National Recreation Area (Sope Creek)", "drive": "25 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The Beltline and MARTA rail make the core walkable and transit-friendly, though the metro area is spread out enough that a rideshare budget helps for anything outside it.",
+      "guide": {
+        "highlights": [
+          "Atlanta Beltline Eastside Trail",
+          "Centennial Olympic Park and Georgia Aquarium",
+          "Martin Luther King Jr. National Historical Park",
+          "Ponce City Market",
+          "Chattahoochee River NRA's Sope Creek trails"
+        ],
+        "itinerary": [
+          "Day 1 — Sweet Auburn and the MLK National Historical Park, Ponce City Market for dinner.",
+          "Day 2 — Beltline Eastside Trail from Piedmont Park to Krog Street Market, mural-spotting along the way.",
+          "Day 3 — Sope Creek trails at Chattahoochee River NRA in the morning, Centennial Olympic Park before an evening flight."
+        ],
+        "gettingAround": "MARTA rail connects the airport, downtown, and Midtown; a rideshare or rental car helps for the Beltline's far ends and Sope Creek.",
+        "stayArea": "Midtown near Piedmont Park — walkable to the Beltline and a short MARTA ride from downtown.",
+        "food": [
+          "Busy Bee Cafe (soul food, Vine City)",
+          "Krog Street Market food hall",
+          "The Varsity (classic Atlanta drive-in)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20ATL"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 220,
+      "priceHigh": 260,
+      "travelWindow": "Sep 26 onward, cheapest on off-peak dates",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $119 confirmed live on JetBlue's site, holding at the same level as the past few days, with Rocky Mountain National Park's Bear Lake corridor still 90 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=4Mv4LpXWfO4",
+      "nearbyParks": [ { "name": "Rocky Mountain NP", "drive": "1.5 h" } ],
+      "soloScore": 4,
+      "soloWhy": "A compact, walkable downtown with a free shuttle, plus a mountain day trip that needs no technical hiking skill.",
+      "guide": {
+        "highlights": [
+          "RiNo Art District murals",
+          "Union Station",
+          "Denver Botanic Gardens",
+          "Rocky Mountain NP day trip",
+          "Larimer Square"
+        ],
+        "itinerary": [
+          "Day 1 — Union Station and the 16th Street corridor, RiNo Art District mural walk before dinner.",
+          "Day 2 — Day trip to Rocky Mountain NP for the Bear Lake corridor (the in-park shuttle handles parking).",
+          "Day 3 — Denver Botanic Gardens in the morning, Larimer Square shops and dinner before an evening flight."
+        ],
+        "gettingAround": "Downtown is walkable with a free 16th Street shuttle; a rental car is worth it for the Rocky Mountain NP day trip.",
+        "stayArea": "LoDo (Lower Downtown) — near Union Station and walkable to RiNo.",
+        "food": [
+          "Denver Biscuit Company",
+          "Snooze an A.M. Eatery",
+          "Avanti Food & Beverage hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 240,
+      "priceHigh": 280,
+      "travelWindow": "Sep 25 low, wider Nov 2026 – Feb 2027 availability",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "One-way legs as low as $129 confirmed live on JetBlue's site, with Cabrillo National Monument and Torrey Pines each a short trolley-and-drive from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=g3F0RZ2Njv4",
+      "nearbyParks": [ { "name": "Cabrillo National Monument", "drive": "20 min" }, { "name": "Torrey Pines State Natural Reserve", "drive": "20 min" } ],
+      "soloScore": 5,
+      "soloWhy": "Balboa Park, the Gaslamp Quarter, and the coastal trolley make this one of the most solo-friendly warm-weather cities in the country.",
+      "guide": {
+        "highlights": [
+          "Balboa Park museums & gardens",
+          "Cabrillo National Monument tide pools",
+          "Torrey Pines cliff trails",
+          "Gaslamp Quarter",
+          "La Jolla Cove"
+        ],
+        "itinerary": [
+          "Day 1 — Balboa Park museums and Botanical Garden, Gaslamp Quarter for dinner.",
+          "Day 2 — Cabrillo National Monument tide pools and the Old Point Loma Lighthouse, sunset at Sunset Cliffs.",
+          "Day 3 — Torrey Pines State Natural Reserve hike, La Jolla Cove seals, trolley back downtown."
+        ],
+        "gettingAround": "The MTS trolley and buses cover downtown, Old Town, and the beaches; a car isn't required but helps reach Torrey Pines faster.",
+        "stayArea": "Gaslamp Quarter or Little Italy — walkable, trolley-accessible, close to the bay.",
+        "food": [
+          "Liberty Public Market",
+          "Puesto tacos",
+          "Café Coyote in Old Town"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
