@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-09-13T05:05:00Z",
+  "generatedAt": "2026-09-14T04:52:11Z",
   "digests": [
+    { "date": "2026-09-14", "title": "DC fare doubles to $110, Fort Lauderdale takes #2", "destinations": ["TYS", "FLL", "DCA", "DEN", "TPA"] },
     { "date": "2026-09-13", "title": "Denver edges back in as Atlanta climbs to $261", "destinations": ["TYS", "DCA", "FLL", "TPA", "DEN"] },
     { "date": "2026-09-12", "title": "Top 5 hold for a third day, Atlanta ticks down to $103", "destinations": ["TYS", "DCA", "FLL", "TPA", "ATL"] },
     { "date": "2026-09-11", "title": "Denver's flash sale expires, Atlanta back in top 5", "destinations": ["TYS", "DCA", "FLL", "TPA", "ATL"] },
