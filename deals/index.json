@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-09-15T04:50:23Z",
+  "generatedAt": "2026-09-17T04:52:24Z",
   "digests": [
+    { "date": "2026-09-17", "title": "Knoxville hits new $56 low, Denver holds #2 via JetBlue", "destinations": ["TYS", "DEN", "FLL", "DCA", "TPA"] },
     { "date": "2026-09-15", "title": "Denver drops to $165, leapfrogs Fort Lauderdale", "destinations": ["TYS", "DEN", "FLL", "DCA", "TPA"] },
     { "date": "2026-09-14", "title": "DC fare doubles to $110, Fort Lauderdale takes #2", "destinations": ["TYS", "FLL", "DCA", "DEN", "TPA"] },
     { "date": "2026-09-13", "title": "Denver edges back in as Atlanta climbs to $261", "destinations": ["TYS", "DCA", "FLL", "TPA", "DEN"] },
