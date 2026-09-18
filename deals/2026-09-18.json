@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T04:53:33Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 118,
+      "priceHigh": 136,
+      "travelWindow": "Oct 3 – Dec 13, cheapest early-to-mid December",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant's own fare calendar is unchanged today: $56 one-way for Dec 13, $62 (Nov 14), $68 (Oct 3) — still the cheapest verified fare of the five, with the Smokies' Greenbrier entrance 45 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to explore alone on foot, and the park's Greenbrier and Cosby entrances are quieter than the Cades Cove side.",
+      "guide": {
+        "highlights": [
+          "Market Square farmers market and street performers",
+          "Sunsphere observation deck over World's Fair Park",
+          "Ijams Nature Center quarry swimming hole",
+          "Knoxville Museum of Art",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Ijams Nature Center quarry swim on arrival, Market Square for dinner and street music.",
+          "Day 2 — Rent a car for Greenbrier: the Ramsey Cascades or Porters Creek trailhead, back by early evening.",
+          "Day 3 — Sunsphere and World's Fair Park, Knoxville Museum of Art before an evening flight."
+        ],
+        "gettingAround": "Downtown and Ijams are walkable or a short rideshare apart; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable, close to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Balter Beerworks"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 138,
+      "priceHigh": 158,
+      "travelWindow": "Oct 17 – Nov 14, cheapest midweek",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant now undercuts JetBlue on this route: $69 one-way for both Oct 17 and Nov 14, versus JetBlue's $80 — a new cheaper way in, with Everglades day trips still an hour inland.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=9zXGH3GPs-k",
+      "nearbyParks": [
+        { "name": "Everglades NP (Shark Valley entrance)", "drive": "1 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Las Olas Boulevard and the beachfront promenade stay busy and walkable well into the evening, with the free Sun Trolley covering downtown.",
+      "guide": {
+        "highlights": [
+          "Las Olas Boulevard shops and cafes",
+          "Fort Lauderdale beachfront promenade",
+          "Riverwalk and the NSU Art Museum",
+          "Everglades Shark Valley bike loop",
+          "Bonnet House Museum & Gardens"
+        ],
+        "itinerary": [
+          "Day 1 — Bonnet House gardens on arrival, beachfront promenade sunset walk.",
+          "Day 2 — Everglades NP Shark Valley: rent a bike for the 15-mile paved loop, alligators guaranteed.",
+          "Day 3 — Riverwalk and NSU Art Museum, Las Olas Boulevard dinner before an evening flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown and the beach; a rental car is worth it for the Everglades day trip.",
+        "stayArea": "Las Olas or the beachfront — walkable, close to restaurants and the water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 3,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 166,
+      "priceHigh": 178,
+      "travelWindow": "Nov – Jan, cheapest midweek, book 6+ weeks out",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's own site still shows one-way fares as low as $83, flat from recent days, putting the round trip at $166–$178 — Rocky Mountain National Park stays under 2 hours away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Jmg-NIHHDCA",
+      "nearbyParks": [
+        { "name": "Rocky Mountain National Park", "drive": "1.75 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "The 16th Street Mall and RTD light rail make downtown and the Highlands easy to cover on foot or transit, and Union Station is a lively, safe evening hub.",
+      "guide": {
+        "highlights": [
+          "Union Station's Great Hall and food stalls",
+          "Larimer Square and RiNo Art District murals",
+          "Denver Art Museum",
+          "Red Rocks Park and Amphitheatre",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Larimer Square and RiNo Art District murals on arrival, Union Station's Great Hall for dinner.",
+          "Day 2 — Rent a car for Rocky Mountain NP: Bear Lake Road trailheads (Dream Lake or Emerald Lake), back by evening.",
+          "Day 3 — Denver Art Museum, Red Rocks Park at sunset before an evening flight."
+        ],
+        "gettingAround": "The A Line train connects the airport to Union Station; RTD light rail and buses cover downtown, but a rental car is needed for Rocky Mountain NP or Red Rocks.",
+        "stayArea": "LoDo (Lower Downtown) near Union Station — walkable to Larimer Square, the light rail, and RiNo.",
+        "food": [
+          "Snooze, an A.M. Eatery (LoDo brunch)",
+          "Avanti Food & Beverage (RiNo food hall)",
+          "Casa Bonita (only if you want the spectacle)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 4,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 172,
+      "priceHigh": 190,
+      "travelWindow": "Oct 6 – Oct 14, cheapest Tue/Wed",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's own site holds steady at $86 one-way across multiple October Tuesday/Wednesday dates — DC keeps the highest solo score of the five, with Shenandoah National Park 75 minutes out.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        { "name": "Shenandoah National Park", "drive": "1.25 h" },
+        { "name": "Great Falls Park", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The Metro reaches nearly every monument and museum, the Mall is safe to walk solo well into the evening, and the Smithsonians are free.",
+      "guide": {
+        "highlights": [
+          "National Mall monuments at sunrise before the crowds",
+          "Smithsonian museums (all free)",
+          "National Archives to see the original Constitution",
+          "Great Falls Park overlook on the Potomac",
+          "Shenandoah's Skyline Drive"
+        ],
+        "itinerary": [
+          "Day 1 — Great Falls Park on arrival, Eastern Market for dinner.",
+          "Day 2 — Rent a car for Shenandoah: Skyline Drive to the Stony Man or Hawksbill summit trailhead.",
+          "Day 3 — Mall monuments at sunrise, National Archives and a Smithsonian museum before an evening flight."
+        ],
+        "gettingAround": "Metro covers the Mall, museums, and most neighborhoods; a rental car is only needed for Shenandoah or Great Falls.",
+        "stayArea": "Near a Metro stop on the Orange/Blue/Silver line (Capitol Hill or Foggy Bottom) for the fastest reach to the Mall.",
+        "food": [
+          "Eastern Market's brunch stalls",
+          "Ben's Chili Bowl (U Street)",
+          "Duke's Grocery"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 5,
+      "destination": "Asheville, NC",
+      "airport": "AVL",
+      "priceLow": 174,
+      "priceHigh": 206,
+      "travelWindow": "Sep 23 – Dec 7, cheapest early December",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "New entrant: Allegiant's fare calendar shows $87 one-way for Dec 7 and $103 for Dec 31, right in line with this week's Florida fares but with the Blue Ridge Parkway on the doorstep — the park boost bumps it past pricier, feature-less Sun Belt options.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Asheville_at_dusk_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=kybOOmBLwfE",
+      "nearbyParks": [
+        { "name": "Blue Ridge Parkway", "drive": "10 min" },
+        { "name": "Pisgah National Forest", "drive": "30 min" },
+        { "name": "Great Smoky Mountains National Park", "drive": "1.5 h" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Downtown is dense, walkable, and full of solo-friendly breweries and cafes, and day hikes on the Parkway or in Pisgah need only a rental car for the day.",
+      "guide": {
+        "highlights": [
+          "Blue Ridge Parkway scenic overlooks",
+          "River Arts District studios and murals",
+          "Pisgah National Forest waterfalls (Looking Glass Falls, Catawba Falls)",
+          "Downtown Asheville brewery scene",
+          "Biltmore Estate gardens"
+        ],
+        "itinerary": [
+          "Day 1 — River Arts District studios on arrival, downtown brewery crawl at dusk.",
+          "Day 2 — Rent a car for the Blue Ridge Parkway and Pisgah National Forest: Looking Glass Falls and a summit hike, back by evening.",
+          "Day 3 — Biltmore Estate gardens (or a slower coffee-shop morning), farm-to-table dinner before an evening flight."
+        ],
+        "gettingAround": "Downtown and the River Arts District are walkable or a short rideshare apart; a rental car is essential for the Parkway and Pisgah.",
+        "stayArea": "Downtown near Pack Square — walkable to breweries, restaurants, and a short drive to the Parkway entrance.",
+        "food": [
+          "Buxton Hall Barbecue",
+          "Cúrate (Spanish tapas)",
+          "White Duck Taco Shop"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AVL"
+    }
+  ]
+}
