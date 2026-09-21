@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T05:05:00Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 118,
+      "priceHigh": 140,
+      "travelWindow": "Oct 14 – Dec 2026, cheapest Tue/Wed",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's fare calendar still shows $59 one-way across Oct 14, 17, 20 and scattered November/December dates — unchanged from a few days ago and still tied for cheapest, with the highest solo score of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        { "name": "Shenandoah National Park", "drive": "1.25 h" },
+        { "name": "Great Falls Park", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The Metro reaches nearly every monument and museum, the Mall is safe to walk solo well into the evening, and the Smithsonians are free.",
+      "guide": {
+        "highlights": [
+          "National Mall monuments lit up after dark",
+          "Smithsonian museums (all free)",
+          "Library of Congress's Great Hall",
+          "Great Falls Park overlook on the Potomac",
+          "Shenandoah's Skyline Drive"
+        ],
+        "itinerary": [
+          "Day 1 — Land, drop bags, walk the Mall monuments at night when they're empty and lit.",
+          "Day 2 — Rent a car for Shenandoah: Skyline Drive to Little Stony Man or Bearfence Mountain, back for dinner.",
+          "Day 3 — Library of Congress and a Smithsonian in the morning, Georgetown waterfront before an evening flight."
+        ],
+        "gettingAround": "Metro covers the Mall, museums, and most neighborhoods; a rental car is only needed for Shenandoah or Great Falls.",
+        "stayArea": "Near a Metro stop on the Orange/Blue/Silver line (Capitol Hill or Foggy Bottom) for the fastest reach to the Mall.",
+        "food": [
+          "Founding Farmers (Foggy Bottom)",
+          "Ben's Chili Bowl (U Street)",
+          "Union Market food hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 118,
+      "priceHigh": 138,
+      "travelWindow": "Oct 3 – Dec 13, cheapest early-to-mid December",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant's fare calendar still shows $56 one-way for Dec 13, unchanged over the past few days and essentially tied with DC for cheapest, with the Smokies' Greenbrier entrance 45 minutes out.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to explore alone on foot, and the park's Greenbrier and Cosby entrances are quieter than the Cades Cove side.",
+      "guide": {
+        "highlights": [
+          "World's Fair Park and the Sunsphere",
+          "Market Square street music",
+          "Knoxville Botanical Garden and Arboretum",
+          "Ijams Nature Center quarry swimming hole",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — World's Fair Park and Sunsphere on arrival, Market Square for dinner.",
+          "Day 2 — Rent a car for Greenbrier: Ramsey Cascades trail (round trip ~8 miles) or the shorter Porters Creek loop.",
+          "Day 3 — Knoxville Botanical Garden in the morning, Ijams Nature Center quarry swim before an evening flight."
+        ],
+        "gettingAround": "Downtown and Ijams are walkable or a short rideshare apart; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable, close to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Balter Beerworks"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 160,
+      "priceHigh": 180,
+      "travelWindow": "Nov 14 – Nov 18, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's own site holds at $80 one-way for mid-November dates, unchanged from recent days — with Denver's fare up sharply today, Fort Lauderdale now undercuts it and moves up to #3.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=9zXGH3GPs-k",
+      "nearbyParks": [
+        { "name": "Everglades NP (Shark Valley entrance)", "drive": "1 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Las Olas Boulevard and the beachfront promenade stay busy and walkable well into the evening, with the free Sun Trolley covering downtown.",
+      "guide": {
+        "highlights": [
+          "Fort Lauderdale beachfront promenade",
+          "Riverwalk Arts & Entertainment District",
+          "Bonnet House Museum & Gardens",
+          "Everglades Shark Valley bike loop",
+          "Las Olas Boulevard nightlife"
+        ],
+        "itinerary": [
+          "Day 1 — Beachfront promenade walk on arrival, sunset at the pier.",
+          "Day 2 — Everglades NP Shark Valley: rent a bike for the 15-mile paved loop, alligators guaranteed.",
+          "Day 3 — Bonnet House gardens in the morning, Riverwalk and Las Olas dinner before an evening flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown and the beach; a rental car is worth it for the Everglades day trip.",
+        "stayArea": "Las Olas or the beachfront — walkable, close to restaurants and the water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 198,
+      "priceHigh": 220,
+      "travelWindow": "Nov 4 – Nov 18, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's fare calendar jumped to $99 one-way today, up from $83 a few days ago — Denver slips from #3 to #4, though the Rocky Mountain National Park boost still keeps it just ahead of pricier, park-less Tampa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Jmg-NIHHDCA",
+      "nearbyParks": [
+        { "name": "Rocky Mountain National Park", "drive": "1.75 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "The 16th Street Mall and RTD light rail make downtown and the Highlands easy to cover on foot or transit, and Union Station is a lively, safe evening hub.",
+      "guide": {
+        "highlights": [
+          "Denver Art Museum",
+          "RiNo Art District murals and breweries",
+          "Red Rocks Park and Amphitheatre",
+          "Union Station's Great Hall",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Denver Art Museum on arrival, RiNo brewery crawl at dusk.",
+          "Day 2 — Rent a car for Rocky Mountain NP: Bear Lake Road trailheads (Dream Lake or Emerald Lake), back by evening.",
+          "Day 3 — Red Rocks Park at sunrise, Union Station's Great Hall for a last meal before an evening flight."
+        ],
+        "gettingAround": "The A Line train connects the airport to Union Station; RTD light rail and buses cover downtown, but a rental car is needed for Rocky Mountain NP or Red Rocks.",
+        "stayArea": "LoDo (Lower Downtown) near Union Station — walkable to Larimer Square, the light rail, and RiNo.",
+        "food": [
+          "Snooze, an A.M. Eatery (LoDo brunch)",
+          "Avanti Food & Beverage (RiNo food hall)",
+          "The Source Hotel + Market Hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 5,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 190,
+      "priceHigh": 210,
+      "travelWindow": "Oct 27 – Nov 18, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's own site confirms one-way fares still at $95 across late October and November dates, unchanged from recent days, rounding out the top 5.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/3840px-Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=fDFCPnf47PQ",
+      "nearbyParks": [],
+      "soloScore": 4,
+      "soloWhy": "The free TECO Line streetcar links downtown, the Riverwalk, and Ybor City, so evenings out don't require a car or rideshare.",
+      "guide": {
+        "highlights": [
+          "Curtis Hixon Waterfront Park",
+          "Ybor City's cigar factories and Cuban sandwiches",
+          "Tampa Riverwalk (2.5 miles)",
+          "Florida Aquarium",
+          "Armature Works food hall"
+        ],
+        "itinerary": [
+          "Day 1 — Curtis Hixon Waterfront Park on arrival, Riverwalk stroll at sunset.",
+          "Day 2 — Free streetcar to Ybor City: cigar factory tours, 7th Avenue murals, Columbia Restaurant for dinner.",
+          "Day 3 — Florida Aquarium in the morning, Armature Works food hall before an evening flight."
+        ],
+        "gettingAround": "The free TECO Line streetcar connects downtown, the Channel District, and Ybor City; a rideshare covers the beaches, which are 30-45 minutes out.",
+        "stayArea": "Downtown or the Channel District — walkable to the Riverwalk and a streetcar ride from Ybor City.",
+        "food": [
+          "Columbia Restaurant (Ybor City, Cuban)",
+          "Armature Works food hall",
+          "La Segunda Central Bakery (Cuban bread)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA"
+    }
+  ]
+}
