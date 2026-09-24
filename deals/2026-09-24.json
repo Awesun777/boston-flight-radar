@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T04:52:45Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 118,
+      "priceHigh": 140,
+      "travelWindow": "Oct 14 – Jan 2027, cheapest Tue/Wed",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's own fare calendar still shows $59 one-way each direction (Oct 14-22 and scattered Nov/Dec/Jan dates) — flat for over a week now and still tied for cheapest, with the top solo score of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        { "name": "Shenandoah National Park", "drive": "1.25 h" },
+        { "name": "Great Falls Park", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The Metro reaches nearly every monument and museum, the Mall is safe to walk solo well into the evening, and the Smithsonians are free.",
+      "guide": {
+        "highlights": [
+          "National Mall monuments lit up after dark",
+          "Smithsonian museums (all free)",
+          "United States Botanic Garden conservatory",
+          "Great Falls Park overlook on the Potomac",
+          "Shenandoah's Skyline Drive"
+        ],
+        "itinerary": [
+          "Day 1 — Land, drop bags, U.S. Botanic Garden before close, then the Mall monuments once they're lit and quiet.",
+          "Day 2 — Rent a car for Shenandoah: Skyline Drive to Mary's Rock or Marys Rock Tunnel overlooks, back for a H Street dinner.",
+          "Day 3 — Great Falls Park towpath walk in the morning, Eastern Market for lunch before an evening flight."
+        ],
+        "gettingAround": "Metro covers the Mall, museums, and most neighborhoods; a rental car is only needed for Shenandoah or Great Falls.",
+        "stayArea": "Near a Metro stop on the Orange/Blue/Silver line (Capitol Hill or Foggy Bottom) for the fastest reach to the Mall.",
+        "food": [
+          "Founding Farmers (Foggy Bottom)",
+          "Ben's Chili Bowl (U Street)",
+          "Maketto (H Street, Cambodian-Taiwanese)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 118,
+      "priceHigh": 138,
+      "travelWindow": "Nov 7 – Dec 6, cheapest early December",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant still shows $56 one-way TYS-to-BOS (Nov 7) and $62 the other direction (Dec 6) — unchanged for days and still essentially tied with DC on price.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Downtown's compact grid is easy to explore alone on foot, and the park's Greenbrier and Cosby entrances are quieter than the Cades Cove side.",
+      "guide": {
+        "highlights": [
+          "Market Square street music and farmers' stalls",
+          "Knoxville Museum of Art",
+          "Sunsphere observation deck",
+          "Ijams Nature Center quarry swimming hole",
+          "Great Smoky Mountains NP's Greenbrier entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Sunsphere observation deck on arrival, Market Square for dinner and live music.",
+          "Day 2 — Rent a car for Greenbrier: Ramsey Cascades trail (round trip ~8 miles) or the gentler Porters Creek loop past old homesteads.",
+          "Day 3 — Ijams Nature Center quarry swim in the morning, Knoxville Museum of Art before an evening flight."
+        ],
+        "gettingAround": "Downtown and Ijams are walkable or a short rideshare apart; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable, close to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Emilia (Gay Street Italian)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 160,
+      "priceHigh": 180,
+      "travelWindow": "Oct 17 – Nov 18, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue holds flat at $80 one-way each direction — unchanged for days — and the Everglades National Park boost keeps it just ahead of a new, nearly-as-cheap Austin fare.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=9zXGH3GPs-k",
+      "nearbyParks": [
+        { "name": "Everglades NP (Shark Valley entrance)", "drive": "1 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Las Olas Boulevard and the beachfront promenade stay busy and walkable well into the evening, with the free Sun Trolley covering downtown.",
+      "guide": {
+        "highlights": [
+          "Fort Lauderdale beachfront promenade",
+          "Everglades Shark Valley bike loop",
+          "Bonnet House Museum & Gardens",
+          "Riverwalk Arts & Entertainment District",
+          "Las Olas Boulevard nightlife"
+        ],
+        "itinerary": [
+          "Day 1 — Beachfront promenade walk on arrival, sunset at the pier, dinner on Las Olas.",
+          "Day 2 — Everglades NP Shark Valley: rent a bike for the 15-mile paved loop, alligators guaranteed at the observation tower.",
+          "Day 3 — Bonnet House gardens in the morning, Riverwalk stroll before an evening flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown and the beach; a rental car is worth it for the Everglades day trip.",
+        "stayArea": "Las Olas or the beachfront — walkable, close to restaurants and the water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 4,
+      "destination": "Austin, TX",
+      "airport": "AUS",
+      "priceLow": 158,
+      "priceHigh": 190,
+      "travelWindow": "Oct 28 – Dec 16, cheapest Tue/Wed",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "New this week: JetBlue's own site confirms $79 one-way each direction ($158 RT), matching a flash-sale fare flagged by The Flight Deal — cheap enough to bump Tampa from the top 5 despite Fort Lauderdale's slightly stronger park boost.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg/3840px-Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=ADV5y2QJd_M",
+      "nearbyParks": [
+        { "name": "Enchanted Rock State Natural Area", "drive": "1.5 h" },
+        { "name": "McKinney Falls State Park", "drive": "20 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "South Congress and downtown are flat and walkable, live music venues welcome solo visitors any night of the week, and Barton Springs Pool is an easy solo swim.",
+      "guide": {
+        "highlights": [
+          "Barton Springs Pool",
+          "South Congress Avenue shops and murals",
+          "Live music on Rainey Street and East 6th",
+          "McKinney Falls State Park's Onion Creek trail",
+          "Enchanted Rock's pink granite dome"
+        ],
+        "itinerary": [
+          "Day 1 — South Congress on arrival, Barton Springs Pool swim at golden hour, live music on Rainey Street.",
+          "Day 2 — Rent a car for Enchanted Rock: the Summit Trail loop (about 4 miles) plus the Loop Trail around the base.",
+          "Day 3 — McKinney Falls State Park's Onion Creek trail in the morning, East 6th Street food trucks before an evening flight."
+        ],
+        "gettingAround": "Downtown, South Congress, and the lake trail are walkable or a short scooter ride apart; a rental car is needed for Enchanted Rock or McKinney Falls.",
+        "stayArea": "South Congress (SoCo) or downtown near Rainey Street — walkable to music venues and the Lady Bird Lake trail.",
+        "food": [
+          "Franklin Barbecue (arrive early or order ahead)",
+          "Veracruz All Natural tacos",
+          "Home Slice Pizza (South Congress)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AUS"
+    },
+    {
+      "rank": 5,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 198,
+      "priceHigh": 220,
+      "travelWindow": "Oct 21 – Nov 18, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's fare calendar holds flat at $99 one-way each direction — unchanged for days — with the Rocky Mountain National Park boost keeping Denver in the top 5 despite the highest fare floor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Jmg-NIHHDCA",
+      "nearbyParks": [
+        { "name": "Rocky Mountain National Park", "drive": "1.75 h" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "The 16th Street Mall and RTD light rail make downtown and the Highlands easy to cover on foot or transit, and Union Station is a lively, safe evening hub.",
+      "guide": {
+        "highlights": [
+          "Denver Art Museum",
+          "RiNo Art District murals and breweries",
+          "Red Rocks Park and Amphitheatre",
+          "Union Station's Great Hall",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — Union Station and Larimer Square on arrival, RiNo brewery crawl at dusk.",
+          "Day 2 — Rent a car for Rocky Mountain NP: Bear Lake Road trailheads (Dream Lake or Emerald Lake), back by evening.",
+          "Day 3 — Denver Art Museum in the morning, Red Rocks at sunset before an evening flight."
+        ],
+        "gettingAround": "The A Line train connects the airport to Union Station; RTD light rail and buses cover downtown, but a rental car is needed for Rocky Mountain NP or Red Rocks.",
+        "stayArea": "LoDo (Lower Downtown) near Union Station — walkable to Larimer Square, the light rail, and RiNo.",
+        "food": [
+          "Snooze, an A.M. Eatery (LoDo brunch)",
+          "Avanti Food & Beverage (RiNo food hall)",
+          "The Source Hotel + Market Hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    }
+  ]
+}
