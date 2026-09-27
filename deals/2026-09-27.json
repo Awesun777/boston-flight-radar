@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T04:53:16Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 124,
+      "priceHigh": 136,
+      "travelWindow": "Oct 3 – Dec 6, cheapest early October and December",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant's fare calendar still shows sub-$70 one-ways (Oct 3, Nov 14, Dec 6) for a $124-136 round trip — a modest bump from last week's $118, but still a near-tie for cheapest and the closest national park of the five keeps it on top.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=x5mDyy-GuKo",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Downtown's compact grid is easy to explore alone on foot, and the Cosby and Greenbrier entrances to the Smokies are a short solo drive with none of the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "Market Square street music and farmers' stalls",
+          "Sunsphere observation deck",
+          "Knoxville Museum of Art",
+          "Ijams Nature Center quarry swimming hole",
+          "Great Smoky Mountains NP's Cosby entrance"
+        ],
+        "itinerary": [
+          "Day 1 — Arrive, Sunsphere deck at golden hour, dinner and live music on Market Square.",
+          "Day 2 — Rent a car for Cosby: Hen Wallow Falls trail, then loop the Foothills Parkway for sunset views.",
+          "Day 3 — Ijams Nature Center swim and trails in the morning, Knoxville Museum of Art before an evening flight."
+        ],
+        "gettingAround": "Downtown and Ijams are walkable or a short rideshare apart; a rental car is required to reach the national park.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Emilia (Gay Street Italian)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 118,
+      "priceHigh": 140,
+      "travelWindow": "Oct 17 – Dec 31, cheapest Tue/Wed/Sat",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's own fare calendar keeps showing $59 one-ways scattered across Oct, Nov, and Dec — the cheapest confirmed floor of the week, and DC still carries the strongest solo score of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        { "name": "Shenandoah National Park", "drive": "1.5 h" },
+        { "name": "Great Falls Park", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The Metro reaches nearly every monument and museum, the Mall is safe to walk solo well into the evening, and the Smithsonians are free.",
+      "guide": {
+        "highlights": [
+          "National Mall monuments lit up after dark",
+          "Smithsonian museums (all free)",
+          "United States Botanic Garden conservatory",
+          "Great Falls Park overlook on the Potomac",
+          "Shenandoah's Skyline Drive"
+        ],
+        "itinerary": [
+          "Day 1 — Land, drop bags, U.S. Botanic Garden before close, then the Mall monuments once they're lit and quiet.",
+          "Day 2 — Rent a car for Shenandoah: Skyline Drive to Hawksbill summit, back for an H Street dinner.",
+          "Day 3 — Great Falls Park towpath walk in the morning, Eastern Market for lunch before an evening flight."
+        ],
+        "gettingAround": "Metro covers the Mall, museums, and most neighborhoods; a rental car is only needed for Shenandoah or Great Falls.",
+        "stayArea": "Near a Metro stop on the Orange/Blue/Silver line (Capitol Hill or Foggy Bottom) for the fastest reach to the Mall.",
+        "food": [
+          "Founding Farmers (Foggy Bottom)",
+          "Ben's Chili Bowl (U Street)",
+          "Maketto (H Street, Cambodian-Taiwanese)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 3,
+      "destination": "Baltimore, MD",
+      "airport": "BWI",
+      "priceLow": 118,
+      "priceHigh": 130,
+      "travelWindow": "Oct 20 – Nov 18, cheapest Tue/Wed",
+      "airlines": ["Southwest"],
+      "nonstop": true,
+      "whyRanked": "Southwest's fare calendar still confirms $59 one-way basic fares each direction (Oct 20-22) — unchanged for three weeks running, and Southwest's free 2-bag allowance keeps stretching the basic fare further.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=SJBCilCaBVA",
+      "nearbyParks": [
+        { "name": "Assateague Island National Seashore", "drive": "2.5 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The Inner Harbor and Fells Point are flat, walkable, and full of counter-seating spots that make solo dining easy, with a water taxi linking the neighborhoods.",
+      "guide": {
+        "highlights": [
+          "Fells Point cobblestone waterfront",
+          "National Aquarium",
+          "Fort McHenry National Monument",
+          "Baltimore Museum of Art (free)",
+          "Lexington Market's Faidley Seafood counter"
+        ],
+        "itinerary": [
+          "Day 1 — Inner Harbor on arrival, National Aquarium, water taxi to Fells Point for oysters at a counter stool.",
+          "Day 2 — Fort McHenry in the morning, then a Station North mural walk before dinner in Fells Point.",
+          "Day 3 — Baltimore Museum of Art, Lexington Market crab cakes before an evening flight."
+        ],
+        "gettingAround": "Inner Harbor, Fells Point, and Fort McHenry are covered by the water taxi and a short walk or rideshare; no rental car needed unless heading to Assateague.",
+        "stayArea": "Fells Point or the Inner Harbor — walkable, close to the water taxi and restaurants.",
+        "food": [
+          "Faidley Seafood (Lexington Market crab cakes)",
+          "Thames Street Oyster House (Fells Point)",
+          "Ekiben (Asian-American, Fells Point)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BWI"
+    },
+    {
+      "rank": 4,
+      "destination": "Denver, CO",
+      "airport": "DEN",
+      "priceLow": 180,
+      "priceHigh": 220,
+      "travelWindow": "Oct 21 – Nov 4, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's fall flash sale still shows one-ways from $99 (Nov 3-4) and $119 (Oct 21) — pricier than the FL/TX picks, but Rocky Mountain National Park's 90-minute drive and a perfect solo score push Denver back into the top 5.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/3840px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=Jmg-NIHHDCA",
+      "nearbyParks": [
+        { "name": "Rocky Mountain National Park", "drive": "1.5 h" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "A dense downtown hostel and brewery scene, easy A Line rail from the airport, and trailheads that are simple to reach solo without a group make Denver one of the easiest cities to travel alone.",
+      "guide": {
+        "highlights": [
+          "RiNo Art District murals and breweries",
+          "Denver Art Museum",
+          "Larimer Square and Union Station's Great Hall",
+          "Red Rocks Park and Amphitheatre",
+          "Rocky Mountain National Park's Bear Lake corridor"
+        ],
+        "itinerary": [
+          "Day 1 — A Line train into Union Station, wander Larimer Square, RiNo brewery crawl at dusk.",
+          "Day 2 — Rent a car for Rocky Mountain NP: Bear Lake Road to Dream Lake or Emerald Lake, drive back for a Highlands dinner.",
+          "Day 3 — Denver Art Museum in the morning, Red Rocks at sunset before an evening flight."
+        ],
+        "gettingAround": "The A Line train connects the airport straight to Union Station, and RTD light rail covers downtown and the Highlands; a rental car is only needed for Rocky Mountain NP or Red Rocks.",
+        "stayArea": "LoDo (Lower Downtown) near Union Station — walkable to Larimer Square, the train, and RiNo.",
+        "food": [
+          "Snooze, an A.M. Eatery (LoDo brunch)",
+          "Avanti Food & Beverage (RiNo food hall)",
+          "The Source Hotel + Market Hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DEN"
+    },
+    {
+      "rank": 5,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 160,
+      "priceHigh": 180,
+      "travelWindow": "Oct 24 – Dec 10, cheapest midweek",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's calendar still shows $80 one-ways (Oct 24, Nov 14/17/18) and $120 in December — cheaper than Denver on paper, but a shorter solo-nature draw and a smaller park boost keep it at fifth.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=9zXGH3GPs-k",
+      "nearbyParks": [
+        { "name": "Everglades NP (Shark Valley/Big Cypress entrance)", "drive": "1 h" },
+        { "name": "Biscayne National Park", "drive": "1 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The beachfront promenade and Las Olas strip stay lively and well-lit into the evening, and the free Sun Trolley makes getting around solo simple without a car.",
+      "guide": {
+        "highlights": [
+          "Fort Lauderdale beachfront promenade",
+          "Everglades Shark Valley bike loop",
+          "Bonnet House Museum & Gardens",
+          "Riverwalk Arts & Entertainment District",
+          "Las Olas Boulevard nightlife"
+        ],
+        "itinerary": [
+          "Day 1 — Check in near the beach, promenade walk at sunset, dinner and people-watching on Las Olas.",
+          "Day 2 — Drive to Shark Valley: rent a bike for the flat 15-mile Everglades loop, alligators basking along the canal.",
+          "Day 3 — Bonnet House gardens and Riverwalk in the morning before an evening flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown, Las Olas, and the beach; a rental car is worth it only for the Everglades day trip.",
+        "stayArea": "The beachfront or Las Olas — both walkable to restaurants, the promenade, and water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    }
+  ]
+}
