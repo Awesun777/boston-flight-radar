@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T04:52:17Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 112,
+      "priceHigh": 150,
+      "travelWindow": "Nov 7 – Dec 13, cheapest one-way legs $56 each way",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant's calendar still shows $56 one-way legs on Nov 7, Nov 14 and Dec 13 — pairing two of those keeps Knoxville the cheapest fare of the week again, with the Smokies still 45 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=iBbb3GlHW7I",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Downtown's compact grid is easy to explore alone on foot, and the Cosby and Greenbrier entrances to the Smokies are a short solo drive with none of the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "World's Fair Park and the Sunsphere",
+          "Market Square farmers' stalls and street music",
+          "Knoxville Botanical Garden's 47 acres of trails",
+          "South Knoxville's urban wilderness bike/hike trails",
+          "Cosby entrance to the Great Smoky Mountains"
+        ],
+        "itinerary": [
+          "Day 1 — Land, walk World's Fair Park up to the Sunsphere deck for sunset, then dinner on Market Square.",
+          "Day 2 — Rent a car for Cosby: Hen Wallow Falls trail, Foothills Parkway overlooks on the way back.",
+          "Day 3 — Morning loop on South Knoxville's urban wilderness trails, Knoxville Botanical Garden before an evening flight."
+        ],
+        "gettingAround": "Downtown is walkable end to end; a rental car is required to reach the national park entrances.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Emilia (Gay Street Italian)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 118,
+      "priceHigh": 160,
+      "travelWindow": "Oct 21 – Oct 29, cheapest Tue/Wed/Thu pairings",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's fare calendar still confirms $59 one-ways on Oct 21, 22, 24, 26, 28 and 29 — tied with Baltimore at the $118 floor, and the Metro plus free Smithsonians keep DC's solo score highest of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        { "name": "Shenandoah National Park", "drive": "1.5 h" },
+        { "name": "Great Falls Park", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The Metro reaches nearly every monument and museum, the Mall is safe to walk solo well into the evening, and the Smithsonians are free.",
+      "guide": {
+        "highlights": [
+          "Smithsonian museums (all free)",
+          "Tidal Basin loop past the Jefferson Memorial",
+          "Eastern Market on a weekend morning",
+          "Shenandoah's Skyline Drive",
+          "Great Falls Park overlook on the Potomac"
+        ],
+        "itinerary": [
+          "Day 1 — Land, drop bags, Tidal Basin loop at golden hour, dinner near Eastern Market.",
+          "Day 2 — Rent a car for Shenandoah: Skyline Drive to Hawksbill summit, back for an H Street dinner.",
+          "Day 3 — Great Falls Park towpath walk in the morning, a Smithsonian of choice before an evening flight."
+        ],
+        "gettingAround": "Metro covers the Mall, museums, and most neighborhoods; a rental car is only needed for Shenandoah or Great Falls.",
+        "stayArea": "Near a Metro stop on the Orange/Blue/Silver line (Capitol Hill or Foggy Bottom) for the fastest reach to the Mall.",
+        "food": [
+          "Founding Farmers (Foggy Bottom)",
+          "Ben's Chili Bowl (U Street)",
+          "Maketto (H Street, Cambodian-Taiwanese)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 3,
+      "destination": "Baltimore, MD",
+      "airport": "BWI",
+      "priceLow": 118,
+      "priceHigh": 150,
+      "travelWindow": "Oct 22 – Jan 6, cheapest late-Oct and mid-Nov pairings",
+      "airlines": ["Southwest"],
+      "nonstop": true,
+      "whyRanked": "Southwest's calendar confirms $59 one-ways on Oct 22, 27–28, Nov 17–19, Dec 12 and even Jan 6 — tied with DC for cheapest, but Assateague's 2.5-hour drive and a lower solo score keep it third.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=SJBCilCaBVA",
+      "nearbyParks": [
+        { "name": "Assateague Island National Seashore", "drive": "2.5 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The Inner Harbor and Fells Point are flat, walkable, and full of counter-seating spots that make solo dining easy, with a water taxi linking the neighborhoods.",
+      "guide": {
+        "highlights": [
+          "National Aquarium",
+          "Fells Point cobblestone waterfront",
+          "Fort McHenry National Monument",
+          "Federal Hill Park's skyline overlook",
+          "Baltimore Museum of Art (free)"
+        ],
+        "itinerary": [
+          "Day 1 — Inner Harbor on arrival, National Aquarium, water taxi to Fells Point for oysters at a counter stool.",
+          "Day 2 — Fort McHenry in the morning, Federal Hill Park for the skyline view, dinner in Fells Point.",
+          "Day 3 — Baltimore Museum of Art, Lexington Market crab cakes before an evening flight."
+        ],
+        "gettingAround": "Inner Harbor, Fells Point, and Fort McHenry are covered by the water taxi and a short walk or rideshare; no rental car needed unless heading to Assateague.",
+        "stayArea": "Fells Point or the Inner Harbor — walkable, close to the water taxi and restaurants.",
+        "food": [
+          "Faidley Seafood (Lexington Market crab cakes)",
+          "Thames Street Oyster House (Fells Point)",
+          "Ekiben (Asian-American, Fells Point)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BWI"
+    },
+    {
+      "rank": 4,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 158,
+      "priceHigh": 200,
+      "travelWindow": "Oct 24 – Nov 14, cheapest midweek",
+      "airlines": ["Allegiant", "JetBlue"],
+      "nonstop": true,
+      "whyRanked": "Allegiant prices one-way legs at $79 on Oct 24 and JetBlue matches around $80 on Oct 24/27 — the cheapest fare available past the top 3 this week, with the Everglades under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=n2Qo9Et5CE8",
+      "nearbyParks": [
+        { "name": "Everglades NP (Shark Valley entrance)", "drive": "50 min" },
+        { "name": "Biscayne National Park", "drive": "1 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The free Sun Trolley links the beach and Las Olas without a car, and the beachfront promenade stays lively and well-lit well into the evening for solo walks.",
+      "guide": {
+        "highlights": [
+          "Everglades Shark Valley bike loop",
+          "Fort Lauderdale beachfront promenade",
+          "Las Olas Boulevard canal cruise",
+          "Bonnet House Museum & Gardens",
+          "Wilton Manors' Hagen Park farmers market"
+        ],
+        "itinerary": [
+          "Day 1 — Check in near the beach, promenade walk at sunset, Las Olas for dinner and people-watching.",
+          "Day 2 — Drive to Shark Valley for the flat 15-mile Everglades bike loop, alligators sunning along the canal, back for a sunset canal cruise.",
+          "Day 3 — Bonnet House gardens in the morning, Wilton Manors for lunch before an evening flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown, Las Olas, and the beach; a rental car is worth it only for the Everglades day trip.",
+        "stayArea": "The beachfront or Las Olas — both walkable to restaurants, the promenade, and water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 5,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 195,
+      "priceHigh": 230,
+      "travelWindow": "Oct 21 – Nov 14, cheapest midweek",
+      "airlines": ["Southwest"],
+      "nonstop": true,
+      "whyRanked": "Southwest's calendar confirms $100 one-ways on Oct 21 and Oct 27 — pairing those is a $200 round trip, still the priciest of the five, but Nashville's fares held near $148–$164 one-way and Denver's round trip still runs about $218, leaving Tampa's free water taxi as the better solo value at #5.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/3840px-Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=fDFCPnf47PQ",
+      "nearbyParks": [],
+      "soloScore": 4,
+      "soloWhy": "The Tampa Riverwalk and free Pirate Water Taxi link downtown, Ybor City, and the Channel District, so a solo traveler can cover most of the city's highlights without renting a car.",
+      "guide": {
+        "highlights": [
+          "Ybor City's cigar-factory history and nightlife",
+          "Tampa Riverwalk's 2.6-mile pedestrian loop",
+          "Florida Aquarium",
+          "Tampa Museum of Art",
+          "Curtis Hixon Waterfront Park"
+        ],
+        "itinerary": [
+          "Day 1 — Riverwalk stroll from Curtis Hixon Park to the Florida Aquarium, sunset drinks at a Channelside rooftop.",
+          "Day 2 — Pirate Water Taxi to Ybor City for a cigar-factory walking tour and Cuban sandwich lunch, evening back downtown.",
+          "Day 3 — Tampa Museum of Art in the morning, Bern's Steak House dinner before an evening flight."
+        ],
+        "gettingAround": "The free Pirate Water Taxi and TECO streetcar cover downtown, the Channel District, and Ybor City; a rental car isn't necessary for a short trip.",
+        "stayArea": "Downtown near the Riverwalk or the Channel District — walkable to the water taxi and Amalie Arena.",
+        "food": [
+          "Bern's Steak House (Hyde Park)",
+          "Columbia Restaurant (Ybor City, Cuban)",
+          "Ulele (riverfront, Florida-Seminole inspired)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA"
+    }
+  ]
+}
