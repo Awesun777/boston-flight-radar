@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T19:36:33Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 112,
+      "priceHigh": 140,
+      "travelWindow": "Nov 7 – Nov 14, cheapest Allegiant pairing",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant's calendar still shows $56 one-way legs on both Nov 7 and Nov 14 — pairing those keeps Knoxville the cheapest verified fare of the week again, with the Smokies still 45 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=iBbb3GlHW7I",
+      "nearbyParks": [
+        { "name": "Great Smoky Mountains National Park", "drive": "45 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Downtown's compact grid is easy to explore alone on foot, and the Cosby and Greenbrier entrances to the Smokies are a short solo drive with none of the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "World's Fair Park and the Sunsphere observation deck",
+          "Market Square's farmers' stalls and buskers",
+          "Ijams Nature Center's quarry swimming hole and trails",
+          "South Knoxville's urban wilderness bike/hike loop",
+          "Cosby entrance to the Great Smoky Mountains"
+        ],
+        "itinerary": [
+          "Day 1 — Land, ride the elevator up the Sunsphere for a skyline view, then dinner on Market Square.",
+          "Day 2 — Rent a car for the Cosby entrance: the Hen Wallow Falls trail, with a stop at Foothills Parkway overlooks on the drive back.",
+          "Day 3 — Morning loop at Ijams Nature Center, then Market Square's farmers' stalls before an evening flight."
+        ],
+        "gettingAround": "Downtown is flat and walkable end to end; a rental car is required to reach any Smokies trailhead.",
+        "stayArea": "Downtown near Market Square or Gay Street — walkable to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Emilia (Gay Street Italian)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 2,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 104,
+      "priceHigh": 130,
+      "travelWindow": "Nov 12 – Nov 14, cheapest Allegiant pairing",
+      "airlines": ["Allegiant"],
+      "nonstop": true,
+      "whyRanked": "Allegiant prices the outbound leg at $60 on Nov 14 and the return as low as $44 on Nov 12 — about $104 round trip, second-cheapest of the week, with the Everglades under an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=pGpH8Pzg8qU",
+      "nearbyParks": [
+        { "name": "Everglades NP (Shark Valley entrance)", "drive": "50 min" },
+        { "name": "Biscayne National Park", "drive": "1 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The free Sun Trolley links the beach and Las Olas without a car, and the lit beachfront promenade stays comfortable for a solo evening walk.",
+      "guide": {
+        "highlights": [
+          "Shark Valley's flat 15-mile Everglades bike loop",
+          "Fort Lauderdale beachfront promenade",
+          "Riverwalk Arts & Entertainment District",
+          "Bonnet House Museum & Gardens",
+          "Las Olas Boulevard gallery stroll"
+        ],
+        "itinerary": [
+          "Day 1 — Check in near the beach, sunset walk on the promenade, dinner and people-watching on Las Olas.",
+          "Day 2 — Rent a car for the Shark Valley bike loop — alligators sunning along the canal — back in time for a Riverwalk stroll.",
+          "Day 3 — Bonnet House gardens in the morning, a water-taxi hop to Las Olas for lunch before an evening flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown, Las Olas, and the beach; a rental car is worth it only for the Everglades day trip.",
+        "stayArea": "The beachfront or Las Olas — both walkable to restaurants, the promenade, and water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 3,
+      "destination": "Austin, TX",
+      "airport": "AUS",
+      "priceLow": 158,
+      "priceHigh": 180,
+      "travelWindow": "Nov 18 – Nov 25, cheapest Southwest pairing",
+      "airlines": ["Southwest"],
+      "nonstop": true,
+      "whyRanked": "Southwest's calendar confirms $79 one-way legs on both Nov 18 and Nov 25 — a genuine $158 round trip, the best mid-price fare verified this week, with Enchanted Rock and Barton Springs both an easy solo day trip.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg/3840px-Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=ADV5y2QJd_M",
+      "nearbyParks": [
+        { "name": "Enchanted Rock State Natural Area", "drive": "1.5 h" },
+        { "name": "McKinney Falls State Park", "drive": "20 min" }
+      ],
+      "soloScore": 4,
+      "soloWhy": "South Congress and downtown are flat and walkable, live music venues are easy to drop into solo any night, and Barton Springs Pool is a relaxed solo swim.",
+      "guide": {
+        "highlights": [
+          "Barton Springs Pool's year-round 68-degree water",
+          "South Congress Avenue murals and shops",
+          "Live music on Rainey Street and East 6th",
+          "McKinney Falls State Park's Onion Creek trail",
+          "Enchanted Rock's pink granite summit dome"
+        ],
+        "itinerary": [
+          "Day 1 — Land, wander South Congress, swim at Barton Springs at golden hour, catch a set on Rainey Street.",
+          "Day 2 — Rent a car for Enchanted Rock: the roughly 4-mile Summit Trail loop plus the flatter Loop Trail around the base.",
+          "Day 3 — Morning at McKinney Falls' Onion Creek trail, East 6th Street food trucks before an evening flight."
+        ],
+        "gettingAround": "Downtown, South Congress, and the Lady Bird Lake trail are walkable or a short scooter ride apart; a rental car is needed for Enchanted Rock or McKinney Falls.",
+        "stayArea": "South Congress (SoCo) or downtown near Rainey Street — walkable to music venues and the lake trail.",
+        "food": [
+          "Franklin Barbecue (arrive early or order ahead)",
+          "Veracruz All Natural tacos",
+          "Home Slice Pizza (South Congress)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AUS"
+    },
+    {
+      "rank": 4,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 172,
+      "priceHigh": 200,
+      "travelWindow": "Nov 2026, cheapest midweek pairings",
+      "airlines": ["JetBlue"],
+      "nonstop": true,
+      "whyRanked": "JetBlue's one-way floor has climbed to $86 for November travel now that the late-September $59 sale has expired — about $172 round trip, tied with Baltimore, but the Metro plus free Smithsonians keep DC's solo score the highest of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        { "name": "Shenandoah National Park", "drive": "1.5 h" },
+        { "name": "Great Falls Park", "drive": "30 min" }
+      ],
+      "soloScore": 5,
+      "soloWhy": "The Metro reaches nearly every monument and museum, the Mall is safe to walk solo well into the evening, and the Smithsonians are free.",
+      "guide": {
+        "highlights": [
+          "Smithsonian museums (all free)",
+          "Tidal Basin loop past the Jefferson Memorial",
+          "Eastern Market on a weekend morning",
+          "Shenandoah's Skyline Drive",
+          "Great Falls Park overlook on the Potomac"
+        ],
+        "itinerary": [
+          "Day 1 — Land, drop bags, Tidal Basin loop at golden hour, dinner near Eastern Market.",
+          "Day 2 — Rent a car for Shenandoah: Skyline Drive up to the Hawksbill summit trailhead, back for an H Street dinner.",
+          "Day 3 — Great Falls Park's towpath in the morning, pick one Smithsonian before an evening flight."
+        ],
+        "gettingAround": "Metro covers the Mall, museums, and most neighborhoods; a rental car is only needed for Shenandoah or Great Falls.",
+        "stayArea": "Near a Metro stop on the Orange/Blue/Silver line (Capitol Hill or Foggy Bottom) for the fastest reach to the Mall.",
+        "food": [
+          "Founding Farmers (Foggy Bottom)",
+          "Ben's Chili Bowl (U Street)",
+          "Maketto (H Street, Cambodian-Taiwanese)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 5,
+      "destination": "Baltimore, MD",
+      "airport": "BWI",
+      "priceLow": 172,
+      "priceHigh": 200,
+      "travelWindow": "Nov – Dec 2026, cheapest midweek pairings",
+      "airlines": ["Southwest"],
+      "nonstop": true,
+      "whyRanked": "Southwest's $59 one-way sale has expired; the floor is now $86 each way for November and December travel — about $172 round trip, tied with DC, but Assateague's 2.5-hour drive and a lower solo score keep it fifth.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=SJBCilCaBVA",
+      "nearbyParks": [
+        { "name": "Assateague Island National Seashore", "drive": "2.5 h" }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The Inner Harbor and Fells Point are flat and walkable with plenty of counter-seating for solo dining, linked by a water taxi so a car is never needed downtown.",
+      "guide": {
+        "highlights": [
+          "National Aquarium",
+          "Fells Point's cobblestone waterfront",
+          "Fort McHenry National Monument",
+          "American Visionary Art Museum",
+          "Lexington Market's Faidley Seafood counter"
+        ],
+        "itinerary": [
+          "Day 1 — Inner Harbor on arrival, National Aquarium, water taxi to Fells Point for oysters at a counter stool.",
+          "Day 2 — Fort McHenry in the morning, Federal Hill for the skyline overlook, dinner back in Fells Point.",
+          "Day 3 — American Visionary Art Museum, Lexington Market crab cakes before an evening flight."
+        ],
+        "gettingAround": "Inner Harbor, Fells Point, and Fort McHenry are covered by the water taxi and a short walk or rideshare; no rental car needed unless heading to Assateague.",
+        "stayArea": "Fells Point or the Inner Harbor — walkable, close to the water taxi and restaurants.",
+        "food": [
+          "Faidley Seafood (Lexington Market crab cakes)",
+          "Thames Street Oyster House (Fells Point)",
+          "Ekiben (Asian-American, Fells Point)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BWI"
+    }
+  ]
+}
