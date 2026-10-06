@@ -1,53 +1,541 @@
 {
-  "generatedAt": "2026-10-05T05:06:06Z",
+  "generatedAt": "2026-10-06T04:51:13Z",
   "digests": [
-    { "date": "2026-10-05", "title": "Fort Lauderdale cheapest at $104, Orlando returns at $180", "destinations": ["FLL", "TYS", "DCA", "BWI", "MCO"] },
-    { "date": "2026-10-04", "title": "Knoxville and Fort Lauderdale cheapest, Austin returns at $158", "destinations": ["TYS", "FLL", "AUS", "DCA", "BWI"] },
-    { "date": "2026-10-03", "title": "Fort Lauderdale and Baltimore tie at $96, Orlando debuts", "destinations": ["FLL", "BWI", "DCA", "TYS", "MCO"] },
-    { "date": "2026-10-01", "title": "Top 3 hold again, Denver's $218 RT still edged by Tampa", "destinations": ["TYS", "DCA", "BWI", "FLL", "TPA"] },
-    { "date": "2026-09-30", "title": "Top 3 hold firm, Nashville climbs to $164 and stays out", "destinations": ["TYS", "DCA", "BWI", "FLL", "TPA"] },
-    { "date": "2026-09-29", "title": "Fort Lauderdale and Tampa return, Nashville and Denver price out", "destinations": ["TYS", "DCA", "BWI", "FLL", "TPA"] },
-    { "date": "2026-09-28", "title": "Nashville's $137 deal bumps Fort Lauderdale from top 5", "destinations": ["TYS", "DCA", "BWI", "BNA", "DEN"] },
-    { "date": "2026-09-27", "title": "Denver returns at #4, Austin bumped from top 5", "destinations": ["TYS", "DCA", "BWI", "DEN", "FLL"] },
-    { "date": "2026-09-26", "title": "Three-way $118 tie: Knoxville, DC, Baltimore lead", "destinations": ["TYS", "DCA", "BWI", "FLL", "AUS"] },
-    { "date": "2026-09-25", "title": "Knoxville reclaims #1, Baltimore debuts at #3", "destinations": ["TYS", "DCA", "BWI", "AUS", "FLL"] },
-    { "date": "2026-09-24", "title": "Austin's $158 flash fare bumps Tampa from top 5", "destinations": ["DCA", "TYS", "FLL", "AUS", "DEN"] },
-    { "date": "2026-09-22", "title": "Top 5 hold steady, Tampa's return leg climbs to $155", "destinations": ["DCA", "TYS", "FLL", "DEN", "TPA"] },
-    { "date": "2026-09-21", "title": "Denver jumps to $99, Fort Lauderdale reclaims #3", "destinations": ["DCA", "TYS", "FLL", "DEN", "TPA"] },
-    { "date": "2026-09-20", "title": "DC crashes to $59 fares, takes #1 from Knoxville", "destinations": ["DCA", "TYS", "DEN", "FLL", "TPA"] },
-    { "date": "2026-09-18", "title": "Fort Lauderdale drops to $138 on Allegiant, Asheville returns", "destinations": ["TYS", "FLL", "DEN", "DCA", "AVL"] },
-    { "date": "2026-09-17", "title": "Knoxville hits new $56 low, Denver holds #2 via JetBlue", "destinations": ["TYS", "DEN", "FLL", "DCA", "TPA"] },
-    { "date": "2026-09-15", "title": "Denver drops to $165, leapfrogs Fort Lauderdale", "destinations": ["TYS", "DEN", "FLL", "DCA", "TPA"] },
-    { "date": "2026-09-14", "title": "DC fare doubles to $110, Fort Lauderdale takes #2", "destinations": ["TYS", "FLL", "DCA", "DEN", "TPA"] },
-    { "date": "2026-09-13", "title": "Denver edges back in as Atlanta climbs to $261", "destinations": ["TYS", "DCA", "FLL", "TPA", "DEN"] },
-    { "date": "2026-09-12", "title": "Top 5 hold for a third day, Atlanta ticks down to $103", "destinations": ["TYS", "DCA", "FLL", "TPA", "ATL"] },
-    { "date": "2026-09-11", "title": "Denver's flash sale expires, Atlanta back in top 5", "destinations": ["TYS", "DCA", "FLL", "TPA", "ATL"] },
-    { "date": "2026-09-10", "title": "Denver flash sale cracks top 5, Knoxville still cheapest", "destinations": ["TYS", "DCA", "FLL", "TPA", "DEN"] },
-    { "date": "2026-09-09", "title": "DC $59 flash fare returns, jumps to #2", "destinations": ["TYS", "DCA", "FLL", "TPA", "ATL"] },
-    { "date": "2026-09-08", "title": "Top 5 hold steady, Knoxville still cheapest", "destinations": ["TYS", "FLL", "TPA", "ATL", "DCA"] },
-    { "date": "2026-09-07", "title": "Tampa new pick, Knoxville still cheapest", "destinations": ["TYS", "FLL", "TPA", "ATL", "DCA"] },
-    { "date": "2026-09-04", "title": "DC $59 flash fare, Knoxville still cheapest", "destinations": ["TYS", "DCA", "FLL", "ATL", "DEN"] },
-    { "date": "2026-09-02", "title": "DC $164 new pick, Knoxville holds cheapest", "destinations": ["TYS", "DCA", "ATL", "DEN", "SAN"] },
-    { "date": "2026-09-01", "title": "Asheville new pick, Knoxville still cheapest", "destinations": ["TYS", "AVL", "FLL", "DEN", "SAN"] },
-    { "date": "2026-08-31", "title": "Knoxville holds, Denver and San Diego flash sales", "destinations": ["TYS", "DFW", "MIA", "DEN", "SAN"] },
-    { "date": "2026-08-30", "title": "Knoxville $93 new low, Dallas and Santa Barbara return", "destinations": ["TYS", "DFW", "MIA", "SBA", "SEA"] },
-    { "date": "2026-08-29", "title": "DC $97 nonstop, Baltimore in-city NPS pick", "destinations": ["DCA", "BWI", "DEN", "MIA", "SAN"] },
-    { "date": "2026-08-28", "title": "Knoxville $97 again, Fort Myers new pick", "destinations": ["TYS", "RSW", "DEN", "BUF", "TPA"] },
-    { "date": "2026-08-27", "title": "Knoxville $98 again, Buffalo back at $108", "destinations": ["TYS", "BUF", "FLL", "DEN", "SAN"] },
-    { "date": "2026-08-26", "title": "Knoxville $97 holds, Denver back at $141", "destinations": ["TYS", "DEN", "SBA", "SAN", "BNA"] },
-    { "date": "2026-08-25", "title": "Knoxville $97, Smokies again", "destinations": ["TYS", "RSW", "MCO", "MIA", "TPA"] },
-    { "date": "2026-08-22", "title": "Dallas $131, Denver flash fare $152", "destinations": ["DFW", "DEN", "SMF", "SLC"] },
-    { "date": "2026-08-21", "title": "Denver $141, Santa Barbara solo pick", "destinations": ["DEN", "SBA", "LAS", "LAX", "SEA"] },
-    { "date": "2026-08-18", "title": "DC $117 flash fare, Chicago via Indiana Dunes", "destinations": ["DCA", "DFW", "ORD", "PDX", "MIA"] },
-    { "date": "2026-08-17", "title": "Dallas $131, Savannah solo pick", "destinations": ["DFW", "BNA", "SAV", "DEN", "SJC"] },
-    { "date": "2026-08-16", "title": "Knoxville $110, Smoky Mountains again", "destinations": ["TYS", "RSW", "AUS", "PIT", "SFO"] },
-    { "date": "2026-08-14", "title": "Buffalo $115, Niagara Falls nonstop", "destinations": ["BUF", "DEN", "MSY", "TPA", "SLC"] },
-    { "date": "2026-08-13", "title": "Miami $144, Everglades day trip", "destinations": ["MIA", "LAS", "BNA", "PHX", "SJU"] },
-    { "date": "2026-08-12", "title": "Denver $141, fresh fare drop", "destinations": ["DEN", "DFW", "LAX", "SAN", "SEA"] },
-    { "date": "2026-08-11", "title": "Chicago $166, Rocky Mountain NP via Denver", "destinations": ["ORD", "TPA", "DEN", "MSY", "CHS"] },
-    { "date": "2026-08-10", "title": "Knoxville $110, Smoky Mountains gateway", "destinations": ["TYS", "RSW", "MCO", "BNA", "BUF"] },
-    { "date": "2026-08-08", "title": "Atlanta $108, new Destin nonstop", "destinations": ["ATL", "VPS", "MIA", "LAS", "SJU"] },
-    { "date": "2026-08-07", "title": "Fort Lauderdale $167, NOLA solo pick", "destinations": ["FLL", "TPA", "MSY", "DEN", "CHS"] },
-    { "date": "2026-08-06", "title": "JetBlue flash sale, Denver $99", "destinations": ["DEN", "MCO", "BNA", "SAN", "SFO"] }
+    {
+      "date": "2026-10-06",
+      "title": "Fort Lauderdale holds cheapest at $121, DC returns",
+      "destinations": [
+        "FLL",
+        "TYS",
+        "DCA"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Fort Lauderdale cheapest at $104, Orlando returns at $180",
+      "destinations": [
+        "FLL",
+        "TYS",
+        "DCA",
+        "BWI",
+        "MCO"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Knoxville and Fort Lauderdale cheapest, Austin returns at $158",
+      "destinations": [
+        "TYS",
+        "FLL",
+        "AUS",
+        "DCA",
+        "BWI"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Fort Lauderdale and Baltimore tie at $96, Orlando debuts",
+      "destinations": [
+        "FLL",
+        "BWI",
+        "DCA",
+        "TYS",
+        "MCO"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Top 3 hold again, Denver's $218 RT still edged by Tampa",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "BWI",
+        "FLL",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Top 3 hold firm, Nashville climbs to $164 and stays out",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "BWI",
+        "FLL",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Fort Lauderdale and Tampa return, Nashville and Denver price out",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "BWI",
+        "FLL",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Nashville's $137 deal bumps Fort Lauderdale from top 5",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "BWI",
+        "BNA",
+        "DEN"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Denver returns at #4, Austin bumped from top 5",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "BWI",
+        "DEN",
+        "FLL"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Three-way $118 tie: Knoxville, DC, Baltimore lead",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "BWI",
+        "FLL",
+        "AUS"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Knoxville reclaims #1, Baltimore debuts at #3",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "BWI",
+        "AUS",
+        "FLL"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Austin's $158 flash fare bumps Tampa from top 5",
+      "destinations": [
+        "DCA",
+        "TYS",
+        "FLL",
+        "AUS",
+        "DEN"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Top 5 hold steady, Tampa's return leg climbs to $155",
+      "destinations": [
+        "DCA",
+        "TYS",
+        "FLL",
+        "DEN",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Denver jumps to $99, Fort Lauderdale reclaims #3",
+      "destinations": [
+        "DCA",
+        "TYS",
+        "FLL",
+        "DEN",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "DC crashes to $59 fares, takes #1 from Knoxville",
+      "destinations": [
+        "DCA",
+        "TYS",
+        "DEN",
+        "FLL",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Fort Lauderdale drops to $138 on Allegiant, Asheville returns",
+      "destinations": [
+        "TYS",
+        "FLL",
+        "DEN",
+        "DCA",
+        "AVL"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Knoxville hits new $56 low, Denver holds #2 via JetBlue",
+      "destinations": [
+        "TYS",
+        "DEN",
+        "FLL",
+        "DCA",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Denver drops to $165, leapfrogs Fort Lauderdale",
+      "destinations": [
+        "TYS",
+        "DEN",
+        "FLL",
+        "DCA",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "DC fare doubles to $110, Fort Lauderdale takes #2",
+      "destinations": [
+        "TYS",
+        "FLL",
+        "DCA",
+        "DEN",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Denver edges back in as Atlanta climbs to $261",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "FLL",
+        "TPA",
+        "DEN"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Top 5 hold for a third day, Atlanta ticks down to $103",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "FLL",
+        "TPA",
+        "ATL"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Denver's flash sale expires, Atlanta back in top 5",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "FLL",
+        "TPA",
+        "ATL"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Denver flash sale cracks top 5, Knoxville still cheapest",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "FLL",
+        "TPA",
+        "DEN"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "DC $59 flash fare returns, jumps to #2",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "FLL",
+        "TPA",
+        "ATL"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Top 5 hold steady, Knoxville still cheapest",
+      "destinations": [
+        "TYS",
+        "FLL",
+        "TPA",
+        "ATL",
+        "DCA"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Tampa new pick, Knoxville still cheapest",
+      "destinations": [
+        "TYS",
+        "FLL",
+        "TPA",
+        "ATL",
+        "DCA"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "title": "DC $59 flash fare, Knoxville still cheapest",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "FLL",
+        "ATL",
+        "DEN"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "DC $164 new pick, Knoxville holds cheapest",
+      "destinations": [
+        "TYS",
+        "DCA",
+        "ATL",
+        "DEN",
+        "SAN"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Asheville new pick, Knoxville still cheapest",
+      "destinations": [
+        "TYS",
+        "AVL",
+        "FLL",
+        "DEN",
+        "SAN"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Knoxville holds, Denver and San Diego flash sales",
+      "destinations": [
+        "TYS",
+        "DFW",
+        "MIA",
+        "DEN",
+        "SAN"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Knoxville $93 new low, Dallas and Santa Barbara return",
+      "destinations": [
+        "TYS",
+        "DFW",
+        "MIA",
+        "SBA",
+        "SEA"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "title": "DC $97 nonstop, Baltimore in-city NPS pick",
+      "destinations": [
+        "DCA",
+        "BWI",
+        "DEN",
+        "MIA",
+        "SAN"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Knoxville $97 again, Fort Myers new pick",
+      "destinations": [
+        "TYS",
+        "RSW",
+        "DEN",
+        "BUF",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Knoxville $98 again, Buffalo back at $108",
+      "destinations": [
+        "TYS",
+        "BUF",
+        "FLL",
+        "DEN",
+        "SAN"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Knoxville $97 holds, Denver back at $141",
+      "destinations": [
+        "TYS",
+        "DEN",
+        "SBA",
+        "SAN",
+        "BNA"
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Knoxville $97, Smokies again",
+      "destinations": [
+        "TYS",
+        "RSW",
+        "MCO",
+        "MIA",
+        "TPA"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Dallas $131, Denver flash fare $152",
+      "destinations": [
+        "DFW",
+        "DEN",
+        "SMF",
+        "SLC"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Denver $141, Santa Barbara solo pick",
+      "destinations": [
+        "DEN",
+        "SBA",
+        "LAS",
+        "LAX",
+        "SEA"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "title": "DC $117 flash fare, Chicago via Indiana Dunes",
+      "destinations": [
+        "DCA",
+        "DFW",
+        "ORD",
+        "PDX",
+        "MIA"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Dallas $131, Savannah solo pick",
+      "destinations": [
+        "DFW",
+        "BNA",
+        "SAV",
+        "DEN",
+        "SJC"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Knoxville $110, Smoky Mountains again",
+      "destinations": [
+        "TYS",
+        "RSW",
+        "AUS",
+        "PIT",
+        "SFO"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Buffalo $115, Niagara Falls nonstop",
+      "destinations": [
+        "BUF",
+        "DEN",
+        "MSY",
+        "TPA",
+        "SLC"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Miami $144, Everglades day trip",
+      "destinations": [
+        "MIA",
+        "LAS",
+        "BNA",
+        "PHX",
+        "SJU"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Denver $141, fresh fare drop",
+      "destinations": [
+        "DEN",
+        "DFW",
+        "LAX",
+        "SAN",
+        "SEA"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Chicago $166, Rocky Mountain NP via Denver",
+      "destinations": [
+        "ORD",
+        "TPA",
+        "DEN",
+        "MSY",
+        "CHS"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Knoxville $110, Smoky Mountains gateway",
+      "destinations": [
+        "TYS",
+        "RSW",
+        "MCO",
+        "BNA",
+        "BUF"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Atlanta $108, new Destin nonstop",
+      "destinations": [
+        "ATL",
+        "VPS",
+        "MIA",
+        "LAS",
+        "SJU"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Fort Lauderdale $167, NOLA solo pick",
+      "destinations": [
+        "FLL",
+        "TPA",
+        "MSY",
+        "DEN",
+        "CHS"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "title": "JetBlue flash sale, Denver $99",
+      "destinations": [
+        "DEN",
+        "MCO",
+        "BNA",
+        "SAN",
+        "SFO"
+      ]
+    }
   ]
 }

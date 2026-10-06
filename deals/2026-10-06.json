@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T04:51:13Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 121,
+      "priceHigh": 140,
+      "travelWindow": "Nov 14 \u2013 Dec 3, Allegiant nonstop",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant lists $69 BOS\u2192FLL on Nov 14 and $52 FLL\u2192BOS on Dec 3 \u2014 about $121 round trip, up from $104 as the cheapest Nov 7/12 pairing aged out, still the cheapest verified fare, with the Everglades 50 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=pGpH8Pzg8qU",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley entrance)",
+          "drive": "50 min"
+        },
+        {
+          "name": "Biscayne National Park",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The free Sun Trolley links the beach and Las Olas without a car, and the lit beachfront promenade stays comfortable for a solo evening walk.",
+      "guide": {
+        "highlights": [
+          "Shark Valley's flat 15-mile Everglades bike loop",
+          "Fort Lauderdale beachfront promenade",
+          "Riverwalk Arts & Entertainment District",
+          "Bonnet House Museum & Gardens",
+          "Las Olas Boulevard gallery stroll"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Beach promenade at sunset, then Las Olas for dinner.",
+          "Day 2 \u2014 Everglades Shark Valley tram or bike loop by rental car, evening Riverwalk.",
+          "Day 3 \u2014 Bonnet House gardens, then a water taxi for lunch before the flight."
+        ],
+        "gettingAround": "The free Sun Trolley covers downtown, Las Olas, and the beach; a rental car is worth it only for the Everglades day trip.",
+        "stayArea": "The beachfront or Las Olas \u2014 both walkable to restaurants, the promenade, and water taxi stops.",
+        "food": [
+          "Lester's Diner (24-hour Fort Lauderdale classic)",
+          "Coconuts waterfront seafood",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 132,
+      "priceHigh": 150,
+      "travelWindow": "Oct 31 \u2013 Nov 7, Allegiant nonstop",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant's page shows $76 BOS\u2192TYS on Oct 31 and $56 TYS\u2192BOS on Nov 7 \u2014 about $132 round trip, still second-cheapest, with the Smokies 45 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=iBbb3GlHW7I",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains National Park",
+          "drive": "45 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Downtown's compact grid is easy to explore alone on foot, and the Cosby and Greenbrier entrances to the Smokies are a short solo drive with none of the Cades Cove crowds.",
+      "guide": {
+        "highlights": [
+          "World's Fair Park and the Sunsphere observation deck",
+          "Market Square's farmers' stalls and buskers",
+          "Ijams Nature Center's quarry swimming hole and trails",
+          "South Knoxville's urban wilderness bike/hike loop",
+          "Cosby entrance to the Great Smoky Mountains"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Land, ride the elevator up the Sunsphere for a skyline view, then dinner on Market Square.",
+          "Day 2 \u2014 Rent a car for the Cosby entrance: the Hen Wallow Falls trail, with a stop at Foothills Parkway overlooks on the drive back.",
+          "Day 3 \u2014 Morning loop at Ijams Nature Center, then an afternoon at the Knoxville Museum of Art before an evening flight."
+        ],
+        "gettingAround": "Downtown is flat and walkable end to end; a rental car is required to reach any Smokies trailhead.",
+        "stayArea": "Downtown near Market Square or Gay Street \u2014 walkable to restaurants and the Tennessee Theatre.",
+        "food": [
+          "Yassin's Falafel House (Market Square)",
+          "OliBea (Old City brunch)",
+          "Emilia (Gay Street Italian)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 124,
+      "priceHigh": 242,
+      "travelWindow": "Nov 23 onward, midweek",
+      "airlines": [
+        "JetBlue",
+        "Southwest",
+        "American"
+      ],
+      "nonstop": true,
+      "whyRanked": "Momondo shows BOS\u2192DC one-way from $62 (Nov 23) up to ~$121 \u2014 a roughly $124\u2013$242 round trip doubled from that range, so the low end is unconfirmed; the Metro and free Smithsonians give DC the best solo score of the three.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=5sEB8DMk2e4",
+      "nearbyParks": [
+        {
+          "name": "Great Falls Park (VA)",
+          "drive": "30 min"
+        },
+        {
+          "name": "Rock Creek Park",
+          "drive": "15 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Metro reaches nearly everything, the 19 free Smithsonian museums fill days at no cost, and Kayak/OpenTable ranked DC a top US solo destination.",
+      "guide": {
+        "highlights": [
+          "National Mall monument walk at dusk",
+          "Air & Space and African American History museums",
+          "Georgetown waterfront and C&O Canal towpath",
+          "Great Falls Park overlooks",
+          "Eastern Market on a weekend"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Lincoln Memorial to the Capitol along the Mall, dinner on U Street.",
+          "Day 2 \u2014 Smithsonian morning (reserve NMAAHC timed pass), afternoon at Georgetown and the C&O towpath.",
+          "Day 3 \u2014 Great Falls Park by rideshare or Old Town Alexandria by Metro before the flight."
+        ],
+        "gettingAround": "Metro and walking cover everything; DCA is on the Yellow/Blue lines, so no car is needed.",
+        "stayArea": "Dupont Circle \u2014 walkable, on the Red Line, with plenty of hostels and mid-priced hotels.",
+        "food": [
+          "Ben's Chili Bowl (U Street)",
+          "Eastern Market blue-bucky pancakes",
+          "Rasika for Indian small plates"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    }
+  ]
+}
