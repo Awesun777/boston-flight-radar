@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T06:19:07Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 104,
+      "priceHigh": 125,
+      "travelWindow": "Nov 14 – Dec 3, Allegiant nonstop",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant lists $60 BOS→FLL on Nov 14 and $44 FLL→BOS on Dec 3 — about $104 round trip, down from $121 yesterday and still the cheapest verified fare, with the Everglades 50 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=pGpH8Pzg8qU",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley entrance)",
+          "drive": "50 min"
+        },
+        {
+          "name": "Biscayne National Park",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The free Sun Trolley links the beach and Las Olas without a car, and the lit beachfront promenade stays comfortable for a solo evening walk.",
+      "guide": {
+        "highlights": [
+          "Shark Valley's flat 15-mile Everglades bike loop",
+          "Beachfront promenade at sunrise",
+          "Riverwalk Arts & Entertainment District",
+          "Bonnet House Museum & Gardens",
+          "Water taxi along the Intracoastal"
+        ],
+        "itinerary": [
+          "Day 1 — Land, water taxi to Las Olas, sunset on the beach promenade.",
+          "Day 2 — Early drive to Shark Valley for the tram or bike loop; gators are easiest to spot in the dry-season morning.",
+          "Day 3 — Bonnet House gardens, then brunch on the Riverwalk before the flight."
+        ],
+        "gettingAround": "Sun Trolley and water taxis cover downtown and the beach; rent a car for one day only, for the Everglades.",
+        "stayArea": "Near Las Olas or the beach — both walkable to dining and trolley stops.",
+        "food": [
+          "Lester's Diner (24-hour classic)",
+          "Coconuts (waterfront seafood)",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 132,
+      "priceHigh": 150,
+      "travelWindow": "Nov 14 – Dec 3, Allegiant nonstop",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant shows $56 BOS→TYS on Nov 14 and $76 TYS→BOS on Dec 3 (or $84 on Nov 19) — about $132–140 round trip, unchanged as second-cheapest, with the Smokies 45 minutes from downtown.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP",
+          "drive": "45 min"
+        },
+        {
+          "name": "Obed Wild & Scenic River",
+          "drive": "1 h 15 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact, walkable downtown with a greenway system, plus an easy solo day in the Smokies.",
+      "guide": {
+        "highlights": [
+          "Great Smoky Mountains via the Townsend entrance",
+          "Market Square and Old City",
+          "Knoxville Urban Wilderness trails (Ijams Nature Center)",
+          "Sunsphere and World's Fair Park",
+          "Tennessee River greenway"
+        ],
+        "itinerary": [
+          "Day 1 — Market Square, Old City, then the Sunsphere at dusk.",
+          "Day 2 — Drive to Townsend for Cades Cove loop and an easy waterfall hike.",
+          "Day 3 — Ijams Nature Center trails and the river greenway before the flight."
+        ],
+        "gettingAround": "Downtown is walkable, but you need a rental car for the Smokies; TYS is about 15 minutes from the city center.",
+        "stayArea": "Downtown near Market Square, walkable to food, bars, and the trolley.",
+        "food": [
+          "Tomato Head (Market Square)",
+          "Mable's Smokehouse",
+          "Cruze Farm milkshakes"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Baltimore, MD",
+      "airport": "BWI",
+      "priceLow": 172,
+      "priceHigh": 206,
+      "travelWindow": "Early Nov – Dec, midweek cheapest",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest's low-fare calendar shows $86 each way in November–December ($92 on Nov 5) — about $172+ round trip; solo-friendly harbor city with Assateague a 2.5-hour drive.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Assateague Island National Seashore",
+          "drive": "2.5 h"
+        },
+        {
+          "name": "Patapsco Valley State Park",
+          "drive": "25 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Light rail and water taxis connect the harbor neighborhoods, and the museums are cheap or free.",
+      "guide": {
+        "highlights": [
+          "Inner Harbor and the National Aquarium",
+          "Fells Point waterfront",
+          "American Visionary Art Museum",
+          "Federal Hill Park skyline view",
+          "Patapsco Valley's Swinging Bridge trail"
+        ],
+        "itinerary": [
+          "Day 1 — Inner Harbor and water taxi to Fells Point.",
+          "Day 2 — American Visionary Art Museum, then Federal Hill at sunset.",
+          "Day 3 — Patapsco Valley State Park hike before the flight."
+        ],
+        "gettingAround": "Light rail runs from BWI to downtown; water taxis and the free Charm City Circulator cover the core.",
+        "stayArea": "Fells Point or Harbor East for walkable dining and the waterfront.",
+        "food": [
+          "Faidley's crab cakes (Lexington Market)",
+          "Thames Street Oyster House",
+          "Little Italy pasta"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BWI"
+    },
+    {
+      "rank": 4,
+      "destination": "Orlando, FL",
+      "airport": "MCO",
+      "priceLow": 205,
+      "priceHigh": 235,
+      "travelWindow": "Nov 10 – Dec 15, Southwest nonstop",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest's calendar shows $90 BOS→MCO on Nov 10 and $115–120 MCO→BOS in December — about $205–235 round trip; Winter Park keeps it solo-friendly and Wekiwa Springs is a short drive.",
+      "nearbyParks": [
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Winter Park is walkable with scenic boat tours and a SunRail stop, away from the theme-park crowds.",
+      "guide": {
+        "highlights": [
+          "Wekiwa Springs paddling",
+          "Winter Park scenic boat tour",
+          "Charles Hosmer Morse Museum (Tiffany glass)",
+          "Canaveral National Seashore",
+          "Lake Eola Park downtown"
+        ],
+        "itinerary": [
+          "Day 1 — Winter Park Park Avenue stroll and the scenic boat tour.",
+          "Day 2 — Wekiwa Springs kayak or swim, then Lake Eola at dusk.",
+          "Day 3 — Morse Museum before the flight."
+        ],
+        "gettingAround": "SunRail links downtown and Winter Park; a rental car is needed for Wekiwa and the seashore.",
+        "stayArea": "Winter Park near Park Avenue, walkable and calmer than the tourist corridor.",
+        "food": [
+          "Hunger Street Tacos",
+          "The Briar Patch",
+          "East End Market (Audubon Park)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Orlando%2C_Florida_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons"
+    }
+  ]
+}
