@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T06:20:37Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 104,
+      "priceHigh": 125,
+      "travelWindow": "Nov 7 \u2013 Dec 6, Allegiant nonstop",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant lists $60 BOS\u2192FLL in November and $44 FLL\u2192BOS on Nov 14 or Dec 3 \u2014 about $104 round trip, down from $112 and the cheapest verified fare, with the Everglades 50 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=pGpH8Pzg8qU",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley entrance)",
+          "drive": "50 min"
+        },
+        {
+          "name": "Biscayne National Park",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "The free Sun Trolley links the beach and Las Olas without a car, and the lit beachfront promenade stays comfortable for a solo evening walk.",
+      "guide": {
+        "highlights": [
+          "Shark Valley's flat 15-mile Everglades bike loop",
+          "Beachfront promenade at sunrise",
+          "Riverwalk Arts & Entertainment District",
+          "Bonnet House Museum & Gardens",
+          "Water taxi along the Intracoastal"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Land, take the water taxi to Las Olas, sunset walk on the beach promenade.",
+          "Day 2 \u2014 Early drive to Shark Valley for the tram or bike loop; mornings are best for gators.",
+          "Day 3 \u2014 Bonnet House gardens, then brunch on the Riverwalk before the flight."
+        ],
+        "gettingAround": "Sun Trolley and water taxis cover downtown and the beach; rent a car for one day only, for the Everglades.",
+        "stayArea": "Near Las Olas or the beach \u2014 both walkable to dining and trolley stops.",
+        "food": [
+          "Lester's Diner (24-hour classic)",
+          "Coconuts (waterfront seafood)",
+          "Rok:Brgr on Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 140,
+      "priceHigh": 160,
+      "travelWindow": "Oct 30 \u2013 Nov 7, Allegiant nonstop",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant shows $84 BOS\u2192TYS on Oct 30/31 and $56 TYS\u2192BOS on Nov 7 \u2014 about $140 round trip, with the Smokies 45 minutes from downtown; Orlando and Tampa fares could not be verified today.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP",
+          "drive": "45 min"
+        },
+        {
+          "name": "Obed Wild & Scenic River",
+          "drive": "1 h 15 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact, walkable downtown with a greenway system, plus an easy solo day in the Smokies.",
+      "guide": {
+        "highlights": [
+          "Great Smoky Mountains via the Townsend entrance",
+          "Market Square and Old City",
+          "Knoxville Urban Wilderness trails (Ijams Nature Center)",
+          "Sunsphere and World's Fair Park",
+          "Tennessee River greenway"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Market Square, Old City, then the Sunsphere at dusk.",
+          "Day 2 \u2014 Drive to Townsend for Cades Cove loop and an easy waterfall hike.",
+          "Day 3 \u2014 Ijams Nature Center trails and the river greenway before the flight."
+        ],
+        "gettingAround": "Downtown is walkable, but you need a rental car for the Smokies; TYS is about 15 minutes from the city center.",
+        "stayArea": "Downtown near Market Square, walkable to food, bars, and the trolley.",
+        "food": [
+          "Tomato Head (Market Square)",
+          "Mable's Smokehouse",
+          "Cruze Farm milkshakes"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    }
+  ]
+}
