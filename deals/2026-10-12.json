@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T04:51:09Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 104,
+      "priceHigh": 125,
+      "travelWindow": "Nov 12 \u2013 Jan, Allegiant nonstop; cheapest Nov 12/14 departures",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way fares from $44\u201360 (Nov 12\u201314 departures), so about $104\u2013125 round trip; still the cheapest fare out of BOS.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley / Anhinga Trail)",
+          "drive": "1\u20131.25 h"
+        },
+        {
+          "name": "Biscayne NP",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Las Olas and Riverwalk, a free water taxi network, and cheap hostels near the beach make it easy alone.",
+      "guide": {
+        "highlights": [
+          "Riverwalk and Las Olas Boulevard on foot",
+          "Fort Lauderdale Beach and the A1A promenade",
+          "Water Taxi day pass along the Intracoastal",
+          "Everglades airboat or Shark Valley tram day trip"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Arrive FLL, beach and A1A walk, sunset at Las Olas Beach",
+          "Day 2 \u2014 Everglades day trip: Anhinga Trail at Royal Palm, then Shark Valley tram",
+          "Day 3 \u2014 Riverwalk, Water Taxi to Hugh Taylor Birch State Park, evening on Las Olas"
+        ],
+        "gettingAround": "Airport is 3 miles from downtown; use Brightline/Tri-Rail, the Water Taxi and rideshare. Rent a car only for the Everglades day.",
+        "stayArea": "Beach area near Las Olas or downtown by Riverwalk: walkable with hostels and budget hotels.",
+        "food": [
+          "Kaluz (Cuban-Caribbean)",
+          "Rustic Inn (garlic crabs)",
+          "Yardbird-style Southern at Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 140,
+      "priceHigh": 160,
+      "travelWindow": "Nov \u2013 early Dec, Allegiant nonstop; Dec 6 departure listed from $62 one-way",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant nonstop with one-way fares from $62 (Dec 6) and $84\u2013115 on other dates, and Great Smoky Mountains NP is about 45 minutes away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP (Gatlinburg entrance)",
+          "drive": "1 h"
+        },
+        {
+          "name": "Obed Wild & Scenic River",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact Market Square and Old City are walkable, locals are friendly, and the Urban Wilderness trails are inside the city.",
+      "guide": {
+        "highlights": [
+          "Market Square and Old City evenings",
+          "Sunsphere observation deck (free)",
+          "Urban Wilderness trails and Ijams Nature Center",
+          "Smokies day trip: Alum Cave or Laurel Falls"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Market Square, Sunsphere, Old City",
+          "Day 2 \u2014 Rental car to Great Smoky Mountains NP, Laurel Falls or Alum Cave Trail",
+          "Day 3 \u2014 Ijams Nature Center or Urban Wilderness loop, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable, but you need a rental car for the Smokies.",
+        "stayArea": "Downtown near Market Square, for walkability and food.",
+        "food": [
+          "Tennessee Stock & Barrel",
+          "Pete's Coffee Shop",
+          "Cruze Farm milkshakes"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 197,
+      "priceHigh": 230,
+      "travelWindow": "Nov 3 \u2013 Nov 18 departures, JetBlue nonstop",
+      "airlines": [
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue nonstop at $197 round trip (basic economy) on Nov dates; a deal posted Aug 1 so availability may be thin. Pricier but a top solo city.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Cabrillo National Monument",
+          "drive": "25 min"
+        },
+        {
+          "name": "Cuyamaca Rancho State Park",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Safe, walkable neighborhoods, hostels in the Gaslamp and Pacific Beach, and trolley plus coastal trails.",
+      "guide": {
+        "highlights": [
+          "Balboa Park museums and gardens",
+          "La Jolla cove and sea lions",
+          "Cabrillo National Monument tide pools",
+          "Torrey Pines coastal trails"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Balboa Park, Gaslamp dinner",
+          "Day 2 \u2014 La Jolla cove and Torrey Pines State Reserve",
+          "Day 3 \u2014 Cabrillo National Monument, Little Italy"
+        ],
+        "gettingAround": "The trolley and buses cover downtown and Old Town; rideshare for La Jolla and Torrey Pines.",
+        "stayArea": "Downtown or Little Italy for transit, or Pacific Beach for hostels and surf.",
+        "food": [
+          "Mission Hills fish tacos at Oscar's",
+          "Liberty Public Market",
+          "Pappalecco gelato in Little Italy"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
