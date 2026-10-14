@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T04:52:58Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 129,
+      "priceHigh": 150,
+      "travelWindow": "Nov \u2013 Feb, Allegiant nonstop; Dec 13 and Jan 30 from $60 one-way, Nov 14 $69",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $60 (Dec 13, Jan 30) and $69 (Nov 14), about $129\u2013150 round trip; unchanged from yesterday and still the cheapest verified fare with Everglades 1 h away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley / Anhinga Trail)",
+          "drive": "1\u20131.25 h"
+        },
+        {
+          "name": "Biscayne NP",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Las Olas and Riverwalk, a free water taxi network, and cheap hostels near the beach make it easy alone.",
+      "guide": {
+        "highlights": [
+          "Riverwalk and Las Olas Boulevard on foot",
+          "Fort Lauderdale Beach and the A1A promenade",
+          "Water Taxi day pass along the Intracoastal",
+          "Everglades airboat or Shark Valley tram day trip"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Arrive FLL, beach and A1A walk, sunset at Las Olas Beach",
+          "Day 2 \u2014 Everglades day trip: Anhinga Trail at Royal Palm, then Shark Valley tram",
+          "Day 3 \u2014 Riverwalk, Water Taxi to Hugh Taylor Birch State Park, evening on Las Olas"
+        ],
+        "gettingAround": "Airport is 3 miles from downtown; use Brightline/Tri-Rail, the Water Taxi and rideshare. Rent a car only for the Everglades day.",
+        "stayArea": "Beach area near Las Olas or downtown by Riverwalk: walkable with hostels and budget hotels.",
+        "food": [
+          "Kaluz (Cuban-Caribbean)",
+          "Rustic Inn (garlic crabs)",
+          "Yardbird-style Southern at Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 112,
+      "priceHigh": 145,
+      "travelWindow": "Nov 14 \u2013 mid Dec, Allegiant nonstop; Nov 14 and Dec 13 from $56 one-way, Dec 6 $62",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant nonstop one-way from $56 (Nov 14, Dec 13) and $62 (Dec 6), about $112\u2013145 round trip, now the cheapest fare of the day, with Great Smoky Mountains NP about an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP (Gatlinburg entrance)",
+          "drive": "1 h"
+        },
+        {
+          "name": "Obed Wild & Scenic River",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact Market Square and Old City are walkable, locals are friendly, and the Urban Wilderness trails are inside the city.",
+      "guide": {
+        "highlights": [
+          "Market Square and Old City evenings",
+          "Sunsphere observation deck (free)",
+          "Urban Wilderness trails and Ijams Nature Center",
+          "Smokies day trip: Alum Cave or Laurel Falls"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Market Square, Sunsphere, Old City",
+          "Day 2 \u2014 Rental car to Great Smoky Mountains NP, Laurel Falls or Alum Cave Trail",
+          "Day 3 \u2014 Ijams Nature Center or Urban Wilderness loop, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable, but you need a rental car for the Smokies.",
+        "stayArea": "Downtown near Market Square, for walkability and food.",
+        "food": [
+          "Tennessee Stock & Barrel",
+          "Pete's Coffee Shop",
+          "Cruze Farm milkshakes"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Asheville, NC",
+      "airport": "AVL",
+      "priceLow": 167,
+      "priceHigh": 190,
+      "travelWindow": "Dec \u2013 Mar, Allegiant nonstop; Dec 7, 11 and 31 from $87 one-way, Mar 8 $80",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $87 (Dec 7/11/31) and $80 (Mar 8), about $167\u2013190 round trip; the Blue Ridge Parkway and Great Smoky Mountains NP are in reach, which edges it ahead of cheaper Grand Rapids.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Asheville%2C_North_Carolina.jpg/3840px-Asheville%2C_North_Carolina.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Blue Ridge Parkway",
+          "drive": "15 min"
+        },
+        {
+          "name": "Great Smoky Mountains NP (Cherokee entrance)",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact, walkable downtown with a strong hostel and brewery scene, plus easy trailheads close to town.",
+      "guide": {
+        "highlights": [
+          "Downtown Asheville and the River Arts District on foot",
+          "Blue Ridge Parkway overlooks, including Craggy Gardens",
+          "Biltmore Estate grounds",
+          "Brewery row on Wedge and Coxe Ave"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown walk, River Arts District studios, dinner on Biltmore Ave",
+          "Day 2 \u2014 Rental car up the Blue Ridge Parkway: Craggy Gardens Pinnacle, Graveyard Fields if open",
+          "Day 3 \u2014 Biltmore grounds or Mount Pisgah views, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable but the Parkway and trailheads need a rental car; check Parkway closures for winter ice.",
+        "stayArea": "Downtown or the Montford/South Slope area for walkable food and breweries.",
+        "food": [
+          "Tupelo Honey (Southern)",
+          "Biscuit Head",
+          "Wedge Brewing Co."
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AVL"
+    },
+    {
+      "rank": 4,
+      "destination": "Grand Rapids, MI",
+      "airport": "GRR",
+      "priceLow": 154,
+      "priceHigh": 170,
+      "travelWindow": "Nov \u2013 Jan, Allegiant nonstop; Nov 19 and Dec 31 from $80 one-way, Jan 3 $74",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $74 (Jan 3) and $80 (Nov 19, Dec 31), about $154\u2013170 round trip; cheap and an easy solo city, but the nearest park-type area is a 2.5 h drive.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Meyer_May_House.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Sleeping Bear Dunes National Lakeshore",
+          "drive": "2.5 h"
+        },
+        {
+          "name": "Hoffmaster State Park (Lake Michigan dunes)",
+          "drive": "45 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Walkable downtown, a large craft-beer and museum scene, and a safe, easy-to-navigate small city.",
+      "guide": {
+        "highlights": [
+          "Frederik Meijer Gardens and Sculpture Park",
+          "Downtown brewery trail (Founders, Brewery Vivant)",
+          "Grand Rapids Art Museum",
+          "Lake Michigan dunes at Hoffmaster or Grand Haven"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown, GR Art Museum, brewery evening",
+          "Day 2 \u2014 Meijer Gardens, then Lake Michigan at Grand Haven pier",
+          "Day 3 \u2014 Rental car to Hoffmaster dunes boardwalk, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable and the DASH shuttle is free; rent a car for the lakeshore.",
+        "stayArea": "Downtown or Heritage Hill for walkability to breweries and museums.",
+        "food": [
+          "Founders Brewing taproom",
+          "Brewery Vivant",
+          "Grand Rapids Public Market"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20GRR"
+    },
+    {
+      "rank": 5,
+      "destination": "Sarasota, FL",
+      "airport": "SRQ",
+      "priceLow": 158,
+      "priceHigh": 180,
+      "travelWindow": "Dec \u2013 Apr, Allegiant nonstop; Dec 11 from $88 one-way, Jan 25 $79, Feb 22 $70",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $70 (Feb 22), $79 (Jan 25) and $88 (Dec 11), about $158\u2013180 round trip; beaches and Myakka River State Park, but no national park nearby.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/3840px-Sarasota_Skyline.jpeg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Myakka River State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Everglades NP (Gulf Coast entrance)",
+          "drive": "2.5 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Siesta Key and downtown are pleasant and safe, but you will want a car for most of it.",
+      "guide": {
+        "highlights": [
+          "Siesta Key Beach's white sand",
+          "Myakka River State Park canopy walkway",
+          "Ringling Museum grounds",
+          "Downtown Sarasota bayfront and Saturday farmers market"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown bayfront, Selby Gardens, dinner on Main St",
+          "Day 2 \u2014 Siesta Key Beach morning, Ringling Museum afternoon",
+          "Day 3 \u2014 Myakka River State Park canopy walk and airboat, then fly home"
+        ],
+        "gettingAround": "A rental car is the realistic option; the Siesta Key trolley helps for beach days.",
+        "stayArea": "Downtown Sarasota for walkable dining, or Siesta Village for beach access.",
+        "food": [
+          "Owen's Fish Camp",
+          "Yoder's (Amish pie)",
+          "Pattigeni's"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SRQ"
+    }
+  ]
+}
