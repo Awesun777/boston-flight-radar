@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T05:00:52Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 104,
+      "priceHigh": 130,
+      "travelWindow": "Jan \u2013 Feb, Allegiant nonstop; $52 one-way Jan 17/23/24 and Feb 6, $60 Jan 30",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $52 (Jan 17/23/24, Feb 6), about $104\u2013130 round trip; fare fell from $60; Everglades 1 h away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley / Anhinga Trail)",
+          "drive": "1\u20131.25 h"
+        },
+        {
+          "name": "Biscayne NP",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Las Olas and Riverwalk, a free water taxi network, and cheap hostels near the beach make it easy alone.",
+      "guide": {
+        "highlights": [
+          "Riverwalk and Las Olas Boulevard on foot",
+          "Fort Lauderdale Beach and the A1A promenade",
+          "Water Taxi day pass along the Intracoastal",
+          "Everglades airboat or Shark Valley tram day trip"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Arrive FLL, beach and A1A walk, sunset at Las Olas Beach",
+          "Day 2 \u2014 Everglades day trip: Anhinga Trail at Royal Palm, then Shark Valley tram",
+          "Day 3 \u2014 Riverwalk, Water Taxi to Hugh Taylor Birch State Park, evening on Las Olas"
+        ],
+        "gettingAround": "Airport is 3 miles from downtown; use Brightline/Tri-Rail, the Water Taxi and rideshare. Rent a car only for the Everglades day.",
+        "stayArea": "Beach area near Las Olas or downtown by Riverwalk: walkable with hostels and budget hotels.",
+        "food": [
+          "Kaluz (Cuban-Caribbean)",
+          "Rustic Inn (garlic crabs)",
+          "Yardbird-style Southern at Las Olas"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 112,
+      "priceHigh": 135,
+      "travelWindow": "Oct 30 \u2013 Jan, Allegiant nonstop; Nov 14 $56 one-way, Jan 2 $68, Dec 31 $84",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant nonstop one-way from $56 (Nov 14, down from $66), about $112\u2013135 round trip; Great Smoky Mountains NP is an hour away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP (Gatlinburg entrance)",
+          "drive": "1 h"
+        },
+        {
+          "name": "Obed Wild & Scenic River",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact Market Square and Old City are walkable, locals are friendly, and the Urban Wilderness trails are inside the city.",
+      "guide": {
+        "highlights": [
+          "Market Square and Old City evenings",
+          "Sunsphere observation deck (free)",
+          "Urban Wilderness trails and Ijams Nature Center",
+          "Smokies day trip: Alum Cave or Laurel Falls"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Market Square, Sunsphere, Old City",
+          "Day 2 \u2014 Rental car to Great Smoky Mountains NP, Laurel Falls or Alum Cave Trail",
+          "Day 3 \u2014 Sunrise at Ijams Nature Center or the Urban Wilderness loop, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable, but you need a rental car for the Smokies.",
+        "stayArea": "Downtown near Market Square, for walkability and food.",
+        "food": [
+          "Tennessee Stock & Barrel",
+          "Pete's Coffee Shop",
+          "Cruze Farm milkshakes"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Asheville, NC",
+      "airport": "AVL",
+      "priceLow": 165,
+      "priceHigh": 185,
+      "travelWindow": "Dec \u2013 Mar, Allegiant nonstop; Dec 7 $80 one-way, Dec 4 $87, Dec 11 $90, Mar 10 $90",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $80 (Dec 7, down from $87), about $165\u2013185 round trip; Blue Ridge Parkway 15 min away and Smokies 1.25 h.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Asheville%2C_North_Carolina.jpg/3840px-Asheville%2C_North_Carolina.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Blue Ridge Parkway",
+          "drive": "15 min"
+        },
+        {
+          "name": "Great Smoky Mountains NP (Cherokee entrance)",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact, walkable downtown with a strong hostel and brewery scene, plus easy trailheads close to town.",
+      "guide": {
+        "highlights": [
+          "Downtown Asheville and the River Arts District on foot",
+          "Blue Ridge Parkway overlooks, including Craggy Gardens",
+          "Biltmore Estate grounds",
+          "Brewery row on Wedge and Coxe Ave"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown walk, River Arts District studios, dinner on Biltmore Ave",
+          "Day 2 \u2014 Rental car up the Blue Ridge Parkway: Craggy Gardens Pinnacle, Graveyard Fields if open",
+          "Day 3 \u2014 Biltmore grounds or Mount Pisgah views, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable but the Parkway and trailheads need a rental car; check Parkway closures for winter ice.",
+        "stayArea": "Downtown or the Montford/South Slope area for walkable food and breweries.",
+        "food": [
+          "Tupelo Honey (Southern)",
+          "Biscuit Head",
+          "Wedge Brewing Co."
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AVL"
+    },
+    {
+      "rank": 4,
+      "destination": "Grand Rapids, MI",
+      "airport": "GRR",
+      "priceLow": 185,
+      "priceHigh": 205,
+      "travelWindow": "Oct \u2013 Jan, Allegiant nonstop; Dec 31 $90 one-way, Oct 29 and Nov 19 $98",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $90 (Dec 31, up from $68 last seen), about $185\u2013205 round trip; easy solo city but nearest big park area is 2.5 h away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Meyer_May_House.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Sleeping Bear Dunes National Lakeshore",
+          "drive": "2.5 h"
+        },
+        {
+          "name": "Hoffmaster State Park (Lake Michigan dunes)",
+          "drive": "45 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Walkable downtown, a large craft-beer and museum scene, and a safe, easy-to-navigate small city.",
+      "guide": {
+        "highlights": [
+          "Frederik Meijer Gardens and Sculpture Park",
+          "Downtown brewery trail (Founders, Brewery Vivant)",
+          "Grand Rapids Art Museum",
+          "Lake Michigan dunes at Hoffmaster or Grand Haven"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown, GR Art Museum, brewery evening",
+          "Day 2 \u2014 Meijer Gardens, then Lake Michigan at Grand Haven pier",
+          "Day 3 \u2014 Rental car to Hoffmaster dunes boardwalk, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable and the DASH shuttle is free; rent a car for the lakeshore.",
+        "stayArea": "Downtown or Heritage Hill for walkability to breweries and museums.",
+        "food": [
+          "Founders Brewing taproom",
+          "Brewery Vivant",
+          "Grand Rapids Public Market"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20GRR"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 197,
+      "priceHigh": 227,
+      "travelWindow": "Oct \u2013 mid Nov, JetBlue nonstop basic economy; $197 round trip on many Oct/Nov dates",
+      "airlines": [
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue nonstop round trip from $197 (basic economy, deal posts show up to $227); Cabrillo and Torrey Pines are in town, but fare tops today's range.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Cabrillo National Monument",
+          "drive": "25 min"
+        },
+        {
+          "name": "Torrey Pines State Natural Reserve",
+          "drive": "25 min"
+        },
+        {
+          "name": "Joshua Tree NP",
+          "drive": "2.5 h"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Walkable neighborhoods, easy trolley and bus links, hostels in the Gaslamp and Pacific Beach, and safe beach paths.",
+      "guide": {
+        "highlights": [
+          "Torrey Pines coastal trails",
+          "La Jolla Cove sea lions and kayaking",
+          "Balboa Park museums and gardens",
+          "Point Loma tide pools at Cabrillo"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Balboa Park, then Gaslamp dinner",
+          "Day 2 \u2014 Torrey Pines Beach Trail, La Jolla Cove snorkel, tacos in Pacific Beach",
+          "Day 3 \u2014 Cabrillo National Monument tide pools, Little Italy, fly home"
+        ],
+        "gettingAround": "Trolley and buses cover downtown and Old Town; rideshare or a rental car helps for Torrey Pines and Point Loma.",
+        "stayArea": "Gaslamp or Little Italy for transit and food; Pacific Beach for a hostel and beach scene.",
+        "food": [
+          "Tacos El Gordo",
+          "Mitch's Seafood (Point Loma)",
+          "Cafe Italia in Little Italy"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
