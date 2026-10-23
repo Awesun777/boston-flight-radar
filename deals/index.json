@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-22T05:24:36Z",
+  "generatedAt": "2026-10-23T04:50:47Z",
   "digests": [
+    {
+      "date": "2026-10-23",
+      "title": "Fort Lauderdale $96 holds, Grand Rapids $136",
+      "destinations": [
+        "FLL",
+        "TYS",
+        "GRR",
+        "AVL",
+        "SAN"
+      ]
+    },
     {
       "date": "2026-10-22",
       "title": "Fort Lauderdale $96 holds, Grand Rapids $176",
