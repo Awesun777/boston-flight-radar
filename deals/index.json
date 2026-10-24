@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-23T04:50:47Z",
+  "generatedAt": "2026-10-24T05:05:32Z",
   "digests": [
+    {
+      "date": "2026-10-24",
+      "title": "Fort Lauderdale $104, Knoxville $112",
+      "destinations": [
+        "FLL",
+        "TYS",
+        "GRR",
+        "AVL",
+        "SAN"
+      ]
+    },
     {
       "date": "2026-10-23",
       "title": "Fort Lauderdale $96 holds, Grand Rapids $136",
