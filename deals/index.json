@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-31T05:17:45Z",
+  "generatedAt": "2026-11-01T05:57:48Z",
   "digests": [
+    {
+      "date": "2026-11-01",
+      "title": "Fort Lauderdale $88, Asheville $118",
+      "destinations": [
+        "FLL",
+        "AVL",
+        "TYS",
+        "SRQ",
+        "DSM"
+      ]
+    },
     {
       "date": "2026-10-31",
       "title": "Fort Lauderdale $88, Knoxville $128",
