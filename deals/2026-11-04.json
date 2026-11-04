@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T05:51:11Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 88,
+      "priceHigh": 125,
+      "travelWindow": "Dec 2026 – Feb 2027, Allegiant nonstop; $44 one-way Jan 30, $46 Feb 7",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $44 (Jan 30), about $88–125 round trip; still the cheapest verified fare, and Everglades NP is ~1 h away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley)",
+          "drive": "1 h"
+        },
+        {
+          "name": "Biscayne NP",
+          "drive": "1 h 15 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Las Olas and beach strip, a cheap water taxi, and easy day trips without a long drive.",
+      "guide": {
+        "highlights": [
+          "Fort Lauderdale Beach promenade and Las Olas Boulevard",
+          "Water taxi along the Intracoastal and New River",
+          "Shark Valley tram and bike loop in Everglades NP",
+          "Hugh Taylor Birch State Park for a quiet beach-side walk"
+        ],
+        "itinerary": [
+          "Day 1 — Beach promenade, Las Olas lunch, water taxi at sunset",
+          "Day 2 — Everglades Shark Valley bike loop (rent a car or book a tour)",
+          "Day 3 — Birch State Park morning, then fly home"
+        ],
+        "gettingAround": "Water taxi and Brightline cover the core; a rental car only matters for the Everglades day.",
+        "stayArea": "Near Las Olas or the beach, walkable to food and the water taxi.",
+        "food": [
+          "Las Olas Boulevard cafes",
+          "Florida stone crab (in season)",
+          "Cuban bakeries for pastelitos"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 116,
+      "priceHigh": 160,
+      "travelWindow": "Dec 13 onward, Allegiant nonstop; $58 one-way Dec 13",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $58 (Dec 13), about $116–160 round trip; Great Smoky Mountains NP is ~45 min away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/View_atop_Cliff_Tops_on_Mount_LeConte%2C_GSMNP%2C_TN.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP",
+          "drive": "45 min–1 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact downtown, a free trolley, and Smokies day trips are simple with a rental car.",
+      "guide": {
+        "highlights": [
+          "Great Smoky Mountains NP: Gatlinburg entrance and Laurel Falls",
+          "Market Square and Old City downtown",
+          "Sunsphere observation deck",
+          "Urban Wilderness trails south of the river"
+        ],
+        "itinerary": [
+          "Day 1 — Market Square, Old City, Sunsphere",
+          "Day 2 — Smokies: Laurel Falls and Newfound Gap road",
+          "Day 3 — Urban Wilderness hike, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable with a free trolley; rent a car for the Smokies.",
+        "stayArea": "Downtown near Market Square for walkable food and nightlife.",
+        "food": [
+          "Market Square cafes",
+          "Tennessee barbecue",
+          "Old City breweries"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Des Moines, IA",
+      "airport": "DSM",
+      "priceLow": 126,
+      "priceHigh": 170,
+      "travelWindow": "Nov 20 out ($63 one-way), Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $63 (Nov 20), about $126–170 round trip; no national park nearby, but an easy solo city break.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg/3840px-Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [],
+      "soloScore": 3,
+      "soloWhy": "Small, safe downtown with free museums and connected skywalks for cold weather.",
+      "guide": {
+        "highlights": [
+          "Iowa State Capitol tour",
+          "Pappajohn Sculpture Park",
+          "Des Moines Art Center",
+          "East Village shops"
+        ],
+        "itinerary": [
+          "Day 1 — Capitol, East Village",
+          "Day 2 — Sculpture Park and Art Center",
+          "Day 3 — Botanical Garden, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable; a rideshare covers the Art Center.",
+        "stayArea": "Downtown or East Village.",
+        "food": [
+          "East Village restaurants",
+          "Western Gateway coffee shops",
+          "Iowa pork tenderloin sandwich"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DSM"
+    },
+    {
+      "rank": 4,
+      "destination": "Grand Rapids, MI",
+      "airport": "GRR",
+      "priceLow": 136,
+      "priceHigh": 185,
+      "travelWindow": "Dec 31, 2026, Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $68 (Dec 31), about $136–185 round trip; Lake Michigan dunes and Sleeping Bear Dunes are within reach by car.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Meyer_May_House.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Sleeping Bear Dunes National Lakeshore",
+          "drive": "2 h 15 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable downtown with a strong brewery and coffee scene and a short drive to the lakeshore.",
+      "guide": {
+        "highlights": [
+          "Frederik Meijer Gardens",
+          "Downtown breweries",
+          "Grand Rapids Art Museum",
+          "Lake Michigan beaches"
+        ],
+        "itinerary": [
+          "Day 1 — Downtown and brewery walk",
+          "Day 2 — Meijer Gardens",
+          "Day 3 — Lake Michigan day trip, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable; rent a car for the lakeshore.",
+        "stayArea": "Downtown near Rosa Parks Circle.",
+        "food": [
+          "Local craft breweries",
+          "Madcap Coffee",
+          "Wealthy Street restaurants"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20GRR"
+    },
+    {
+      "rank": 5,
+      "destination": "Asheville, NC",
+      "airport": "AVL",
+      "priceLow": 146,
+      "priceHigh": 215,
+      "travelWindow": "Dec 11 ($83) and Apr 26 ($73), Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $73 (Apr 26), about $146–215 round trip; Blue Ridge Parkway is 15 min away and the Smokies are 1 h 15 min.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Asheville%2C_North_Carolina.jpg/3840px-Asheville%2C_North_Carolina.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Blue Ridge Parkway",
+          "drive": "15 min"
+        },
+        {
+          "name": "Great Smoky Mountains NP",
+          "drive": "1 h 15 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Walkable downtown, hostels, and an easy mix of trails and cafes.",
+      "guide": {
+        "highlights": [
+          "Blue Ridge Parkway overlooks",
+          "Downtown and River Arts District",
+          "Biltmore Estate",
+          "Craggy Gardens hike"
+        ],
+        "itinerary": [
+          "Day 1 — Downtown and River Arts District",
+          "Day 2 — Parkway drive and Craggy Gardens",
+          "Day 3 — Biltmore or a Smokies trip, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable; a rental car opens up the Parkway.",
+        "stayArea": "Downtown or the River Arts District.",
+        "food": [
+          "Tupelo Honey",
+          "Local breweries",
+          "Biscuit shops"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AVL"
+    }
+  ]
+}
