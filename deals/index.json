@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-11T05:50:37Z",
+  "generatedAt": "2026-11-12T06:07:12Z",
   "digests": [
+    {
+      "date": "2026-11-12",
+      "title": "Fort Lauderdale $104, Sarasota $124",
+      "destinations": [
+        "FLL",
+        "SRQ",
+        "TYS",
+        "AVL",
+        "DSM"
+      ]
+    },
     {
       "date": "2026-11-11",
       "title": "Fort Lauderdale $90, Sarasota $124",
