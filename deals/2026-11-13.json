@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T05:53:11Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 122,
+      "priceHigh": 160,
+      "travelWindow": "Jan 17 ($61 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $61 (Jan 17), about $122\u2013160 round trip; still the cheapest BOS fare, with Everglades NP ~1 h away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley)",
+          "drive": "1 h"
+        },
+        {
+          "name": "Biscayne NP",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable beach and Las Olas districts, free water taxi-style transit options, and easy day trips south.",
+      "guide": {
+        "highlights": [
+          "Fort Lauderdale Beach promenade at sunrise",
+          "Las Olas Boulevard galleries and caf\u00e9s",
+          "Water Taxi ride along the Intracoastal and New River",
+          "Shark Valley tram and bike loop in Everglades NP",
+          "Hugh Taylor Birch State Park for a quiet shaded walk"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Beach promenade, Las Olas lunch, sunset water taxi",
+          "Day 2 \u2014 Drive to Shark Valley (Everglades NP), rent a bike for the 15-mile loop",
+          "Day 3 \u2014 Hugh Taylor Birch State Park, then Wilton Manors for brunch"
+        ],
+        "gettingAround": "A rental car is best for the Everglades; the beach and Las Olas area is walkable and the Water Taxi covers the waterways.",
+        "stayArea": "Near Las Olas / Beach area for walkability and hostel and budget hotel options.",
+        "food": [
+          "Cuban caf\u00e9s on Las Olas",
+          "Southport Raw Bar",
+          "Wilton Manors brunch spots"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Sarasota, FL",
+      "airport": "SRQ",
+      "priceLow": 124,
+      "priceHigh": 170,
+      "travelWindow": "Jan 25 ($62 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $62 (Jan 25), about $124\u2013170 round trip; Gulf beaches and Myakka River State Park nearby.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/3840px-Sarasota_Skyline.jpeg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=JhLV-RbNxCw",
+      "nearbyParks": [
+        {
+          "name": "Myakka River State Park",
+          "drive": "35 min"
+        },
+        {
+          "name": "Lido Key / Siesta Key beaches",
+          "drive": "20 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact downtown, free beach trolley options, and a safe, easygoing arts scene.",
+      "guide": {
+        "highlights": [
+          "Siesta Key's quartz-sand beach",
+          "Myakka Canopy Walkway",
+          "St. Armands Circle and Lido Key",
+          "Ringling Museum grounds",
+          "Downtown Sarasota farmers market (Saturdays)"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Siesta Key beach morning, downtown Main Street evening",
+          "Day 2 \u2014 Myakka River State Park canopy walk and airboat or kayak",
+          "Day 3 \u2014 Ringling grounds, then Lido Key sunset"
+        ],
+        "gettingAround": "Car recommended; the Siesta Key trolley and downtown are manageable without one for short stays.",
+        "stayArea": "Downtown Sarasota or Siesta Village for walkability and beach access.",
+        "food": [
+          "Main Street caf\u00e9s",
+          "Siesta Key beachfront grills",
+          "Saturday market vendors"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SRQ"
+    },
+    {
+      "rank": 3,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 146,
+      "priceHigh": 195,
+      "travelWindow": "Dec 31 ($73 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $73 (Dec 31), up from $68 yesterday, about $146\u2013195 round trip; Great Smoky Mountains NP is ~45 min away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP",
+          "drive": "45 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Market Square and Old City, cheap lodging, and the Smokies are an easy solo day trip.",
+      "guide": {
+        "highlights": [
+          "Market Square and Old City",
+          "Sunsphere at World's Fair Park",
+          "Ijams Nature Center trails",
+          "Sugarlands / Roaring Fork in the Smokies",
+          "Bike or walk the Knoxville Urban Wilderness"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Old City, Market Square, Sunsphere",
+          "Day 2 \u2014 Smokies day trip: Sugarlands Visitor Center and Roaring Fork",
+          "Day 3 \u2014 Ijams or Urban Wilderness trails before the flight"
+        ],
+        "gettingAround": "Rental car needed for the Smokies; downtown is walkable.",
+        "stayArea": "Downtown or Old City to walk to food and nightlife.",
+        "food": [
+          "Market Square caf\u00e9s",
+          "Old City bars and BBQ",
+          "Tennessee hot chicken spots"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 4,
+      "destination": "Des Moines, IA",
+      "airport": "DSM",
+      "priceLow": 176,
+      "priceHigh": 225,
+      "travelWindow": "Nov 20 ($88 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $88 (Nov 20), up from $81, about $176\u2013225 round trip; no national park but an easy solo city break.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg/3840px-Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [],
+      "soloScore": 3,
+      "soloWhy": "Very walkable downtown and East Village with cheap, low-key lodging.",
+      "guide": {
+        "highlights": [
+          "Iowa State Capitol tour",
+          "East Village shops and caf\u00e9s",
+          "Pappajohn Sculpture Park",
+          "Des Moines Art Center",
+          "Principal Riverwalk"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Capitol, East Village, riverwalk",
+          "Day 2 \u2014 Sculpture Park, Art Center, Gray's Lake loop",
+          "Day 3 \u2014 Saturday-style market stroll if timing allows, then depart"
+        ],
+        "gettingAround": "Downtown is walkable; use rideshare for the Art Center.",
+        "stayArea": "East Village or downtown for walkability.",
+        "food": [
+          "East Village caf\u00e9s",
+          "Iowa pork tenderloin sandwiches",
+          "Local craft breweries"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DSM"
+    },
+    {
+      "rank": 5,
+      "destination": "Grand Rapids, MI",
+      "airport": "GRR",
+      "priceLow": 184,
+      "priceHigh": 235,
+      "travelWindow": "Dec 31 ($92 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $92 (Dec 31), about $184\u2013235 round trip; Sleeping Bear Dunes within a car trip. Asheville dropped out: its in-window fare was not confirmed.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Meyer_May_House.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Sleeping Bear Dunes National Lakeshore",
+          "drive": "2 h 15 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable downtown with a strong brewery and coffee scene and a short drive to the lakeshore.",
+      "guide": {
+        "highlights": [
+          "Frederik Meijer Gardens",
+          "Downtown breweries",
+          "Grand Rapids Art Museum",
+          "Lake Michigan beaches"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown and brewery walk",
+          "Day 2 \u2014 Meijer Gardens",
+          "Day 3 \u2014 Lake Michigan day trip, then fly home"
+        ],
+        "gettingAround": "Downtown is walkable; rent a car for the lakeshore.",
+        "stayArea": "Downtown near Rosa Parks Circle.",
+        "food": [
+          "Local craft breweries",
+          "Madcap Coffee",
+          "Wealthy Street restaurants"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20GRR"
+    }
+  ]
+}
