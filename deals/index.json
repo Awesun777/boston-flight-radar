@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-13T05:53:11Z",
+  "generatedAt": "2026-11-14T05:50:58Z",
   "digests": [
+    {
+      "date": "2026-11-14",
+      "title": "Fort Lauderdale $120, Knoxville $128",
+      "destinations": [
+        "FLL",
+        "TYS",
+        "AVL",
+        "SRQ",
+        "DSM"
+      ]
+    },
     {
       "date": "2026-11-13",
       "title": "Fort Lauderdale $122, Sarasota $124",

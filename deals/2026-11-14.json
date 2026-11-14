@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T05:50:58Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Fort Lauderdale, FL",
+      "airport": "FLL",
+      "priceLow": 120,
+      "priceHigh": 160,
+      "travelWindow": "Feb 7 ($60 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $60 (Feb 7), about $120\u2013160 round trip, down from $122 yesterday; Everglades and Biscayne NPs within ~1 h.",
+      "nearbyParks": [
+        {
+          "name": "Everglades NP (Shark Valley)",
+          "drive": "1 h"
+        },
+        {
+          "name": "Biscayne NP",
+          "drive": "1.25 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Compact beach and Las Olas districts, Brightline and Tri-Rail for car-free day trips to Miami.",
+      "guide": {
+        "highlights": [
+          "Fort Lauderdale Beach promenade at A1A",
+          "Las Olas Boulevard shops and riverwalk",
+          "Water taxi along the Intracoastal",
+          "Shark Valley tram and bike loop in Everglades NP",
+          "Hugh Taylor Birch State Park"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Beach, A1A walk, sunset on Las Olas",
+          "Day 2 \u2014 Everglades Shark Valley bike loop (15 mi), airboat optional",
+          "Day 3 \u2014 Water taxi to Hollywood or Brightline to Miami's Wynwood, then depart"
+        ],
+        "gettingAround": "Rental car helps for the Everglades; otherwise Sun Trolley, water taxi and Brightline cover the coast.",
+        "stayArea": "Las Olas or Victoria Park for walkability and beach access via trolley.",
+        "food": [
+          "Pubbelly at Las Olas",
+          "Louie Bossi's",
+          "Cuban sandwiches at Rio Cafe"
+        ]
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/3840px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20FLL"
+    },
+    {
+      "rank": 2,
+      "destination": "Knoxville, TN",
+      "airport": "TYS",
+      "priceLow": 128,
+      "priceHigh": 175,
+      "travelWindow": "Dec 13 ($64 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way from $64 (Dec 13), about $128\u2013175 round trip, down from $146; Great Smoky Mountains NP ~45 min away.",
+      "nearbyParks": [
+        {
+          "name": "Great Smoky Mountains NP",
+          "drive": "45 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Market Square and Old City, free downtown trolley, easy Smokies day trip.",
+      "guide": {
+        "highlights": [
+          "Market Square and Old City",
+          "Sunsphere and World's Fair Park",
+          "Ijams Nature Center trails",
+          "Cades Cove loop in the Smokies",
+          "Alum Cave Trail to Mt. LeConte (winter ice check)"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Market Square, Old City, Sunsphere at dusk",
+          "Day 2 \u2014 Smokies via Gatlinburg entrance; Alum Cave Trail or Cades Cove",
+          "Day 3 \u2014 Ijams Nature Center and Knoxville Greenway, then depart"
+        ],
+        "gettingAround": "Rental car needed for the Smokies; downtown has a free trolley.",
+        "stayArea": "Downtown or Old City for walkable food and nightlife.",
+        "food": [
+          "Tomato Head",
+          "Pimentos Southern Bistro",
+          "Mast General Store candy counter"
+        ]
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Four-market-square-tn1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TYS"
+    },
+    {
+      "rank": 3,
+      "destination": "Asheville, NC",
+      "airport": "AVL",
+      "priceLow": 146,
+      "priceHigh": 190,
+      "travelWindow": "Dec 11 ($73 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $73 (Dec 11), about $146\u2013190 round trip, down from $160; boosted for Blue Ridge Parkway 15 min away and top solo-trip fit.",
+      "nearbyParks": [
+        {
+          "name": "Blue Ridge Parkway",
+          "drive": "15 min"
+        },
+        {
+          "name": "Great Smoky Mountains NP",
+          "drive": "1 h 15 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Walkable downtown, hostels, social brewery scene and trailheads minutes away.",
+      "guide": {
+        "highlights": [
+          "Blue Ridge Parkway overlooks (check winter closures)",
+          "River Arts District studios",
+          "Craggy Gardens and Craggy Pinnacle",
+          "Biltmore Estate Christmas season",
+          "Brewery row on Biltmore Ave and South Slope"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown, Pack Square, River Arts District murals",
+          "Day 2 \u2014 Parkway drive to Craggy Pinnacle, then Folk Art Center",
+          "Day 3 \u2014 Biltmore Estate or Max Patch if the road is open, then depart"
+        ],
+        "gettingAround": "Rental car for Parkway and trailheads; downtown is walkable. Parkway sections close in ice.",
+        "stayArea": "Downtown or the South Slope for walkability and breweries.",
+        "food": [
+          "Biscuit Head",
+          "C\u00farate tapas",
+          "Wicked Weed or Burial Beer"
+        ]
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Asheville%2C_North_Carolina.jpg/3840px-Asheville%2C_North_Carolina.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20AVL"
+    },
+    {
+      "rank": 4,
+      "destination": "Sarasota, FL",
+      "airport": "SRQ",
+      "priceLow": 140,
+      "priceHigh": 185,
+      "travelWindow": "Jan 25 ($70 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $70 (Jan 25), about $140\u2013185 round trip, up from $124; Siesta Key and Myakka River State Park nearby.",
+      "nearbyParks": [
+        {
+          "name": "Myakka River State Park",
+          "drive": "35 min"
+        },
+        {
+          "name": "Lido Key / Siesta Key beaches",
+          "drive": "20 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Safe, walkable downtown and Main Street, with beaches a short drive or bus ride away.",
+      "guide": {
+        "highlights": [
+          "Siesta Key Beach sunset",
+          "Myakka canopy walkway and airboat tour",
+          "Ringling Museum grounds",
+          "St. Armands Circle",
+          "Downtown farmers market (Saturdays)"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown, Marina Jack, sunset on Lido Key",
+          "Day 2 \u2014 Myakka River State Park, then Siesta Key",
+          "Day 3 \u2014 Ringling Museum and Ca' d'Zan, then depart"
+        ],
+        "gettingAround": "Car recommended; SCAT buses reach the beaches but run infrequently.",
+        "stayArea": "Downtown Sarasota near Main Street.",
+        "food": [
+          "Owen's Fish Camp",
+          "Mattison's City Grille",
+          "Duval's fresh seafood"
+        ]
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/3840px-Sarasota_Skyline.jpeg",
+      "imageCredit": "Wikimedia Commons",
+      "video": "https://www.youtube.com/watch?v=JhLV-RbNxCw",
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SRQ"
+    },
+    {
+      "rank": 5,
+      "destination": "Des Moines, IA",
+      "airport": "DSM",
+      "priceLow": 178,
+      "priceHigh": 225,
+      "travelWindow": "Nov 20 ($89 one-way); Allegiant",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Allegiant one-way $89 (Nov 20), about $178\u2013225 round trip, an inexpensive short-notice option; solo-friendly and walkable.",
+      "nearbyParks": [],
+      "soloScore": 3,
+      "soloWhy": "Compact skywalk-linked downtown with a trail network and a strong farmers market.",
+      "guide": {
+        "highlights": [
+          "Pappajohn Sculpture Park",
+          "Iowa State Capitol",
+          "Principal Riverwalk",
+          "Des Moines Art Center",
+          "East Village shops"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Sculpture Park, Capitol tour, East Village",
+          "Day 2 \u2014 Art Center and Gray's Lake loop",
+          "Day 3 \u2014 Brunch in the Western Gateway, then depart"
+        ],
+        "gettingAround": "Downtown is walkable; use rideshare or a short car rental for Gray's Lake.",
+        "stayArea": "East Village or downtown near the Principal Riverwalk.",
+        "food": [
+          "Gusto Pizza",
+          "Zombie Burger",
+          "Mama's Tacos"
+        ]
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg/3840px-Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DSM"
+    }
+  ]
+}
