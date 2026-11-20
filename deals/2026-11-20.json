@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T05:50:56Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Orlando Sanford, FL",
+      "airport": "SFB",
+      "priceLow": 98,
+      "priceHigh": 160,
+      "travelWindow": "Feb 13 \u2013 Apr 24, 2027 (new Allegiant route; intro one-way from $49)",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Repeat from Nov 18 (no fresh price change found): Allegiant intro fares from $49 one-way (about $98+ round trip) on new BOS\u2013SFB nonstop starting Feb 13, 2027; Wekiwa Springs and Ocala NF within ~1 h.",
+      "nearbyParks": [
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "25 min"
+        },
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Cheap base for Orlando and the Space Coast, but SFB is a small airport and a car is practically required.",
+      "guide": {
+        "highlights": [
+          "Wekiwa Springs spring swim and paddling",
+          "Canaveral National Seashore (Playalinda Beach)",
+          "Historic downtown Sanford riverwalk",
+          "Blue Spring State Park manatees (winter)"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Downtown Sanford riverwalk, Lake Monroe sunset",
+          "Day 2 \u2014 Blue Spring State Park manatees, then Wekiwa Springs paddle",
+          "Day 3 \u2014 Canaveral National Seashore morning, then depart"
+        ],
+        "gettingAround": "Rental car needed; SFB is ~35 min from Orlando proper.",
+        "stayArea": "Downtown Sanford for walkable dining near the riverfront.",
+        "food": [
+          "Funkadelic Pizza (downtown Sanford)",
+          "Hollerbach's Willow Tree Cafe"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SFB",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/City_Hall_Sign.jpg",
+      "imageCredit": "Wikimedia Commons"
+    },
+    {
+      "rank": 2,
+      "destination": "Punta Gorda, FL",
+      "airport": "PGD",
+      "priceLow": 98,
+      "priceHigh": 160,
+      "travelWindow": "Feb 13 \u2013 Apr 24, 2027 (new Allegiant route; intro one-way from $49)",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Repeat from Nov 18 (no fresh price change found): New Allegiant BOS\u2013PGD nonstop from Feb 13, 2027 with intro one-way from $49; Myakka River State Park ~40 min and Everglades gateway region nearby.",
+      "nearbyParks": [
+        {
+          "name": "Myakka River State Park",
+          "drive": "45 min"
+        },
+        {
+          "name": "Charlotte Harbor Preserve State Park",
+          "drive": "20 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Small, walkable harbor town with a bike-friendly Harborwalk; quiet rather than social.",
+      "guide": {
+        "highlights": [
+          "Punta Gorda Harborwalk and Fishermen's Village",
+          "Myakka River canopy walkway and boat tour",
+          "Boca Grande day trip via Gasparilla Island",
+          "Peace River kayaking"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Harborwalk, sunset at Laishley Park",
+          "Day 2 \u2014 Myakka River State Park canopy walkway and airboat tour",
+          "Day 3 \u2014 Kayak the Peace River, then depart"
+        ],
+        "gettingAround": "Rental car for parks and beaches; downtown is walkable.",
+        "stayArea": "Historic downtown near Harborwalk.",
+        "food": [
+          "Fishermen's Village waterfront restaurants",
+          "Sunseeker-area seafood spots (check current hours)"
+        ]
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trail_in_Myakka_River_State_Park.jpg/3840px-Trail_in_Myakka_River_State_Park.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20PGD"
+    },
+    {
+      "rank": 3,
+      "destination": "St. Petersburg, FL",
+      "airport": "PIE",
+      "priceLow": 98,
+      "priceHigh": 170,
+      "travelWindow": "Feb 13 \u2013 Apr 24, 2027 (new Allegiant route; intro one-way from $49)",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Repeat from Nov 18 (no fresh price change found): New Allegiant BOS\u2013PIE nonstop from Feb 13, 2027 with intro one-way from $49; walkable and arts-rich, with Fort De Soto and Egmont Key nearby.",
+      "nearbyParks": [
+        {
+          "name": "Fort De Soto Park",
+          "drive": "35 min"
+        },
+        {
+          "name": "Egmont Key State Park",
+          "drive": "ferry from Fort De Soto"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "One of Florida's most walkable downtowns with museums, a pier and a waterfront trail, easy to do solo without a car.",
+      "guide": {
+        "highlights": [
+          "St. Pete Pier and Waterfront Trail",
+          "Dal\u00ed Museum",
+          "Central Ave murals and Warehouse Arts District",
+          "Fort De Soto beaches and bike trails"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 St. Pete Pier, Dal\u00ed Museum, Central Ave",
+          "Day 2 \u2014 Fort De Soto Park by bike or car; Egmont Key ferry",
+          "Day 3 \u2014 Warehouse Arts District murals, then depart"
+        ],
+        "gettingAround": "Downtown is walkable with free Looper trolley and scooters; car helpful for Fort De Soto.",
+        "stayArea": "Downtown waterfront near the Pier.",
+        "food": [
+          "Bodega on Central",
+          "Doctor BBQ (check hours)",
+          "Ceviche Tapas Bar"
+        ]
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Pete_Pier_-_East.jpg/3840px-St._Pete_Pier_-_East.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20PIE"
+    },
+    {
+      "rank": 4,
+      "destination": "Savannah, GA",
+      "airport": "SAV",
+      "priceLow": 193,
+      "priceHigh": 245,
+      "travelWindow": "Jan 5 \u2013 Feb 3, 2027 (Tue/Wed-heavy departures; fare posted Oct 13, may have aged)",
+      "airlines": [
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "$193 RT nonstop on JetBlue (Slickdeals, Oct 13 post; $199 on JetBlue direct) for Jan 2027; Savannah is one of the most walkable, safe solo cities in the South, with Tybee Island and Wormsloe nearby.",
+      "nearbyParks": [
+        {
+          "name": "Fort Pulaski National Monument",
+          "drive": "20 min"
+        },
+        {
+          "name": "Skidaway Island State Park",
+          "drive": "25 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Compact historic squares are walkable and safe, with hostels and free DOT shuttle; easy day trips to Tybee.",
+      "guide": {
+        "highlights": [
+          "Forsyth Park and the 22 historic squares",
+          "Fort Pulaski National Monument",
+          "Tybee Island lighthouse and beach",
+          "Wormsloe Historic Site oak avenue"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Walk the squares from Forsyth Park to River Street; Savannah Historic District",
+          "Day 2 \u2014 Fort Pulaski in the morning, Tybee Island beach and lighthouse after",
+          "Day 3 \u2014 Wormsloe oak avenue, Telfair Museums, then depart"
+        ],
+        "gettingAround": "Downtown is walkable and the free DOT shuttle covers the core; rent a car or rideshare for Tybee and Wormsloe.",
+        "stayArea": "Historic District near Forsyth Park for walkability and dining.",
+        "food": [
+          "Mrs. Wilkes' Dining Room (family-style Southern lunch)",
+          "Leopold's Ice Cream",
+          "The Collins Quarter"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAV",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Savannah.tif/lossy-page1-3840px-Savannah.tif.jpg",
+      "imageCredit": "Wikimedia Commons"
+    }
+  ]
+}
