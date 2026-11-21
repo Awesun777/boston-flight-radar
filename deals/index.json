@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-20T05:50:56Z",
+  "generatedAt": "2026-11-21T05:51:13Z",
   "digests": [
+    {
+      "date": "2026-11-21",
+      "title": "Savannah $193, Southwest winter fares",
+      "destinations": [
+        "SFB",
+        "SAV",
+        "JAX",
+        "SAN",
+        "BNA"
+      ]
+    },
     {
       "date": "2026-11-20",
       "title": "Savannah $193, Allegiant Florida $98",

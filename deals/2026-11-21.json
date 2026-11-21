@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T05:51:13Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Orlando Sanford, FL",
+      "airport": "SFB",
+      "priceLow": 98,
+      "priceHigh": 160,
+      "travelWindow": "Feb 13 – Apr 24, 2027 (new Allegiant route; intro one-way from $49)",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Still the cheapest verified fare (~$98 RT from Allegiant's Nov launch pricing, carried over); Canaveral National Seashore is ~50 min away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Canaveral_National_Seashore.jpg/3840px-Canaveral_National_Seashore.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "50 min"
+        },
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "25 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Cheap and easy with a rental car, but SFB is outside Orlando proper; best for beach and springs days rather than nightlife.",
+      "guide": {
+        "highlights": [
+          "Canaveral National Seashore: Playalinda Beach and Turtle Mound",
+          "Wekiwa Springs: swim or paddle the 72°F spring",
+          "Merritt Island NWR Black Point Wildlife Drive for birds and manatees",
+          "Winter Park Scenic Boat Tour and Park Avenue"
+        ],
+        "itinerary": [
+          "Day 1 — Land at SFB, drive to Wekiwa Springs for a paddle, evening in Winter Park",
+          "Day 2 — Black Point Wildlife Drive at Merritt Island, then Playalinda Beach at sunset",
+          "Day 3 — Slow morning in downtown Sanford on the Riverwalk, fly out"
+        ],
+        "gettingAround": "Rent a car; SFB has limited transit and the seashore has no public transport.",
+        "stayArea": "Downtown Sanford (walkable riverfront, cheap) or Winter Park for more dining.",
+        "food": [
+          "Hollerbach's Willow Tree Café (Sanford, German)",
+          "Prato (Winter Park, Italian)",
+          "Tomoka-area fish camps for fresh Gulf-style seafood"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SFB"
+    },
+    {
+      "rank": 2,
+      "destination": "Savannah, GA",
+      "airport": "SAV",
+      "priceLow": 193,
+      "priceHigh": 245,
+      "travelWindow": "Jan 5 – Feb 3, 2027, Tue/Wed departures (fare posted Oct 13; may have aged)",
+      "airlines": [
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "$193 RT nonstop on JetBlue per a Slickdeals post (aged); walkable historic city with Tybee Island and Wormsloe nearby.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Savannah.tif/lossy-page1-3840px-Savannah.tif.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Fort Pulaski National Monument",
+          "drive": "25 min"
+        },
+        {
+          "name": "Skidaway Island State Park",
+          "drive": "25 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Compact, walkable squares, safe downtown and easy day trips make it one of the easiest solo cities.",
+      "guide": {
+        "highlights": [
+          "Forsyth Park and the 22 historic squares",
+          "Fort Pulaski National Monument",
+          "Wormsloe oak avenue",
+          "Tybee Island lighthouse and beach"
+        ],
+        "itinerary": [
+          "Day 1 — Walk the squares, Forsyth Park, Bonaventure Cemetery",
+          "Day 2 — Fort Pulaski morning, Tybee Island afternoon",
+          "Day 3 — River Street and Cathedral of St. John, depart"
+        ],
+        "gettingAround": "Walk downtown; the free DOT shuttle covers the historic district; rent a car or rideshare for Tybee.",
+        "stayArea": "Historic District near Forsyth Park for walkability.",
+        "food": [
+          "Mrs. Wilkes' Dining Room (lunch only)",
+          "Leopold's Ice Cream",
+          "The Collins Quarter brunch"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAV"
+    },
+    {
+      "rank": 3,
+      "destination": "Jacksonville, FL",
+      "airport": "JAX",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Jan 2027 (Southwest one-way $100 seen for Jan 18)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest lists $100 one-way Basic (RT estimated ~2×; verify); Timucuan Preserve and Amelia Island are close.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/3840px-Jacksonville_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Timucuan Ecological & Historic Preserve",
+          "drive": "30 min"
+        },
+        {
+          "name": "Big Talbot Island State Park",
+          "drive": "35 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Beaches and parks are great solo, though the city is spread out and car-dependent.",
+      "guide": {
+        "highlights": [
+          "Fort Caroline and Kingsley Plantation in Timucuan Preserve",
+          "Big Talbot Island's Boneyard Beach",
+          "Riverside/Five Points murals",
+          "Jacksonville Beach pier"
+        ],
+        "itinerary": [
+          "Day 1 — Riverside, Five Points, Riverwalk",
+          "Day 2 — Kingsley Plantation, Boneyard Beach, Amelia Island",
+          "Day 3 — Jacksonville Beach morning, depart"
+        ],
+        "gettingAround": "Rent a car; downtown has the Skyway but little else.",
+        "stayArea": "Riverside/Avondale for walkable food and bars.",
+        "food": [
+          "Bold City Brewery",
+          "Bellwether (Riverside)",
+          "Singleton's Seafood Shack"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20JAX"
+    },
+    {
+      "rank": 4,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 218,
+      "priceHigh": 290,
+      "travelWindow": "Jan 2027 (Southwest one-way $109 seen for Jan 5)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest shows $109 one-way Basic (RT estimated ~2×; verify); Cabrillo National Monument in town and Joshua Tree ~2.5 h away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Cabrillo National Monument",
+          "drive": "25 min"
+        },
+        {
+          "name": "Joshua Tree NP",
+          "drive": "2.5 h"
+        },
+        {
+          "name": "Torrey Pines State Natural Reserve",
+          "drive": "25 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Mild January weather, hostels and trolley access to beaches, plus easy hiking.",
+      "guide": {
+        "highlights": [
+          "Torrey Pines coastal trails",
+          "Cabrillo tide pools",
+          "Balboa Park museums",
+          "La Jolla cove sea lions"
+        ],
+        "itinerary": [
+          "Day 1 — Balboa Park and Gaslamp",
+          "Day 2 — Torrey Pines and La Jolla",
+          "Day 3 — Cabrillo and Point Loma, depart"
+        ],
+        "gettingAround": "Trolley and buses cover downtown; rent a car for Torrey Pines or Joshua Tree.",
+        "stayArea": "Downtown/Little Italy, near the airport and trolley.",
+        "food": [
+          "Mission Beach fish tacos",
+          "Little Italy Mercato",
+          "Hodad's (Ocean Beach)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    },
+    {
+      "rank": 5,
+      "destination": "Nashville, TN",
+      "airport": "BNA",
+      "priceLow": 240,
+      "priceHigh": 300,
+      "travelWindow": "Dec 2026 – Mar 2027 (Southwest one-way $120 seen for Jan 9; Nov 2 sale at $129 has expired)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest one-way $120 Basic (RT estimated ~2×; verify); Mammoth Cave NP is ~1.5 h and live music is great solo.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Nashville_from_Cumberland_River_September_2026_005.jpg/3840px-Nashville_from_Cumberland_River_September_2026_005.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Mammoth Cave NP",
+          "drive": "1.5 h"
+        },
+        {
+          "name": "Natchez Trace Parkway",
+          "drive": "30 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Live music is built for solo visitors and bars and counters are easy seats-for-one.",
+      "guide": {
+        "highlights": [
+          "Honky-tonks on Broadway",
+          "Station Inn bluegrass",
+          "Mammoth Cave tours",
+          "Centennial Park Parthenon"
+        ],
+        "itinerary": [
+          "Day 1 — Broadway and the Ryman",
+          "Day 2 — East Nashville and Station Inn",
+          "Day 3 — Natchez Trace or Mammoth Cave"
+        ],
+        "gettingAround": "Rideshare in the core; rent a car for Mammoth Cave.",
+        "stayArea": "The Gulch or East Nashville.",
+        "food": [
+          "Hattie B's hot chicken",
+          "Monell's (Germantown)",
+          "Biscuit Love"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BNA"
+    }
+  ]
+}
