@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T07:21:01Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Orlando Sanford, FL",
+      "airport": "SFB",
+      "priceLow": 98,
+      "priceHigh": 160,
+      "travelWindow": "Feb 13 \u2013 Apr 24, 2027 (new Allegiant route; intro one-way from $49)",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Still the cheapest verified fare (~$98 RT from Allegiant's Nov launch pricing, carried over from earlier digests; verify); Canaveral National Seashore is ~50 min away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Canaveral_National_Seashore.jpg/3840px-Canaveral_National_Seashore.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "50 min"
+        },
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "25 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Cheap and easy with a rental car, but SFB is outside Orlando proper; best for beach and springs days rather than nightlife.",
+      "guide": {
+        "highlights": [
+          "Canaveral National Seashore: Playalinda Beach and Turtle Mound",
+          "Wekiwa Springs: swim or paddle the 72\u00b0F spring",
+          "Merritt Island NWR Black Point Wildlife Drive for birds and manatees",
+          "Winter Park Scenic Boat Tour and Park Avenue"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Land at SFB, drive to Wekiwa Springs for a paddle, evening in Winter Park",
+          "Day 2 \u2014 Black Point Wildlife Drive at Merritt Island, then Playalinda Beach at sunset",
+          "Day 3 \u2014 Slow morning in downtown Sanford on the Riverwalk, fly out"
+        ],
+        "gettingAround": "Rent a car; SFB has limited transit and the seashore has no public transport.",
+        "stayArea": "Downtown Sanford (walkable riverfront, cheap) or Winter Park for more dining.",
+        "food": [
+          "Hollerbach's Willow Tree Caf\u00e9 (Sanford, German)",
+          "Prato (Winter Park, Italian)",
+          "Tomoka-area fish camps for fresh Gulf-style seafood"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SFB"
+    },
+    {
+      "rank": 2,
+      "destination": "Baltimore, MD",
+      "airport": "BWI",
+      "priceLow": 158,
+      "priceHigh": 220,
+      "travelWindow": "Feb 2027 (Southwest one-way $79 seen for Feb 9)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest lists $79 one-way Basic (RT estimated ~2x; verify); Fort McHenry and Patapsco Valley SP are close, DC is a train ride away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Fort McHenry National Monument",
+          "drive": "20 min"
+        },
+        {
+          "name": "Patapsco Valley State Park",
+          "drive": "20 min"
+        },
+        {
+          "name": "Assateague Island National Seashore",
+          "drive": "3 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable harbor neighborhoods, cheap eats, and MARC/Amtrak make Washington an easy day trip.",
+      "guide": {
+        "highlights": [
+          "Fort McHenry, birthplace of the national anthem",
+          "Fell's Point waterfront and pubs",
+          "Patapsco Valley's Avalon/Orange Grove trails",
+          "Lexington Market and the Walters Art Museum (free)"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Inner Harbor, Fell's Point, Canton waterfront",
+          "Day 2 \u2014 Fort McHenry morning, Walters Art Museum, Hampden",
+          "Day 3 \u2014 Patapsco hike or MARC train to DC, depart"
+        ],
+        "gettingAround": "Light rail runs BWI to downtown; the free Charm City Circulator and water taxi cover the core.",
+        "stayArea": "Fell's Point or Federal Hill for walkable food and nightlife.",
+        "food": [
+          "Faidley's crab cakes (Lexington Market)",
+          "Thames Street Oyster House",
+          "Ceremony Coffee"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BWI"
+    },
+    {
+      "rank": 3,
+      "destination": "Jacksonville, FL",
+      "airport": "JAX",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Jan 2027 (Southwest one-way $100 seen for Jan 6)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest lists $100 one-way Basic for Jan 6 (RT estimated ~2x; verify); Timucuan Preserve and Amelia Island are close.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/3840px-Jacksonville_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Timucuan Ecological & Historic Preserve",
+          "drive": "30 min"
+        },
+        {
+          "name": "Big Talbot Island State Park",
+          "drive": "35 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Beaches and parks are great solo, though the city is spread out and car-dependent.",
+      "guide": {
+        "highlights": [
+          "Fort Caroline and Kingsley Plantation in Timucuan Preserve",
+          "Big Talbot Island's Boneyard Beach",
+          "Riverside/Five Points murals",
+          "Jacksonville Beach pier"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Riverside Arts Market area, Five Points, Riverwalk",
+          "Day 2 \u2014 Kingsley Plantation, Boneyard Beach, Fernandina Beach",
+          "Day 3 \u2014 Jacksonville Beach morning, depart"
+        ],
+        "gettingAround": "Rent a car; downtown has the Skyway but little else.",
+        "stayArea": "Riverside/Avondale for walkable food and bars.",
+        "food": [
+          "Bold City Brewery",
+          "Bellwether (Riverside)",
+          "Singleton's Seafood Shack"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20JAX"
+    },
+    {
+      "rank": 4,
+      "destination": "Orlando, FL",
+      "airport": "MCO",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Jan 2027 (Southwest one-way $100 seen for Jan 25)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest lists $100 one-way Basic (RT estimated ~2x; verify); Canaveral National Seashore ~1 h and Wekiwa Springs ~35 min away.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Orlando%2C_Florida_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "1 h"
+        },
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "35 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Easy nonstop and plenty of lodging, but best outside the theme parks with a rental car.",
+      "guide": {
+        "highlights": [
+          "Wekiwa Springs swimming and kayaking",
+          "Canaveral National Seashore's Apollo Beach",
+          "Lake Eola and Thornton Park",
+          "Mills 50 food district"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Lake Eola, Thornton Park, Mills 50 dinner",
+          "Day 2 \u2014 Wekiwa Springs paddle, Winter Park boat tour",
+          "Day 3 \u2014 Apollo Beach at Canaveral, depart"
+        ],
+        "gettingAround": "Rent a car for springs and beaches; SunRail covers downtown to Winter Park.",
+        "stayArea": "Thornton Park or Mills 50 for walkable food.",
+        "food": [
+          "Pho 88 (Mills 50)",
+          "Sak Comedy Lab area cafes",
+          "The Strand (Winter Park)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO"
+    },
+    {
+      "rank": 5,
+      "destination": "Myrtle Beach, SC",
+      "airport": "MYR",
+      "priceLow": 220,
+      "priceHigh": 290,
+      "travelWindow": "Jan 2027 (Southwest one-way $110 seen for Jan 15)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest lists $110 one-way Basic (RT estimated ~2x; verify); Huntington Beach SP and Waccamaw wildlife refuge are close.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/BroadwayAtTheBeach1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Huntington Beach State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Myrtle Beach State Park",
+          "drive": "15 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Quiet, cheap off-season beaches and boardwalk; car needed for the best nature stops.",
+      "guide": {
+        "highlights": [
+          "Huntington Beach SP's Atalaya Castle and marsh boardwalk",
+          "Brookgreen Gardens",
+          "Myrtle Beach Boardwalk walk",
+          "Murrells Inlet MarshWalk"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Boardwalk and beach, Myrtle Beach SP",
+          "Day 2 \u2014 Huntington Beach SP and Brookgreen Gardens",
+          "Day 3 \u2014 Murrells Inlet MarshWalk brunch, depart"
+        ],
+        "gettingAround": "Rent a car; transit is minimal.",
+        "stayArea": "Near Myrtle Beach SP or Murrells Inlet for quieter off-season stays.",
+        "food": [
+          "Hog Heaven BBQ",
+          "Drunken Jack's (Murrells Inlet)",
+          "Croissants Bistro"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MYR"
+    }
+  ]
+}

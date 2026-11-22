@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-21T05:51:13Z",
+  "generatedAt": "2026-11-22T07:21:01Z",
   "digests": [
+    {
+      "date": "2026-11-22",
+      "title": "Baltimore $79 one-way, Southwest Jan fares",
+      "destinations": [
+        "SFB",
+        "BWI",
+        "JAX",
+        "MCO",
+        "MYR"
+      ]
+    },
     {
       "date": "2026-11-21",
       "title": "Savannah $193, Southwest winter fares",
