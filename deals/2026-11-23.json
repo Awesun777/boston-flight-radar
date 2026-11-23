@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T05:52:04Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Orlando Sanford, FL",
+      "airport": "SFB",
+      "priceLow": 98,
+      "priceHigh": 160,
+      "travelWindow": "Feb 13 \u2013 Apr 24, 2027 (new Allegiant route; intro one-way from $49)",
+      "airlines": [
+        "Allegiant"
+      ],
+      "nonstop": true,
+      "whyRanked": "Still the cheapest fare on record (~$98 RT from Allegiant's Nov launch pricing, carried over; not re-confirmed today); Canaveral National Seashore ~50 min away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Canaveral_National_Seashore.jpg/3840px-Canaveral_National_Seashore.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "50 min"
+        },
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "25 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Cheap and easy with a rental car, but SFB is outside Orlando proper; best for beach and springs days rather than nightlife.",
+      "guide": {
+        "highlights": [
+          "Canaveral National Seashore: Apollo Beach and Turtle Mound",
+          "Blue Spring State Park manatee season (Nov\u2013Mar)",
+          "Lake Mary and Sanford Riverwalk for easy evenings",
+          "Kayaking the St. Johns River at Lake Monroe"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Land at SFB, Sanford Riverwalk and sunset on Lake Monroe",
+          "Day 2 \u2014 Blue Spring State Park for manatees, afternoon Winter Park boat tour",
+          "Day 3 \u2014 Apollo Beach sunrise at Canaveral, fly out"
+        ],
+        "gettingAround": "Rental car is essential; SFB is small and the parks are not on transit.",
+        "stayArea": "Historic downtown Sanford for walkability and budget lodging.",
+        "food": [
+          "Foxtail Coffee (Sanford)",
+          "Colony Bar-B-Que",
+          "Orlando area fish camps near Lake Monroe"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SFB"
+    },
+    {
+      "rank": 2,
+      "destination": "Baltimore, MD",
+      "airport": "BWI",
+      "priceLow": 158,
+      "priceHigh": 220,
+      "travelWindow": "Feb 2027 (Southwest one-way $79 seen for Feb 9)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $79 one-way Basic for Feb 9 seen on its BOS page within 24 h (RT est. ~2x; verify); Fort McHenry and DC day trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Fort McHenry National Monument",
+          "drive": "20 min"
+        },
+        {
+          "name": "Patapsco Valley State Park",
+          "drive": "20 min"
+        },
+        {
+          "name": "Assateague Island National Seashore",
+          "drive": "3 h"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable harbor neighborhoods, cheap eats, and MARC/Amtrak make Washington an easy day trip.",
+      "guide": {
+        "highlights": [
+          "Fort McHenry at dawn",
+          "Fell's Point pubs and cobblestones",
+          "Day trip to Washington on MARC",
+          "Hampden's 36th Street shops"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Harbor Point walk, Federal Hill views, dinner in Canton",
+          "Day 2 \u2014 MARC to DC: National Mall museums",
+          "Day 3 \u2014 Patapsco Avalon trails, depart"
+        ],
+        "gettingAround": "Light rail from BWI to downtown; MARC/Amtrak for DC.",
+        "stayArea": "Federal Hill for walkable cheap eats.",
+        "food": [
+          "Berger cookies at Fells Point shops",
+          "Woodberry Kitchen",
+          "Attman's-style deli lunches"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20BWI"
+    },
+    {
+      "rank": 3,
+      "destination": "Jacksonville, FL",
+      "airport": "JAX",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Jan 2027 (Southwest one-way $100 seen for Jan 6)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $100 one-way Basic for Jan 6 seen within 24 h (RT est. ~2x; verify); Timucuan Preserve minutes away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/3840px-Jacksonville_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Timucuan Ecological & Historic Preserve",
+          "drive": "30 min"
+        },
+        {
+          "name": "Big Talbot Island State Park",
+          "drive": "35 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Beaches and parks are great solo, though the city is spread out and car-dependent.",
+      "guide": {
+        "highlights": [
+          "Kingsley Plantation history",
+          "Little Talbot Island State Park dunes",
+          "Fernandina Beach old town",
+          "Riverwalk and Southbank"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 San Marco and Riverwalk",
+          "Day 2 \u2014 Fernandina Beach and Little Talbot Island",
+          "Day 3 \u2014 Neptune Beach breakfast, depart"
+        ],
+        "gettingAround": "Rent a car; beaches and parks are spread out.",
+        "stayArea": "San Marco or Neptune Beach.",
+        "food": [
+          "Black Sheep (Five Points)",
+          "Safe Harbor Seafood",
+          "Maple Street Biscuit Co."
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20JAX"
+    },
+    {
+      "rank": 4,
+      "destination": "Myrtle Beach, SC",
+      "airport": "MYR",
+      "priceLow": 220,
+      "priceHigh": 290,
+      "travelWindow": "Jan 2027 (Southwest one-way $110 seen for Jan 15)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $110 one-way Basic for Jan 15 seen within 24 h (RT est. ~2x; verify); quiet off-season beaches and Huntington Beach SP.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/BroadwayAtTheBeach1.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Huntington Beach State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Myrtle Beach State Park",
+          "drive": "15 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Quiet, cheap off-season beaches and boardwalk; car needed for the best nature stops.",
+      "guide": {
+        "highlights": [
+          "Huntington Beach State Park and Atalaya Castle",
+          "Murrells Inlet MarshWalk",
+          "Brookgreen Gardens sculpture",
+          "Quiet winter Grand Strand beaches"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Murrells Inlet MarshWalk at sunset",
+          "Day 2 \u2014 Huntington Beach SP, Brookgreen Gardens",
+          "Day 3 \u2014 Boardwalk stroll, depart"
+        ],
+        "gettingAround": "Car recommended; limited transit.",
+        "stayArea": "Murrells Inlet or north Myrtle Beach.",
+        "food": [
+          "Drunken Jack's (Murrells Inlet)",
+          "Hot Fish Club",
+          "Local Calabash seafood spots"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MYR"
+    },
+    {
+      "rank": 5,
+      "destination": "Tampa, FL",
+      "airport": "TPA",
+      "priceLow": 230,
+      "priceHigh": 300,
+      "travelWindow": "Jan 2027 (Southwest one-way $115 seen for Jan 9)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $115 one-way Basic for Jan 9 seen within 24 h (RT est. ~2x; verify); Gulf beaches and Hillsborough River SP nearby.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/3840px-Downtown_Tampa%2C_Florida.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Hillsborough River State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Fort De Soto Park",
+          "drive": "50 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Riverwalk and Ybor City, easy beach day trips.",
+      "guide": {
+        "highlights": [
+          "Tampa Riverwalk and Armature Works",
+          "Ybor City historic district",
+          "Fort De Soto beaches",
+          "Hillsborough River rapids trail"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Riverwalk and Armature Works",
+          "Day 2 \u2014 Fort De Soto Park beach day",
+          "Day 3 \u2014 Ybor City and Columbia Restaurant, depart"
+        ],
+        "gettingAround": "TECO streetcar covers downtown/Ybor; rent a car for beaches.",
+        "stayArea": "Downtown/Channelside or Ybor City.",
+        "food": [
+          "Columbia Restaurant (Ybor)",
+          "Cuban sandwiches at La Segunda Bakery",
+          "Armature Works food hall"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20TPA"
+    }
+  ]
+}
