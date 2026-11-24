@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T05:51:12Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 158,
+      "priceHigh": 230,
+      "travelWindow": "Dec 30 \u2013 Feb 2027 (JetBlue one-way $79 seen for Jan 5 and Jan 30)",
+      "airlines": [
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $79 one-way seen within 24 h on its BOS page (RT est. ~2x; verify); National Mall and Rock Creek Park in town.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "National Mall & Memorial Parks",
+          "drive": "In city"
+        },
+        {
+          "name": "Rock Creek Park",
+          "drive": "20 min"
+        },
+        {
+          "name": "Great Falls Park",
+          "drive": "30 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Compact, Metro-connected, free Smithsonian museums and plenty of hostels and solo-friendly cafes.",
+      "guide": {
+        "highlights": [
+          "Lincoln Memorial and MLK Memorial at dusk",
+          "Smithsonian museums (free): Air and Space, American History",
+          "Rock Creek Park trails",
+          "Georgetown C&O Canal towpath"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Fly into DCA, Metro to the Mall, monuments walk at sunset",
+          "Day 2 \u2014 Smithsonian morning, Eastern Market lunch, Capitol Hill stroll",
+          "Day 3 \u2014 C&O Canal towpath in Georgetown, depart"
+        ],
+        "gettingAround": "DCA has its own Metro stop; the Metro plus walking covers everything, no car needed.",
+        "stayArea": "Dupont Circle or Capitol Hill for Metro access and walkable dining.",
+        "food": [
+          "Eastern Market (Capitol Hill)",
+          "Ben's Chili Bowl (U Street)",
+          "Founding Farmers"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 2,
+      "destination": "Orlando, FL",
+      "airport": "MCO",
+      "priceLow": 182,
+      "priceHigh": 260,
+      "travelWindow": "Jan 12 \u2013 Feb 2027 (JetBlue one-way $91 for Jan 12; Southwest $100 for Jan 19)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $91 and Southwest $100 one-way seen within 24 h (RT est. ~2x; verify); Wekiwa Springs and Canaveral Seashore within an hour.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando%2C_Florida_%28cropped%29.jpg/3840px-Orlando%2C_Florida_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "1 h"
+        },
+        {
+          "name": "Blue Spring State Park",
+          "drive": "45 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Great hub for springs and beaches with a rental car; the theme-park core is less solo-oriented.",
+      "guide": {
+        "highlights": [
+          "Blue Spring State Park manatees (Nov\u2013Mar)",
+          "Wekiwa Springs swimming and paddling",
+          "Winter Park chain of lakes boat tour",
+          "Lake Eola and Thornton Park"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Land, Lake Eola and Thornton Park dinner",
+          "Day 2 \u2014 Blue Spring manatees, Winter Park Scenic Boat Tour",
+          "Day 3 \u2014 Wekiwa Springs paddle, depart"
+        ],
+        "gettingAround": "Rent a car; parks and springs are not on transit.",
+        "stayArea": "Thornton Park or Winter Park for walkable cafes.",
+        "food": [
+          "Hawkers Asian Street Fare",
+          "The Strand (Thornton Park)",
+          "Briarpatch Restaurant (Winter Park)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO"
+    },
+    {
+      "rank": 3,
+      "destination": "San Juan, PR",
+      "airport": "SJU",
+      "priceLow": 198,
+      "priceHigh": 290,
+      "travelWindow": "Jan 11 \u2013 Feb 2027 (JetBlue one-way $99 for Jan 11)",
+      "airlines": [
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $99 one-way seen within 24 h (RT est. ~2x; verify); no passport needed, El Yunque rainforest 1 h away.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2013_Old_San_Juan_01.JPG/3840px-2013_Old_San_Juan_01.JPG",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "El Yunque National Forest",
+          "drive": "1 h"
+        },
+        {
+          "name": "San Juan National Historic Site",
+          "drive": "In city"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Walkable Old San Juan, easy rideshare, and warm in January.",
+      "guide": {
+        "highlights": [
+          "San Juan National Historic Site: El Morro and San Crist\u00f3bal",
+          "El Yunque trails (La Mina Falls; reserve entry ahead)",
+          "Old San Juan blue cobblestone streets",
+          "Luquillo kiosks"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Old San Juan walk, El Morro at sunset",
+          "Day 2 \u2014 El Yunque morning hike, Luquillo kiosks lunch",
+          "Day 3 \u2014 Condado or Ocean Park beach, depart"
+        ],
+        "gettingAround": "Walk Old San Juan; rent a car or book a tour for El Yunque.",
+        "stayArea": "Old San Juan or Condado.",
+        "food": [
+          "Mofongo at La Mallorquina",
+          "Kiosks at Luquillo",
+          "Caf\u00e9 Cola'o"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SJU"
+    },
+    {
+      "rank": 4,
+      "destination": "Jacksonville, FL",
+      "airport": "JAX",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Dec 15 \u2013 Jan 2027 (JetBlue $100 Jan 25; Southwest $120 Dec 15, one-way)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $100 one-way seen within 24 h (RT est. ~2x; verify); Timucuan Preserve and Talbot Islands nearby.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/3840px-Jacksonville_skyline.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Timucuan Ecological & Historic Preserve",
+          "drive": "30 min"
+        },
+        {
+          "name": "Big Talbot Island State Park",
+          "drive": "35 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Beaches and parks are great solo, though the city is spread out and car-dependent.",
+      "guide": {
+        "highlights": [
+          "Big Talbot Island Boneyard Beach",
+          "Fort Caroline and Kingsley Plantation",
+          "Fernandina Beach old town",
+          "Riverside Five Points shops"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Riverside and Five Points, Riverwalk",
+          "Day 2 \u2014 Boneyard Beach at Big Talbot, Fernandina Beach",
+          "Day 3 \u2014 Neptune Beach breakfast, depart"
+        ],
+        "gettingAround": "Rent a car.",
+        "stayArea": "Riverside or Neptune Beach.",
+        "food": [
+          "Black Sheep (Five Points)",
+          "Maple Street Biscuit Company",
+          "Timoti's Seafood Shak (Fernandina)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20JAX"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 218,
+      "priceHigh": 300,
+      "travelWindow": "Jan 15 \u2013 Feb 2027 (Southwest $109, JetBlue $109 one-way)",
+      "airlines": [
+        "Southwest",
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "$109 one-way seen on both Southwest and JetBlue within 24 h (RT est. ~2x; verify); Cabrillo and Torrey Pines near the city.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Cabrillo National Monument",
+          "drive": "25 min"
+        },
+        {
+          "name": "Torrey Pines State Natural Reserve",
+          "drive": "25 min"
+        },
+        {
+          "name": "Joshua Tree NP",
+          "drive": "2.5 h"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Mild winter weather, walkable neighborhoods, trolley and easy hostels.",
+      "guide": {
+        "highlights": [
+          "Torrey Pines coastal trails",
+          "Cabrillo tide pools and lighthouse",
+          "La Jolla Cove sea lions",
+          "Balboa Park museums"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Balboa Park and Little Italy",
+          "Day 2 \u2014 Torrey Pines hike, La Jolla Cove",
+          "Day 3 \u2014 Cabrillo tide pools, depart"
+        ],
+        "gettingAround": "Trolley and rideshare cover the core; a car helps for Torrey Pines.",
+        "stayArea": "Little Italy or Ocean Beach.",
+        "food": [
+          "Fish tacos at Oscar's Mexican Seafood",
+          "Point Loma Seafoods",
+          "Ocean Beach Pier Cafe"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}
