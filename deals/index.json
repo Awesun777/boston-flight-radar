@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-24T05:51:12Z",
+  "generatedAt": "2026-11-25T05:55:00Z",
   "digests": [
+    {
+      "date": "2026-11-25",
+      "title": "DC $79 one-way, San Juan $86",
+      "destinations": [
+        "DCA",
+        "SJU",
+        "MCO",
+        "JAX",
+        "PHL"
+      ]
+    },
     {
       "date": "2026-11-24",
       "title": "DC $79 one-way, JetBlue Jan fares",
