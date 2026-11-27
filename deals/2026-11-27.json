@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T07:20:31Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 158,
+      "priceHigh": 230,
+      "travelWindow": "Jan 19 – Feb 2027 (JetBlue one-way $79 Jan 19)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $79 one-way (DCA) seen within 24 h on JetBlue's BOS page (RT est. ~2x; verify); National Mall and Rock Creek Park in town. Still the cheapest.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Rock Creek Park",
+          "drive": "15 min"
+        },
+        {
+          "name": "National Mall & Memorial Parks",
+          "drive": "10 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Safe, walkable core, free Smithsonian museums, and a Metro that reaches almost everything.",
+      "guide": {
+        "highlights": [
+          "Smithsonian museums are free (Air and Space, American History, Natural History)",
+          "Lincoln, MLK and Jefferson memorials are best at night, lit up",
+          "Rock Creek Park trails and Georgetown C&O Canal towpath",
+          "Library of Congress reading room and Capitol tour (book ahead)"
+        ],
+        "itinerary": [
+          "Day 1 — Metro in, National Mall walk: Capitol, Air and Space, Washington Monument; memorials after dark",
+          "Day 2 — Morning at American History or Natural History; afternoon Georgetown and the C&O towpath",
+          "Day 3 — Rock Creek Park loop to Peirce Mill, then Union Market for lunch"
+        ],
+        "gettingAround": "No car needed. Metro from DCA is one stop-chain to downtown (Blue/Yellow lines); buy a SmarTrip card or use phone pay.",
+        "stayArea": "Dupont Circle or Penn Quarter: Metro-adjacent, lively, and easy to walk home alone at night.",
+        "food": [
+          "Ben's Chili Bowl (half-smoke)",
+          "Union Market food hall",
+          "Rasika (Indian, Penn Quarter)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 2,
+      "destination": "San Juan, PR",
+      "airport": "SJU",
+      "priceLow": 172,
+      "priceHigh": 260,
+      "travelWindow": "Feb 8 – Feb 2027 (JetBlue one-way $86 Feb 8)",
+      "airlines": [
+        "JetBlue"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $86 one-way seen within 24 h on JetBlue's BOS page (RT est. ~2x; verify); El Yunque National Forest 1 h away, no passport needed. Unchanged.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2013_Old_San_Juan_01.JPG/3840px-2013_Old_San_Juan_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "El Yunque National Forest",
+          "drive": "1 h"
+        },
+        {
+          "name": "San Juan National Historic Site",
+          "drive": "10 min"
+        }
+      ],
+      "soloScore": 4,
+      "soloWhy": "Old San Juan is compact and walkable, US phone plans work, and there are plenty of hostels and guesthouses.",
+      "guide": {
+        "highlights": [
+          "Castillo San Felipe del Morro and San Cristóbal (one NPS ticket covers both)",
+          "Cobblestone walk along Calle Fortaleza and Paseo de la Princesa",
+          "Condado and Ocean Park beaches",
+          "El Yunque: La Mina Falls trail"
+        ],
+        "itinerary": [
+          "Day 1 — Old San Juan on foot: El Morro, San Cristóbal, sunset on the city walls",
+          "Day 2 — El Yunque morning (reserve entry in advance), Luquillo kiosks for lunch",
+          "Day 3 — Condado beach and Santurce murals, then fly out"
+        ],
+        "gettingAround": "Old San Juan and Condado are walkable; use Uber or taxis from SJU. A rental car only helps for El Yunque and the east coast.",
+        "stayArea": "Old San Juan for atmosphere, or Condado for beaches and cheaper food.",
+        "food": [
+          "Mofongo at La Cueva del Mar",
+          "Kiosks at Luquillo",
+          "Café Cola'o (coffee, Old San Juan)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SJU"
+    },
+    {
+      "rank": 3,
+      "destination": "Orlando, FL",
+      "airport": "MCO",
+      "priceLow": 182,
+      "priceHigh": 260,
+      "travelWindow": "Jan 12 – Feb 2027 (JetBlue one-way $91 Jan 12 / Feb 6)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $91 one-way seen within 24 h (RT est. ~2x; verify); Wekiwa Springs and Canaveral National Seashore within ~1 h.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando%2C_Florida_%28cropped%29.jpg/3840px-Orlando%2C_Florida_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Best as a springs-and-beaches base rather than the theme parks, and it works if you rent a car.",
+      "guide": {
+        "highlights": [
+          "Wekiwa Springs: swim in 72°F spring water, paddle the run (reservations required)",
+          "Canaveral National Seashore: Playalinda beach and Turtle Mound",
+          "Winter Park: Scenic Boat Tour and Charles Hosmer Morse Museum",
+          "Lake Eola and Thornton Park downtown"
+        ],
+        "itinerary": [
+          "Day 1 — Winter Park walk, Scenic Boat Tour, Park Avenue lunch",
+          "Day 2 — Wekiwa Springs morning paddle, then Mills 50 district for dinner",
+          "Day 3 — Drive to Canaveral National Seashore for beach and birding"
+        ],
+        "gettingAround": "Rent a car; downtown has SunRail but parks do not. Book the Wekiwa entry slot early on weekends.",
+        "stayArea": "Winter Park or Thornton Park: quieter, walkable, and near the springs.",
+        "food": [
+          "Hopping on Mills 50 for Vietnamese (Hawkers for Asian street food)",
+          "Briarpatch (Winter Park)",
+          "Se7en Bites (southern bakery)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO"
+    },
+    {
+      "rank": 4,
+      "destination": "Jacksonville, FL",
+      "airport": "JAX",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Jan 9 – Feb 2027 (JetBlue one-way $100 Jan 9 / Feb 6)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $100 one-way (RT est. ~2x; verify); Timucuan Preserve and Amelia Island beaches close by.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/3840px-Jacksonville_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Timucuan Ecological & Historic Preserve",
+          "drive": "25 min"
+        },
+        {
+          "name": "Big Talbot Island State Park",
+          "drive": "40 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Cheap, uncrowded beaches and parks, but you will want a car to reach them.",
+      "guide": {
+        "highlights": [
+          "Fort Caroline and Kingsley Plantation in the Timucuan Preserve",
+          "Big Talbot Island's Boneyard Beach",
+          "Riverside's Five Points and the Riverwalk",
+          "Jacksonville Beach pier and boardwalk"
+        ],
+        "itinerary": [
+          "Day 1 — Riverside and Five Points, Riverwalk at sunset",
+          "Day 2 — Timucuan Preserve: Kingsley Plantation, Fort Caroline, then Big Talbot Boneyard Beach",
+          "Day 3 — Jacksonville Beach morning, Fernandina Beach (30 min north) if time"
+        ],
+        "gettingAround": "Rent a car. The area is spread out and transit is thin.",
+        "stayArea": "Riverside/Five Points for cafes and walkability, or Jacksonville Beach for sea access.",
+        "food": [
+          "Mojo No. 4 BBQ",
+          "Metro Diner (Riverside)",
+          "Pele's Wood Fired Pizza"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20JAX"
+    },
+    {
+      "rank": 5,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 218,
+      "priceHigh": 300,
+      "travelWindow": "Jan 12 – Mar 2027 (JetBlue one-way $109 Jan 12 / Mar 20)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "JetBlue $109 one-way seen within 24 h (RT est. ~2x; verify); Cabrillo National Monument in town, Joshua Tree ~2.5 h away, and the best solo city of the five.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Cabrillo National Monument",
+          "drive": "25 min"
+        },
+        {
+          "name": "Anza-Borrego Desert State Park",
+          "drive": "1.5–2 h"
+        },
+        {
+          "name": "Joshua Tree NP",
+          "drive": "2.5–3 h"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Walkable neighborhoods, hostels in the Gaslamp and Pacific Beach, an easy trolley/bus network and safe daytime beach and trail options.",
+      "guide": {
+        "highlights": [
+          "Torrey Pines State Natural Reserve coastal trails (Beach Trail to Razor Point)",
+          "La Jolla Cove sea lions and the La Jolla Shores kayak launch",
+          "Balboa Park gardens and free-entry museum days",
+          "Cabrillo National Monument tide pools and Point Loma views"
+        ],
+        "itinerary": [
+          "Day 1 — Trolley downtown, Gaslamp and Seaport Village; sunset at Sunset Cliffs",
+          "Day 2 — Torrey Pines morning hike, La Jolla Cove and Shores, tacos in Pacific Beach",
+          "Day 3 — Balboa Park, then Cabrillo National Monument tide pools before an evening flight"
+        ],
+        "gettingAround": "Car optional for the city: the MTS Trolley and buses reach downtown, Old Town and Balboa Park; rent a car only for Torrey Pines, Anza-Borrego or Joshua Tree day trips.",
+        "stayArea": "Little Italy or the East Village for walkability and trolley access; Pacific Beach if you prefer a beach hostel scene.",
+        "food": [
+          "Tacos at Tacos El Gordo or Salud (Barrio Logan)",
+          "Cafe Italia or Great Maple in Little Italy",
+          "Fish tacos at Oscar's Mexican Seafood (PB)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    }
+  ]
+}

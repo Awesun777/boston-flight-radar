@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-26T05:51:07Z",
+  "generatedAt": "2026-11-27T07:20:31Z",
   "digests": [
+    {
+      "date": "2026-11-27",
+      "title": "DC $79 one-way, JetBlue Jan–Feb fares",
+      "destinations": [
+        "DCA",
+        "SJU",
+        "MCO",
+        "JAX",
+        "SAN"
+      ]
+    },
     {
       "date": "2026-11-26",
       "title": "DC $79 one-way, San Diego $109",
