@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T05:50:45Z",
+  "deals": [
+    {
+      "rank": 1,
+      "destination": "Washington, DC",
+      "airport": "DCA",
+      "priceLow": 158,
+      "priceHigh": 230,
+      "travelWindow": "Feb 6 \u2013 Feb 2027 (Southwest one-way $79 to BWI Feb 6)",
+      "airlines": [
+        "Southwest (BWI)",
+        "JetBlue (DCA)"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $79 one-way to BWI seen within 24 h (RT est. ~2x; verify); DC's Mall and Rock Creek Park are 45 min by train. Still the cheapest.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/12-07-13-washington-by-RalfR-08.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Rock Creek Park",
+          "drive": "15 min"
+        },
+        {
+          "name": "National Mall & Memorial Parks",
+          "drive": "10 min"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Safe, walkable core, free Smithsonian museums, and a Metro that reaches almost everything.",
+      "guide": {
+        "highlights": [
+          "Smithsonian museums are free (Air and Space, American History, Natural History)",
+          "Lincoln, MLK and Jefferson memorials are best at night, lit up",
+          "Rock Creek Park trails and Georgetown C&O Canal towpath",
+          "Library of Congress reading room and Capitol tour (book ahead)"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Metro in, National Mall walk: Capitol, Air and Space, Washington Monument; memorials after dark",
+          "Day 2 \u2014 Morning at American History or Natural History; afternoon Georgetown and the C&O towpath",
+          "Day 3 \u2014 Rock Creek Park loop to Peirce Mill, then Union Market for lunch"
+        ],
+        "gettingAround": "No car needed. Metro from DCA is one stop-chain to downtown (Blue/Yellow lines); buy a SmarTrip card or use phone pay.",
+        "stayArea": "Dupont Circle or Penn Quarter: Metro-adjacent, lively, and easy to walk home alone at night.",
+        "food": [
+          "Ben's Chili Bowl (half-smoke)",
+          "Union Market food hall",
+          "Rasika (Indian, Penn Quarter)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20DCA"
+    },
+    {
+      "rank": 2,
+      "destination": "Jacksonville, FL",
+      "airport": "JAX",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Jan 11 \u2013 Feb 2027 (Southwest one-way $100 Jan 11)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $100 one-way seen within 24 h (RT est. ~2x; verify); Talbot Islands and Okefenokee-area nature within reach.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/3840px-Jacksonville_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Timucuan Ecological & Historic Preserve",
+          "drive": "25 min"
+        },
+        {
+          "name": "Big Talbot Island State Park",
+          "drive": "40 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Cheap, uncrowded beaches and parks, but you will want a car to reach them.",
+      "guide": {
+        "highlights": [
+          "Fort Caroline and Kingsley Plantation in the Timucuan Preserve",
+          "Big Talbot Island's Boneyard Beach",
+          "Riverside's Five Points and the Riverwalk",
+          "Jacksonville Beach pier and boardwalk"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Riverside and Five Points, Riverwalk at sunset",
+          "Day 2 \u2014 Timucuan Preserve: Kingsley Plantation, Fort Caroline, then Big Talbot Boneyard Beach",
+          "Day 3 \u2014 Jacksonville Beach morning, Fernandina Beach (30 min north) if time"
+        ],
+        "gettingAround": "Rent a car. The area is spread out and transit is thin.",
+        "stayArea": "Riverside/Five Points for cafes and walkability, or Jacksonville Beach for sea access.",
+        "food": [
+          "Mojo No. 4 BBQ",
+          "Metro Diner (Riverside)",
+          "Pele's Wood Fired Pizza"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20JAX"
+    },
+    {
+      "rank": 3,
+      "destination": "Orlando, FL",
+      "airport": "MCO",
+      "priceLow": 200,
+      "priceHigh": 260,
+      "travelWindow": "Jan 12 \u2013 Feb 2027 (Southwest one-way $100 Feb 9)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $100 one-way seen within 24 h (RT est. ~2x; verify); easy winter sun, Canaveral National Seashore ~1 h.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando%2C_Florida_%28cropped%29.jpg/3840px-Orlando%2C_Florida_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Wekiwa Springs State Park",
+          "drive": "30 min"
+        },
+        {
+          "name": "Canaveral National Seashore",
+          "drive": "1 h"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Best as a springs-and-beaches base rather than the theme parks, and it works if you rent a car.",
+      "guide": {
+        "highlights": [
+          "Wekiwa Springs: swim in 72\u00b0F spring water, paddle the run (reservations required)",
+          "Canaveral National Seashore: Playalinda beach and Turtle Mound",
+          "Winter Park: Scenic Boat Tour and Charles Hosmer Morse Museum",
+          "Lake Eola and Thornton Park downtown"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Winter Park walk, Scenic Boat Tour, Park Avenue lunch",
+          "Day 2 \u2014 Wekiwa Springs morning paddle, then Mills 50 district for dinner",
+          "Day 3 \u2014 Drive to Canaveral National Seashore for beach and birding"
+        ],
+        "gettingAround": "Rent a car; downtown has SunRail but parks do not. Book the Wekiwa entry slot early on weekends.",
+        "stayArea": "Winter Park or Thornton Park: quieter, walkable, and near the springs.",
+        "food": [
+          "Hopping on Mills 50 for Vietnamese (Hawkers for Asian street food)",
+          "Briarpatch (Winter Park)",
+          "Se7en Bites (southern bakery)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MCO"
+    },
+    {
+      "rank": 4,
+      "destination": "San Diego, CA",
+      "airport": "SAN",
+      "priceLow": 218,
+      "priceHigh": 300,
+      "travelWindow": "Feb 22 \u2013 Mar 2027 (Southwest one-way $109 Feb 22)",
+      "airlines": [
+        "JetBlue",
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $109 one-way seen within 24 h (RT est. ~2x; verify); walkable coast and Cabrillo National Monument in town.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Cabrillo National Monument",
+          "drive": "25 min"
+        },
+        {
+          "name": "Anza-Borrego Desert State Park",
+          "drive": "1.5\u20132 h"
+        },
+        {
+          "name": "Joshua Tree NP",
+          "drive": "2.5\u20133 h"
+        }
+      ],
+      "soloScore": 5,
+      "soloWhy": "Walkable neighborhoods, hostels in the Gaslamp and Pacific Beach, an easy trolley/bus network and safe daytime beach and trail options.",
+      "guide": {
+        "highlights": [
+          "Torrey Pines State Natural Reserve coastal trails (Beach Trail to Razor Point)",
+          "La Jolla Cove sea lions and the La Jolla Shores kayak launch",
+          "Balboa Park gardens and free-entry museum days",
+          "Cabrillo National Monument tide pools and Point Loma views"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Trolley downtown, Gaslamp and Seaport Village; sunset at Sunset Cliffs",
+          "Day 2 \u2014 Torrey Pines morning hike, La Jolla Cove and Shores, tacos in Pacific Beach",
+          "Day 3 \u2014 Balboa Park, then Cabrillo National Monument tide pools before an evening flight"
+        ],
+        "gettingAround": "Car optional for the city: the MTS Trolley and buses reach downtown, Old Town and Balboa Park; rent a car only for Torrey Pines, Anza-Borrego or Joshua Tree day trips.",
+        "stayArea": "Little Italy or the East Village for walkability and trolley access; Pacific Beach if you prefer a beach hostel scene.",
+        "food": [
+          "Tacos at Tacos El Gordo or Salud (Barrio Logan)",
+          "Cafe Italia or Great Maple in Little Italy",
+          "Fish tacos at Oscar's Mexican Seafood (PB)"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20SAN"
+    },
+    {
+      "rank": 5,
+      "destination": "Myrtle Beach, SC",
+      "airport": "MYR",
+      "priceLow": 220,
+      "priceHigh": 290,
+      "travelWindow": "Feb 16 \u2013 Mar 2027 (Southwest one-way $110 Feb 16)",
+      "airlines": [
+        "Southwest"
+      ],
+      "nonstop": true,
+      "whyRanked": "Southwest $110 one-way seen within 24 h (RT est. ~2x; verify); quiet off-season beaches and Waccamaw NWR / Huntington Beach State Park nearby.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/BroadwayAtTheBeach1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imageCredit": "Wikimedia Commons",
+      "nearbyParks": [
+        {
+          "name": "Huntington Beach State Park",
+          "drive": "35 min"
+        },
+        {
+          "name": "Waccamaw National Wildlife Refuge",
+          "drive": "45 min"
+        }
+      ],
+      "soloScore": 3,
+      "soloWhy": "Off-season is calm and cheap, with a long boardwalk and easy beach walks, though a car is needed for the best spots.",
+      "guide": {
+        "highlights": [
+          "Myrtle Beach Boardwalk and SkyWheel for an easy first evening",
+          "Huntington Beach State Park: causeway alligators, birding and Atalaya Castle",
+          "Brookgreen Gardens sculpture and wildlife park",
+          "Murrells Inlet MarshWalk at sunset"
+        ],
+        "itinerary": [
+          "Day 1 \u2014 Boardwalk walk and pier at sunset; seafood dinner",
+          "Day 2 \u2014 Morning at Huntington Beach State Park, then Brookgreen Gardens",
+          "Day 3 \u2014 Murrells Inlet MarshWalk, then a drive to Pawleys Island before the flight"
+        ],
+        "gettingAround": "Rent a car; the airport is about 10 minutes from the beach and attractions are spread along Highway 17.",
+        "stayArea": "Boardwalk area for walkability, or Murrells Inlet for a quieter marsh-side base.",
+        "food": [
+          "Murrells Inlet MarshWalk seafood spots",
+          "Hot Fish Club (Murrells Inlet)",
+          "Calabash-style fried seafood"
+        ]
+      },
+      "verifyUrl": "https://www.google.com/travel/flights?q=Flights%20from%20BOS%20to%20MYR"
+    }
+  ]
+}
